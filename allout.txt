@@ -4,14 +4,14 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Do 26. Dez 22:03:28 CET 2024
+Current date and time: Fr 27. Dez 11:02:25 CET 2024
 Current folder: /
 
-|CREATE_Log                                                         241226-22_03_53|
+|CREATE_Log                                                         241227-11_02_45|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-  0%|          | 0/7 [00:00<?, ?it/s]  0%|          | 0/7 [00:10<?, ?it/s]
+  0%|          | 0/7 [00:00<?, ?it/s]  0%|          | 0/7 [00:15<?, ?it/s]
 Traceback (most recent call last):
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connection.py", line 174, in _new_conn
     conn = connection.create_connection(
@@ -39,7 +39,7 @@ Traceback (most recent call last):
                        ^^^^^^^^^^^^^^^^
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connection.py", line 186, in _new_conn
     raise NewConnectionError(
-urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7e90afe4b7d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7fe60dba73d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
 
 During handling of the above exception, another exception occurred:
 
@@ -52,7 +52,7 @@ Traceback (most recent call last):
               ^^^^^^^^^^^^^^^^^^
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
     raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='strom-muc.de', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e90afe4b7d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='strom-muc.de', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe60dba73d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
 
 During handling of the above exception, another exception occurred:
 
@@ -82,4 +82,4 @@ Traceback (most recent call last):
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 519, in send
     raise ConnectionError(e, request=request)
-requests.exceptions.ConnectionError: HTTPSConnectionPool(host='strom-muc.de', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e90afe4b7d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='strom-muc.de', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe60dba73d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
