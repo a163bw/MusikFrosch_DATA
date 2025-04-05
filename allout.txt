@@ -4,92 +4,82 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Sa 5. Apr 15:21:10 CEST 2025
+Current date and time: Sa 5. Apr 18:10:45 CEST 2025
 Current folder: /
 
-|CREATE_Log                                                         250405-15_21_25|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:01<00:08,  1.48s/it] 29%|██▊       | 2/7 [00:02<00:05,  1.09s/it] 43%|████▎     | 3/7 [00:04<00:06,  1.72s/it] 57%|█████▋    | 4/7 [00:06<00:04,  1.64s/it] 71%|███████▏  | 5/7 [00:20<00:12,  6.21s/it] 86%|████████▌ | 6/7 [00:22<00:04,  4.79s/it]100%|██████████| 7/7 [00:43<00:00, 10.10s/it]100%|██████████| 7/7 [00:43<00:00,  6.24s/it]
-  0%|          | 0/3008 [00:00<?, ?it/s]  0%|          | 14/3008 [00:00<02:07, 23.41it/s]  1%|          | 18/3008 [00:01<04:03, 12.28it/s]  1%|          | 22/3008 [00:01<05:07,  9.71it/s]  1%|          | 25/3008 [00:02<06:09,  8.08it/s]  1%|          | 27/3008 [00:03<07:46,  6.39it/s]  1%|          | 29/3008 [00:04<15:49,  3.14it/s]  1%|          | 36/3008 [00:05<09:49,  5.04it/s]  1%|▏         | 45/3008 [00:07<09:09,  5.39it/s]  2%|▏         | 46/3008 [00:07<11:12,  4.40it/s]  2%|▏         | 47/3008 [00:08<13:17,  3.71it/s]  2%|▏         | 48/3008 [00:09<15:35,  3.16it/s]  2%|▏         | 50/3008 [00:09<15:08,  3.25it/s]  2%|▏         | 56/3008 [00:11<13:20,  3.69it/s]  3%|▎         | 78/3008 [00:11<04:33, 10.72it/s]  3%|▎         | 82/3008 [00:12<04:53,  9.96it/s]  3%|▎         | 85/3008 [00:12<05:32,  8.78it/s]  3%|▎         | 89/3008 [00:13<06:05,  7.99it/s]  3%|▎         | 90/3008 [00:14<07:29,  6.49it/s]  3%|▎         | 91/3008 [00:15<14:17,  3.40it/s]  3%|▎         | 92/3008 [00:17<20:16,  2.40it/s]  3%|▎         | 94/3008 [00:17<19:13,  2.53it/s]  3%|▎         | 101/3008 [00:18<10:51,  4.46it/s]  4%|▎         | 107/3008 [00:18<08:13,  5.88it/s]  4%|▎         | 109/3008 [00:19<09:01,  5.36it/s]  4%|▍         | 118/3008 [00:20<05:50,  8.26it/s]  4%|▍         | 126/3008 [00:21<07:28,  6.42it/s]  4%|▍         | 127/3008 [00:22<08:54,  5.39it/s]  5%|▍         | 139/3008 [00:22<05:23,  8.88it/s]  5%|▍         | 141/3008 [00:24<08:52,  5.38it/s]  5%|▍         | 142/3008 [00:25<12:21,  3.87it/s]  5%|▍         | 148/3008 [00:26<09:20,  5.10it/s]  5%|▌         | 151/3008 [00:26<09:09,  5.20it/s]  5%|▌         | 155/3008 [00:27<08:18,  5.72it/s]  6%|▌         | 166/3008 [00:27<05:07,  9.24it/s]  6%|▌         | 177/3008 [00:29<05:58,  7.89it/s]  6%|▌         | 182/3008 [00:30<07:12,  6.54it/s]  6%|▌         | 186/3008 [00:32<09:51,  4.77it/s]  7%|▋         | 196/3008 [00:33<08:04,  5.80it/s]  7%|▋         | 205/3008 [00:34<06:16,  7.45it/s]  8%|▊         | 227/3008 [00:35<04:20, 10.67it/s]  8%|▊         | 235/3008 [00:36<04:02, 11.42it/s]  8%|▊         | 237/3008 [00:36<04:56,  9.33it/s]  8%|▊         | 240/3008 [00:38<07:19,  6.29it/s]  8%|▊         | 243/3008 [00:39<10:34,  4.36it/s]  8%|▊         | 244/3008 [00:40<11:56,  3.86it/s]  8%|▊         | 248/3008 [00:41<10:29,  4.38it/s]  8%|▊         | 252/3008 [00:41<09:28,  4.85it/s]  9%|▊         | 260/3008 [00:42<06:40,  6.85it/s]  9%|▊         | 262/3008 [00:43<07:49,  5.85it/s]  9%|▊         | 263/3008 [00:43<09:21,  4.88it/s]  9%|▉         | 265/3008 [00:45<18:12,  2.51it/s]  9%|▉         | 269/3008 [00:47<18:00,  2.53it/s]  9%|▉         | 281/3008 [00:49<10:55,  4.16it/s]  9%|▉         | 285/3008 [00:49<09:48,  4.63it/s] 10%|▉         | 288/3008 [00:50<09:34,  4.74it/s] 10%|▉         | 294/3008 [00:50<07:36,  5.94it/s] 10%|█         | 305/3008 [00:51<05:00,  9.01it/s] 10%|█         | 308/3008 [00:53<08:03,  5.59it/s] 10%|█         | 310/3008 [00:54<11:56,  3.76it/s] 10%|█         | 311/3008 [00:55<15:54,  2.83it/s] 10%|█         | 314/3008 [00:56<13:48,  3.25it/s] 11%|█         | 318/3008 [00:57<14:41,  3.05it/s] 11%|█         | 319/3008 [00:58<15:49,  2.83it/s] 11%|█         | 323/3008 [00:59<14:45,  3.03it/s] 11%|█         | 325/3008 [01:00<17:26,  2.56it/s] 11%|█         | 328/3008 [01:01<14:59,  2.98it/s] 11%|█         | 337/3008 [01:02<08:08,  5.47it/s] 11%|█▏        | 341/3008 [01:03<08:26,  5.27it/s] 11%|█▏        | 342/3008 [01:04<12:59,  3.42it/s] 12%|█▏        | 346/3008 [01:05<13:57,  3.18it/s] 12%|█▏        | 347/3008 [01:07<21:53,  2.03it/s] 12%|█▏        | 348/3008 [01:08<22:59,  1.93it/s] 12%|█▏        | 353/3008 [01:10<20:34,  2.15it/s] 12%|█▏        | 357/3008 [01:11<15:22,  2.87it/s] 12%|█▏        | 359/3008 [01:12<19:18,  2.29it/s] 12%|█▏        | 360/3008 [01:13<20:36,  2.14it/s] 13%|█▎        | 379/3008 [01:13<05:22,  8.15it/s] 13%|█▎        | 382/3008 [01:14<05:53,  7.43it/s] 13%|█▎        | 385/3008 [01:15<07:37,  5.73it/s] 13%|█▎        | 391/3008 [01:16<06:50,  6.37it/s] 13%|█▎        | 394/3008 [01:16<07:01,  6.19it/s] 13%|█▎        | 395/3008 [01:17<08:22,  5.20it/s] 13%|█▎        | 397/3008 [01:18<13:20,  3.26it/s] 13%|█▎        | 401/3008 [01:19<10:40,  4.07it/s] 13%|█▎        | 403/3008 [01:20<15:04,  2.88it/s] 14%|█▎        | 409/3008 [01:21<09:53,  4.38it/s] 14%|█▍        | 419/3008 [01:22<05:55,  7.29it/s] 14%|█▍        | 422/3008 [01:22<06:40,  6.45it/s] 14%|█▍        | 423/3008 [01:23<08:03,  5.35it/s] 14%|█▍        | 434/3008 [01:24<06:40,  6.43it/s] 14%|█▍        | 435/3008 [01:26<12:31,  3.42it/s] 15%|█▍        | 438/3008 [01:28<14:33,  2.94it/s] 15%|█▌        | 452/3008 [01:30<08:47,  4.84it/s] 15%|█▌        | 456/3008 [01:30<08:14,  5.17it/s] 15%|█▌        | 458/3008 [01:32<13:17,  3.20it/s] 15%|█▌        | 459/3008 [01:34<15:59,  2.66it/s] 15%|█▌        | 460/3008 [01:35<19:30,  2.18it/s] 15%|█▌        | 464/3008 [01:36<17:05,  2.48it/s] 16%|█▌        | 470/3008 [01:37<11:43,  3.61it/s] 16%|█▌        | 471/3008 [01:37<12:47,  3.30it/s] 16%|█▌        | 473/3008 [01:38<13:11,  3.20it/s] 16%|█▌        | 474/3008 [01:38<14:49,  2.85it/s] 16%|█▌        | 485/3008 [01:40<08:37,  4.88it/s] 16%|█▋        | 490/3008 [01:41<07:40,  5.47it/s] 16%|█▋        | 493/3008 [01:42<09:38,  4.34it/s] 17%|█▋        | 499/3008 [01:42<07:24,  5.64it/s] 17%|█▋        | 503/3008 [01:43<07:13,  5.78it/s] 17%|█▋        | 508/3008 [01:44<08:20,  4.99it/s] 17%|█▋        | 514/3008 [01:45<06:44,  6.16it/s] 17%|█▋        | 515/3008 [01:47<11:32,  3.60it/s] 18%|█▊        | 528/3008 [01:48<07:13,  5.73it/s] 18%|█▊        | 537/3008 [01:48<05:34,  7.39it/s] 18%|█▊        | 542/3008 [01:49<05:17,  7.76it/s] 18%|█▊        | 546/3008 [01:51<07:45,  5.29it/s] 18%|█▊        | 548/3008 [01:51<08:14,  4.98it/s] 18%|█▊        | 550/3008 [01:52<08:56,  4.58it/s] 19%|█▊        | 558/3008 [01:53<08:29,  4.81it/s] 19%|█▊        | 560/3008 [01:54<08:55,  4.57it/s] 19%|█▊        | 562/3008 [01:55<09:37,  4.24it/s] 19%|█▉        | 564/3008 [01:56<11:58,  3.40it/s] 19%|█▉        | 565/3008 [01:56<13:25,  3.03it/s] 19%|█▉        | 566/3008 [01:57<16:00,  2.54it/s] 19%|█▉        | 567/3008 [01:58<17:50,  2.28it/s] 19%|█▉        | 567/3008 [01:58<08:31,  4.77it/s]
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-25--1
-https://backstage.eu/michael-holtschulte-tot-aber-lustig-das-ende-ist-nah.html
-https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/fenix-renacer-spanisches-munchen-4ZD6IH
-|time data 'October 8, 2024 - 19:30' does not match format '%d. %B %Y - %H:%M'     |
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-04-
-https://backstage.eu/fall-of-man-2024.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-10-04--9
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-02-vernissage
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-12-liveshow-ii-von-ii
-https://backstage.eu/4-feinde-road-to-glory.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-28--1
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-28-munich-hardcore-festival-2024
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-24-
-https://rausgegangen.de/events/long-tall-jefferson-old-sun-new-horizon-tour-2025-1/
-https://bit.ly/fuzzmuc
-|time data 'January 17, 2025 - 20:00' does not match format '%d. %B %Y - %H:%M'    |
-https://import-export.cc/event/musik-beim-mittagstisch/
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-10-
-https://heppel-ettlich.de/openstage.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-17--1
-https://backstage.eu/one-step-closer-a-tribute-to-linkin-park.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-17-
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-28-finta-music-networking-brunch
-https://backstage.eu/sascha-salvati-country-sunday.html
-https://backstage.eu/call-the-cops-inkl-fuck-off-2024-silvester-party.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-04-
-  0%|          | 0/3008 [00:00<?, ?it/s]  5%|▌         | 165/3008 [00:00<00:11, 257.87it/s]  6%|▋         | 191/3008 [00:01<00:30, 91.31it/s]   8%|▊         | 237/3008 [00:02<00:32, 85.60it/s] 19%|█▉        | 575/3008 [00:02<00:09, 264.57it/s] 21%|██        | 633/3008 [00:03<00:10, 223.52it/s] 27%|██▋       | 813/3008 [00:05<00:15, 142.28it/s] 29%|██▉       | 886/3008 [00:05<00:14, 144.37it/s] 38%|███▊      | 1154/3008 [00:06<00:08, 230.28it/s] 39%|███▉      | 1185/3008 [00:06<00:09, 193.29it/s] 41%|████      | 1226/3008 [00:07<00:13, 133.34it/s] 42%|████▏     | 1265/3008 [00:08<00:14, 121.79it/s] 46%|████▌     | 1391/3008 [00:08<00:10, 155.93it/s] 50%|████▉     | 1490/3008 [00:09<00:08, 169.10it/s] 68%|██████▊   | 2043/3008 [00:09<00:02, 427.70it/s] 69%|██████▉   | 2090/3008 [00:10<00:02, 335.23it/s] 71%|███████   | 2126/3008 [00:10<00:03, 261.23it/s] 75%|███████▍  | 2241/3008 [00:11<00:03, 232.65it/s] 77%|███████▋  | 2307/3008 [00:14<00:09, 72.68it/s]  77%|███████▋  | 2325/3008 [00:16<00:12, 53.02it/s] 78%|███████▊  | 2356/3008 [00:17<00:12, 52.28it/s] 80%|███████▉  | 2400/3008 [00:17<00:10, 55.58it/s] 80%|████████  | 2410/3008 [00:18<00:11, 50.14it/s] 80%|████████  | 2418/3008 [00:19<00:14, 39.58it/s] 81%|████████  | 2443/3008 [00:19<00:14, 38.42it/s] 83%|████████▎ | 2511/3008 [00:20<00:08, 59.35it/s] 84%|████████▍ | 2523/3008 [00:28<00:42, 11.30it/s] 85%|████████▌ | 2565/3008 [00:28<00:27, 16.28it/s] 86%|████████▌ | 2577/3008 [00:29<00:25, 17.04it/s] 86%|████████▌ | 2593/3008 [00:29<00:23, 18.01it/s] 86%|████████▋ | 2598/3008 [00:30<00:24, 17.08it/s] 87%|████████▋ | 2614/3008 [00:31<00:21, 18.53it/s] 87%|████████▋ | 2629/3008 [00:32<00:23, 16.32it/s] 89%|████████▊ | 2665/3008 [00:32<00:13, 26.00it/s] 89%|████████▉ | 2684/3008 [00:33<00:12, 26.76it/s] 89%|████████▉ | 2688/3008 [00:35<00:23, 13.85it/s] 90%|█████████ | 2708/3008 [00:36<00:17, 17.24it/s] 90%|█████████ | 2711/3008 [00:38<00:34,  8.70it/s] 90%|█████████ | 2717/3008 [00:39<00:31,  9.18it/s] 92%|█████████▏| 2755/3008 [00:39<00:13, 18.48it/s] 93%|█████████▎| 2796/3008 [00:40<00:07, 27.24it/s] 94%|█████████▍| 2835/3008 [00:41<00:04, 35.32it/s] 96%|█████████▌| 2886/3008 [00:41<00:02, 46.73it/s] 96%|█████████▌| 2892/3008 [00:42<00:03, 31.25it/s] 96%|█████████▋| 2897/3008 [00:43<00:04, 27.38it/s] 97%|█████████▋| 2924/3008 [00:43<00:02, 33.69it/s] 98%|█████████▊| 2942/3008 [00:44<00:02, 32.09it/s]100%|█████████▉| 2994/3008 [00:45<00:00, 50.67it/s]100%|█████████▉| 3004/3008 [00:45<00:00, 39.25it/s]100%|██████████| 3008/3008 [00:45<00:00, 65.87it/s]
-  0%|          | 0/3008 [00:00<?, ?it/s]  0%|          | 8/3008 [00:00<04:04, 12.27it/s]  7%|▋         | 206/3008 [00:01<00:16, 172.30it/s] 22%|██▏       | 662/3008 [00:01<00:04, 469.25it/s] 25%|██▍       | 747/3008 [00:02<00:06, 375.18it/s] 26%|██▌       | 789/3008 [00:03<00:13, 170.28it/s] 33%|███▎      | 992/3008 [00:04<00:08, 231.51it/s] 45%|████▌     | 1357/3008 [00:04<00:04, 366.99it/s] 47%|████▋     | 1406/3008 [00:07<00:13, 118.21it/s] 48%|████▊     | 1440/3008 [00:08<00:15, 100.80it/s] 49%|████▊     | 1465/3008 [00:10<00:20, 74.08it/s]  49%|████▉     | 1483/3008 [00:11<00:27, 54.90it/s] 50%|████▉     | 1500/3008 [00:11<00:28, 52.59it/s] 53%|█████▎    | 1587/3008 [00:12<00:19, 74.23it/s] 54%|█████▎    | 1616/3008 [00:12<00:19, 72.02it/s] 64%|██████▍   | 1935/3008 [00:13<00:05, 200.60it/s] 68%|██████▊   | 2049/3008 [00:14<00:05, 173.94it/s] 77%|███████▋  | 2307/3008 [00:16<00:05, 138.14it/s] 79%|███████▉  | 2378/3008 [00:16<00:04, 140.25it/s] 80%|███████▉  | 2397/3008 [00:17<00:04, 124.42it/s] 80%|████████  | 2418/3008 [00:17<00:05, 108.74it/s] 81%|████████  | 2443/3008 [00:18<00:06, 89.52it/s]  84%|████████▍ | 2523/3008 [00:23<00:13, 35.45it/s] 84%|████████▍ | 2530/3008 [00:23<00:14, 33.53it/s] 87%|████████▋ | 2614/3008 [00:24<00:08, 48.79it/s] 87%|████████▋ | 2629/3008 [00:25<00:09, 39.95it/s] 89%|████████▉ | 2684/3008 [00:25<00:06, 50.98it/s] 89%|████████▉ | 2692/3008 [00:27<00:10, 30.41it/s] 90%|████████▉ | 2698/3008 [00:28<00:11, 28.10it/s] 90%|█████████ | 2708/3008 [00:28<00:12, 24.98it/s] 90%|█████████ | 2712/3008 [00:30<00:20, 14.62it/s] 92%|█████████▏| 2755/3008 [00:30<00:09, 25.77it/s] 93%|█████████▎| 2796/3008 [00:31<00:05, 36.42it/s] 93%|█████████▎| 2802/3008 [00:32<00:07, 26.90it/s] 94%|█████████▍| 2835/3008 [00:32<00:05, 34.58it/s] 96%|█████████▌| 2886/3008 [00:33<00:02, 49.66it/s] 96%|█████████▌| 2894/3008 [00:33<00:02, 42.64it/s] 98%|█████████▊| 2942/3008 [00:34<00:01, 56.75it/s]100%|█████████▉| 3004/3008 [00:34<00:00, 75.67it/s]100%|██████████| 3008/3008 [00:34<00:00, 86.44it/s]
-  0%|          | 0/3008 [00:00<?, ?it/s] 16%|█▌        | 479/3008 [00:00<00:00, 4781.51it/s] 60%|█████▉    | 1791/3008 [00:00<00:00, 9679.77it/s] 92%|█████████▏| 2760/3008 [00:00<00:00, 9659.01it/s]100%|██████████| 3008/3008 [00:00<00:00, 9614.57it/s]
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
 
+During handling of the above exception, another exception occurred:
 
-|CREATE_Log                                                         250405-15_21_25|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|time data 'October 8, 2024 - 19:30' does not match format '%d. %B %Y - %H:%M'     |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'event' object has no attribute 'rausgegangen'                                    |
-|time data 'January 17, 2025 - 20:00' does not match format '%d. %B %Y - %H:%M'    |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'event' object has no attribute 'heppel_ettlich'                                  |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    5|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    9|sta: DONE|
-|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-|early bird | MusikFrosch_MUC updated                | rm:    0|add:    6|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:    0|add:    5|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:    0|add:    5|sta: DONE|
-|finished                                                      |len: 3008|sta: DONE|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    5|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage next year!  Last update:                                        2025/04/05, 15:25:34
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    9|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2025/04/05, 15:25:41
-|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2025/04/05, 15:25:47
-|early bird | MusikFrosch_MUC updated                | rm:    0|add:    6|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2025/04/05, 15:25:54
-|MusikFrosch_MC_test updated                         | rm:    0|add:    5|sta: DONE|
-test_palylist  Last update:                                        2025/04/05, 15:26:02
-|MusikFrosch_MUC updated                             | rm:    0|add:    5|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2025/04/05, 15:26:09
-|finished                                                      |len: 3008|sta: DONE|
-/home/a163/GitRepo/musikfrosch_mc/LOG/250405-15_21_25_root_log.txt
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 403, in _make_request
+    self._validate_conn(conn)
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1053, in _validate_conn
+    conn.connect()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7255f4528b50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7255f4528b50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 25, in <module>
+    import scrapers as s
+  File "/home/a163/GitRepo/musikfrosch_mc/scrapers.py", line 17, in <module>
+    import class_dictionary as cd
+  File "/home/a163/GitRepo/musikfrosch_mc/class_dictionary.py", line 23, in <module>
+    SP_a163 = spot.spotfy_class(a163_LOGIN, SCOPE)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/GitRepo/musikfrosch_mc/spotypys.py", line 54, in __init__
+    token = util.prompt_for_user_token(username=SP_LOGIN[0],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/util.py", line 96, in prompt_for_user_token
+    token_info = sp_oauth.validate_token(sp_oauth.cache_handler.get_cached_token())
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 380, in validate_token
+    token_info = self.refresh_access_token(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 581, in refresh_access_token
+    response = self._session.post(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7255f4528b50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
