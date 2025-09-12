@@ -4,163 +4,124 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Fr 12. Sep 12:05:01 CEST 2025
+Current date and time: Fr 12. Sep 18:18:28 CEST 2025
 Current folder: /
 
-|CREATE_Log                                                         250912-12_05_16|
+|CREATE_Log                                                         250912-18_18_44|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:01<00:08,  1.36s/it] 29%|██▊       | 2/7 [00:02<00:05,  1.17s/it] 43%|████▎     | 3/7 [00:05<00:07,  1.94s/it] 57%|█████▋    | 4/7 [00:07<00:05,  2.00s/it] 71%|███████▏  | 5/7 [00:38<00:25, 12.55s/it] 86%|████████▌ | 6/7 [00:40<00:09,  9.01s/it]100%|██████████| 7/7 [01:37<00:00, 24.54s/it]100%|██████████| 7/7 [01:37<00:00, 13.90s/it]
-  0%|          | 0/4155 [00:00<?, ?it/s]  0%|          | 2/4155 [00:01<38:27,  1.80it/s]  0%|          | 5/4155 [00:01<21:42,  3.19it/s]  0%|          | 6/4155 [00:03<43:16,  1.60it/s]  0%|          | 9/4155 [00:04<33:36,  2.06it/s]  1%|          | 23/4155 [00:05<10:11,  6.75it/s]  1%|          | 26/4155 [00:05<10:20,  6.65it/s]  1%|          | 30/4155 [00:06<11:39,  5.90it/s]  1%|          | 31/4155 [00:08<23:56,  2.87it/s]  1%|          | 45/4155 [00:09<11:59,  5.72it/s]  2%|▏         | 69/4155 [00:10<06:36, 10.32it/s]  2%|▏         | 71/4155 [00:11<07:12,  9.44it/s]  2%|▏         | 75/4155 [00:12<08:43,  7.79it/s]  2%|▏         | 80/4155 [00:16<18:34,  3.65it/s]  2%|▏         | 82/4155 [00:16<18:21,  3.70it/s]  2%|▏         | 91/4155 [00:18<15:42,  4.31it/s]  2%|▏         | 99/4155 [00:19<13:23,  5.05it/s]  3%|▎         | 104/4155 [00:19<11:39,  5.79it/s]  3%|▎         | 110/4155 [00:20<10:36,  6.35it/s]  3%|▎         | 111/4155 [00:20<11:51,  5.69it/s]  3%|▎         | 113/4155 [00:22<18:14,  3.69it/s]  3%|▎         | 114/4155 [00:24<27:52,  2.42it/s]  3%|▎         | 116/4155 [00:25<31:47,  2.12it/s]  3%|▎         | 120/4155 [00:26<23:08,  2.91it/s]  3%|▎         | 122/4155 [00:26<22:18,  3.01it/s]  3%|▎         | 142/4155 [00:27<06:52,  9.73it/s]  4%|▎         | 146/4155 [00:28<09:47,  6.82it/s]  4%|▍         | 165/4155 [00:29<06:33, 10.14it/s]  4%|▍         | 169/4155 [00:31<08:27,  7.86it/s]  4%|▍         | 173/4155 [00:31<08:21,  7.95it/s]  4%|▍         | 176/4155 [00:33<13:21,  4.97it/s]  4%|▍         | 181/4155 [00:33<11:22,  5.82it/s]  4%|▍         | 182/4155 [00:35<17:47,  3.72it/s]  5%|▍         | 188/4155 [00:36<16:25,  4.03it/s]  5%|▍         | 192/4155 [00:37<15:59,  4.13it/s]  5%|▍         | 193/4155 [00:38<22:32,  2.93it/s]  5%|▍         | 194/4155 [00:39<25:07,  2.63it/s]  5%|▍         | 195/4155 [00:41<37:48,  1.75it/s]  5%|▍         | 200/4155 [00:41<22:29,  2.93it/s]  5%|▍         | 203/4155 [00:42<20:16,  3.25it/s]  5%|▌         | 212/4155 [00:43<11:50,  5.55it/s]  5%|▌         | 213/4155 [00:45<21:23,  3.07it/s]  5%|▌         | 215/4155 [00:46<26:42,  2.46it/s]  5%|▌         | 219/4155 [00:48<26:45,  2.45it/s]  5%|▌         | 222/4155 [00:48<22:07,  2.96it/s]  6%|▌         | 230/4155 [00:50<15:36,  4.19it/s]  6%|▌         | 231/4155 [00:50<17:15,  3.79it/s]  6%|▌         | 232/4155 [00:51<23:47,  2.75it/s]  6%|▌         | 240/4155 [00:52<12:40,  5.15it/s]  6%|▌         | 241/4155 [00:52<15:47,  4.13it/s]  6%|▌         | 254/4155 [00:54<09:55,  6.55it/s]  6%|▌         | 257/4155 [00:55<11:14,  5.78it/s]  7%|▋         | 273/4155 [00:55<06:38,  9.74it/s]  7%|▋         | 277/4155 [00:57<10:16,  6.29it/s]  7%|▋         | 287/4155 [00:58<09:35,  6.72it/s]  7%|▋         | 290/4155 [00:59<09:36,  6.71it/s]  7%|▋         | 293/4155 [00:59<09:53,  6.51it/s]  7%|▋         | 298/4155 [01:01<12:01,  5.35it/s]  7%|▋         | 308/4155 [01:02<10:29,  6.11it/s]  8%|▊         | 322/4155 [01:03<07:48,  8.19it/s]  8%|▊         | 339/4155 [01:04<05:05, 12.49it/s]  8%|▊         | 345/4155 [01:04<05:10, 12.29it/s]  8%|▊         | 347/4155 [01:06<09:25,  6.74it/s]  8%|▊         | 349/4155 [01:11<26:16,  2.41it/s]  8%|▊         | 351/4155 [01:13<28:47,  2.20it/s]  9%|▊         | 358/4155 [01:14<20:17,  3.12it/s]  9%|▊         | 363/4155 [01:15<20:33,  3.07it/s]  9%|▉         | 365/4155 [01:16<20:38,  3.06it/s]  9%|▉         | 366/4155 [01:17<21:34,  2.93it/s]  9%|▉         | 380/4155 [01:18<12:31,  5.02it/s]  9%|▉         | 384/4155 [01:24<27:52,  2.26it/s]  9%|▉         | 388/4155 [01:26<29:07,  2.16it/s] 10%|▉         | 396/4155 [01:26<19:35,  3.20it/s] 10%|▉         | 398/4155 [01:27<19:56,  3.14it/s] 10%|▉         | 406/4155 [01:28<15:05,  4.14it/s] 10%|▉         | 414/4155 [01:30<13:28,  4.63it/s] 10%|█         | 422/4155 [01:32<14:35,  4.27it/s] 10%|█         | 426/4155 [01:32<13:43,  4.53it/s] 10%|█         | 430/4155 [01:34<16:41,  3.72it/s] 10%|█         | 433/4155 [01:35<17:22,  3.57it/s] 11%|█         | 438/4155 [01:36<15:36,  3.97it/s] 11%|█         | 442/4155 [01:37<16:33,  3.74it/s] 11%|█         | 444/4155 [01:38<17:42,  3.49it/s] 11%|█         | 447/4155 [01:39<19:47,  3.12it/s] 11%|█         | 449/4155 [01:41<25:48,  2.39it/s] 11%|█         | 456/4155 [01:42<18:50,  3.27it/s] 11%|█         | 462/4155 [02:47<4:19:22,  4.21s/it] 11%|█▏        | 469/4155 [02:48<2:43:27,  2.66s/it] 12%|█▏        | 479/4155 [02:50<1:36:24,  1.57s/it] 12%|█▏        | 481/4155 [02:58<1:52:18,  1.83s/it] 12%|█▏        | 482/4155 [02:59<1:49:06,  1.78s/it] 12%|█▏        | 483/4155 [03:00<1:46:23,  1.74s/it] 12%|█▏        | 494/4155 [03:02<47:31,  1.28it/s]   12%|█▏        | 497/4155 [03:02<40:54,  1.49it/s] 12%|█▏        | 512/4155 [03:03<20:23,  2.98it/s] 12%|█▏        | 514/4155 [03:04<20:35,  2.95it/s] 13%|█▎        | 527/4155 [03:05<12:34,  4.81it/s] 13%|█▎        | 530/4155 [03:06<13:06,  4.61it/s] 13%|█▎        | 532/4155 [03:07<14:05,  4.29it/s] 13%|█▎        | 541/4155 [03:07<09:27,  6.37it/s] 13%|█▎        | 544/4155 [03:08<10:01,  6.01it/s] 13%|█▎        | 547/4155 [03:11<22:22,  2.69it/s] 13%|█▎        | 548/4155 [03:12<23:37,  2.54it/s] 14%|█▎        | 562/4155 [03:13<10:21,  5.78it/s] 14%|█▎        | 564/4155 [03:14<12:32,  4.77it/s] 14%|█▎        | 569/4155 [03:14<11:34,  5.16it/s] 14%|█▎        | 570/4155 [03:15<15:03,  3.97it/s] 14%|█▍        | 583/4155 [03:16<08:01,  7.41it/s] 14%|█▍        | 585/4155 [03:17<09:31,  6.24it/s] 14%|█▍        | 586/4155 [03:18<13:12,  4.50it/s] 14%|█▍        | 601/4155 [03:19<09:09,  6.47it/s] 15%|█▍        | 607/4155 [03:20<07:56,  7.44it/s] 15%|█▍        | 609/4155 [03:22<13:51,  4.26it/s] 15%|█▍        | 615/4155 [03:23<12:08,  4.86it/s] 15%|█▌        | 629/4155 [03:24<08:43,  6.74it/s] 15%|█▌        | 634/4155 [03:25<08:01,  7.31it/s] 15%|█▌        | 638/4155 [03:26<09:13,  6.36it/s] 15%|█▌        | 639/4155 [03:26<10:46,  5.44it/s] 16%|█▌        | 648/4155 [03:27<07:12,  8.11it/s] 16%|█▌        | 655/4155 [03:27<06:39,  8.77it/s] 16%|█▌        | 660/4155 [03:28<06:46,  8.60it/s] 16%|█▌        | 661/4155 [03:29<10:58,  5.30it/s] 16%|█▌        | 664/4155 [03:30<11:22,  5.11it/s] 16%|█▌        | 666/4155 [03:30<12:12,  4.76it/s] 16%|█▌        | 673/4155 [03:31<08:43,  6.66it/s] 16%|█▋        | 685/4155 [03:33<10:13,  5.65it/s] 17%|█▋        | 687/4155 [03:34<10:55,  5.29it/s] 17%|█▋        | 689/4155 [03:35<12:15,  4.71it/s] 17%|█▋        | 692/4155 [03:38<24:31,  2.35it/s] 17%|█▋        | 701/4155 [03:39<14:28,  3.98it/s] 17%|█▋        | 704/4155 [03:39<13:56,  4.12it/s] 17%|█▋        | 715/4155 [03:41<11:13,  5.11it/s] 17%|█▋        | 717/4155 [03:41<11:42,  4.90it/s] 17%|█▋        | 722/4155 [03:43<12:28,  4.59it/s] 18%|█▊        | 729/4155 [03:43<09:52,  5.78it/s] 18%|█▊        | 732/4155 [03:44<10:27,  5.45it/s] 18%|█▊        | 735/4155 [03:45<13:03,  4.36it/s] 18%|█▊        | 736/4155 [03:47<20:35,  2.77it/s] 18%|█▊        | 737/4155 [03:47<21:20,  2.67it/s] 18%|█▊        | 743/4155 [03:49<17:33,  3.24it/s] 18%|█▊        | 744/4155 [03:50<23:58,  2.37it/s] 18%|█▊        | 747/4155 [03:52<27:11,  2.09it/s] 18%|█▊        | 748/4155 [03:53<27:19,  2.08it/s] 18%|█▊        | 750/4155 [03:53<24:05,  2.36it/s] 18%|█▊        | 768/4155 [03:54<06:32,  8.63it/s] 19%|█▉        | 786/4155 [03:56<06:22,  8.81it/s] 19%|█▉        | 792/4155 [03:57<08:17,  6.76it/s] 19%|█▉        | 795/4155 [03:58<08:28,  6.60it/s] 19%|█▉        | 798/4155 [03:58<08:43,  6.42it/s] 19%|█▉        | 801/4155 [03:59<08:58,  6.23it/s] 20%|█▉        | 812/4155 [04:00<08:20,  6.67it/s] 20%|█▉        | 816/4155 [04:01<07:52,  7.07it/s] 20%|█▉        | 828/4155 [04:02<05:57,  9.30it/s] 20%|██        | 834/4155 [04:02<05:32, 10.00it/s] 20%|██        | 845/4155 [04:03<04:49, 11.42it/s] 20%|██        | 845/4155 [04:04<15:57,  3.46it/s]
-https://backstage.eu/call-the-cops-inkl-fuck-off-2024-silvester-party.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/04-12-2024_reggae-jam-02d86673-19d2-4c8f-865e-c0001993adc6
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-20--1
-https://backstage.eu/cody-pennington-country-show-live-2025.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-23--1
+  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:01<00:06,  1.15s/it] 29%|██▊       | 2/7 [00:02<00:05,  1.09s/it] 43%|████▎     | 3/7 [00:04<00:07,  1.78s/it] 57%|█████▋    | 4/7 [00:06<00:05,  1.87s/it] 71%|███████▏  | 5/7 [00:37<00:24, 12.24s/it] 86%|████████▌ | 6/7 [00:39<00:08,  8.79s/it]100%|██████████| 7/7 [01:32<00:00, 23.21s/it]100%|██████████| 7/7 [01:32<00:00, 13.20s/it]
+  0%|          | 0/4157 [00:00<?, ?it/s]  0%|          | 2/4157 [00:00<25:38,  2.70it/s]  0%|          | 5/4157 [00:01<23:21,  2.96it/s]  0%|          | 7/4157 [00:02<20:23,  3.39it/s]  0%|          | 18/4157 [00:02<07:16,  9.48it/s]  1%|          | 30/4157 [00:05<10:57,  6.27it/s]  1%|          | 31/4157 [00:05<12:57,  5.31it/s]  1%|          | 33/4157 [00:06<17:03,  4.03it/s]  1%|          | 39/4157 [00:07<13:21,  5.14it/s]  1%|          | 43/4157 [00:08<12:34,  5.45it/s]  1%|          | 47/4157 [00:08<11:36,  5.90it/s]  1%|▏         | 52/4157 [00:09<10:21,  6.61it/s]  1%|▏         | 55/4157 [00:10<13:05,  5.22it/s]  1%|▏         | 57/4157 [00:10<14:43,  4.64it/s]  1%|▏         | 62/4157 [00:12<19:13,  3.55it/s]  2%|▏         | 76/4157 [00:14<11:39,  5.83it/s]  2%|▏         | 77/4157 [00:15<15:01,  4.53it/s]  2%|▏         | 78/4157 [00:17<24:20,  2.79it/s]  2%|▏         | 80/4157 [00:18<24:17,  2.80it/s]  2%|▏         | 94/4157 [00:18<10:23,  6.52it/s]  2%|▏         | 97/4157 [00:19<10:44,  6.30it/s]  2%|▏         | 100/4157 [00:19<11:22,  5.95it/s]  3%|▎         | 104/4157 [00:20<11:31,  5.86it/s]  3%|▎         | 107/4157 [00:20<11:20,  5.95it/s]  3%|▎         | 112/4157 [00:22<13:48,  4.88it/s]  3%|▎         | 113/4157 [00:22<15:43,  4.29it/s]  3%|▎         | 117/4157 [00:24<22:01,  3.06it/s]  3%|▎         | 119/4157 [00:25<24:02,  2.80it/s]  3%|▎         | 121/4157 [00:26<22:43,  2.96it/s]  3%|▎         | 124/4157 [00:26<19:27,  3.46it/s]  3%|▎         | 134/4157 [00:27<09:25,  7.12it/s]  3%|▎         | 141/4157 [00:28<08:20,  8.02it/s]  4%|▎         | 152/4157 [00:28<06:12, 10.74it/s]  4%|▍         | 157/4157 [00:30<10:05,  6.61it/s]  4%|▍         | 158/4157 [00:30<11:26,  5.82it/s]  4%|▍         | 164/4157 [00:31<09:57,  6.68it/s]  4%|▍         | 166/4157 [00:32<13:07,  5.07it/s]  4%|▍         | 176/4157 [00:33<08:44,  7.59it/s]  4%|▍         | 182/4157 [00:33<08:07,  8.15it/s]  4%|▍         | 183/4157 [00:35<16:47,  3.95it/s]  5%|▍         | 188/4157 [00:37<16:15,  4.07it/s]  5%|▍         | 190/4157 [00:38<23:32,  2.81it/s]  5%|▍         | 191/4157 [00:39<25:17,  2.61it/s]  5%|▌         | 208/4157 [00:40<09:11,  7.15it/s]  5%|▌         | 215/4157 [00:41<10:45,  6.11it/s]  5%|▌         | 226/4157 [00:42<07:55,  8.26it/s]  6%|▌         | 234/4157 [00:43<08:39,  7.55it/s]  6%|▌         | 236/4157 [00:44<09:33,  6.84it/s]  6%|▌         | 237/4157 [00:45<14:16,  4.58it/s]  6%|▌         | 246/4157 [00:46<11:30,  5.66it/s]  6%|▌         | 247/4157 [00:47<13:37,  4.78it/s]  6%|▌         | 249/4157 [00:51<32:14,  2.02it/s]  6%|▌         | 250/4157 [00:51<32:58,  1.97it/s]  6%|▌         | 254/4157 [00:52<25:44,  2.53it/s]  6%|▋         | 261/4157 [00:53<16:05,  4.04it/s]  6%|▋         | 268/4157 [00:53<11:49,  5.48it/s]  7%|▋         | 274/4157 [00:55<12:07,  5.34it/s]  7%|▋         | 277/4157 [00:55<12:37,  5.12it/s]  7%|▋         | 278/4157 [00:56<15:53,  4.07it/s]  7%|▋         | 288/4157 [00:57<10:37,  6.07it/s]  7%|▋         | 293/4157 [00:58<09:34,  6.73it/s]  7%|▋         | 304/4157 [00:59<08:56,  7.18it/s]  7%|▋         | 306/4157 [01:00<12:12,  5.26it/s]  8%|▊         | 312/4157 [01:02<14:45,  4.34it/s]  8%|▊         | 314/4157 [01:03<15:51,  4.04it/s]  8%|▊         | 325/4157 [01:04<09:52,  6.47it/s]  8%|▊         | 326/4157 [01:05<13:10,  4.85it/s]  8%|▊         | 328/4157 [01:05<13:49,  4.61it/s]  8%|▊         | 337/4157 [01:07<13:50,  4.60it/s]  8%|▊         | 338/4157 [01:09<20:16,  3.14it/s]  8%|▊         | 342/4157 [01:10<20:45,  3.06it/s]  8%|▊         | 344/4157 [01:11<20:06,  3.16it/s]  8%|▊         | 346/4157 [01:14<36:55,  1.72it/s]  8%|▊         | 347/4157 [01:15<36:40,  1.73it/s]  8%|▊         | 348/4157 [01:15<35:56,  1.77it/s]  9%|▊         | 356/4157 [01:16<16:38,  3.81it/s]  9%|▊         | 360/4157 [01:17<20:00,  3.16it/s]  9%|▊         | 363/4157 [01:18<18:45,  3.37it/s]  9%|▉         | 373/4157 [01:19<11:31,  5.47it/s]  9%|▉         | 374/4157 [01:20<13:44,  4.59it/s]  9%|▉         | 376/4157 [01:21<20:10,  3.12it/s]  9%|▉         | 377/4157 [01:23<30:03,  2.10it/s]  9%|▉         | 378/4157 [01:25<43:13,  1.46it/s]  9%|▉         | 380/4157 [01:26<42:21,  1.49it/s]  9%|▉         | 387/4157 [01:27<21:10,  2.97it/s]  9%|▉         | 388/4157 [01:28<23:11,  2.71it/s]  9%|▉         | 391/4157 [01:28<20:27,  3.07it/s] 10%|▉         | 407/4157 [01:30<10:31,  5.93it/s] 10%|▉         | 413/4157 [01:31<09:24,  6.63it/s] 10%|▉         | 414/4157 [01:32<15:25,  4.05it/s] 10%|▉         | 415/4157 [01:33<16:52,  3.70it/s] 10%|█         | 418/4157 [01:34<16:15,  3.83it/s] 10%|█         | 425/4157 [01:34<11:40,  5.33it/s] 10%|█         | 429/4157 [01:35<10:22,  5.99it/s] 10%|█         | 432/4157 [01:36<13:49,  4.49it/s] 11%|█         | 437/4157 [01:37<13:27,  4.61it/s] 11%|█         | 445/4157 [01:38<09:05,  6.81it/s] 11%|█         | 463/4157 [01:39<07:10,  8.58it/s] 11%|█         | 466/4157 [01:40<09:21,  6.57it/s] 11%|█         | 467/4157 [01:41<11:20,  5.42it/s] 11%|█▏        | 468/4157 [01:42<13:13,  4.65it/s] 11%|█▏        | 470/4157 [01:42<13:18,  4.62it/s] 12%|█▏        | 498/4157 [01:43<04:22, 13.93it/s] 12%|█▏        | 501/4157 [01:44<05:01, 12.14it/s] 12%|█▏        | 503/4157 [01:45<08:17,  7.35it/s] 12%|█▏        | 504/4157 [01:49<24:25,  2.49it/s] 12%|█▏        | 507/4157 [01:51<24:46,  2.46it/s] 12%|█▏        | 516/4157 [01:51<15:09,  4.00it/s] 12%|█▏        | 517/4157 [01:53<21:26,  2.83it/s] 13%|█▎        | 521/4157 [01:54<17:40,  3.43it/s] 13%|█▎        | 527/4157 [01:54<12:47,  4.73it/s] 13%|█▎        | 533/4157 [01:55<10:16,  5.88it/s] 13%|█▎        | 537/4157 [01:56<13:41,  4.41it/s] 13%|█▎        | 546/4157 [01:57<09:00,  6.68it/s] 13%|█▎        | 548/4157 [01:59<16:22,  3.67it/s] 13%|█▎        | 551/4157 [02:00<17:29,  3.44it/s] 13%|█▎        | 552/4157 [02:01<18:17,  3.28it/s] 13%|█▎        | 559/4157 [02:02<13:36,  4.41it/s] 13%|█▎        | 560/4157 [02:03<19:28,  3.08it/s] 14%|█▎        | 566/4157 [02:04<16:47,  3.57it/s] 14%|█▍        | 581/4157 [02:05<09:09,  6.51it/s] 14%|█▍        | 587/4157 [02:06<09:32,  6.24it/s] 14%|█▍        | 588/4157 [02:07<12:51,  4.63it/s] 14%|█▍        | 592/4157 [02:09<17:04,  3.48it/s] 14%|█▍        | 594/4157 [02:13<28:26,  2.09it/s] 14%|█▍        | 596/4157 [02:13<25:49,  2.30it/s] 14%|█▍        | 601/4157 [02:14<20:40,  2.87it/s] 15%|█▍        | 604/4157 [02:15<20:31,  2.88it/s] 15%|█▍        | 610/4157 [02:16<13:40,  4.32it/s] 15%|█▍        | 612/4157 [02:17<16:22,  3.61it/s] 15%|█▌        | 627/4157 [02:20<13:48,  4.26it/s] 15%|█▌        | 632/4157 [02:21<13:06,  4.48it/s] 16%|█▌        | 647/4157 [02:22<08:20,  7.01it/s] 16%|█▌        | 650/4157 [02:22<08:54,  6.56it/s] 16%|█▌        | 663/4157 [02:24<08:11,  7.10it/s] 16%|█▌        | 666/4157 [02:25<08:40,  6.70it/s] 16%|█▌        | 674/4157 [02:25<12:32,  4.63it/s]
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2027-12-30-name-des-events-1
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-24-diy-recording-im-proberaum
 https://www.buehnenpolka.de/event-details/openstage-karaoke-alle-levels
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-02-vernissage
-https://backstage.eu/wired-kimchi-free-easy-2024.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-07-26--10
+https://backstage.eu/the-devon-allman-project-live-2024.html
 https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-28-finta-music-networking-brunch
-https://backstage.eu/mamma-mia-party-mit-sing-konzert-20-06-25.html
-https://backstage.eu/emergenza-bayern-first-round-25-01-25.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-03-
-https://backstage.eu/julia-meladin-leben-meiner-traume-tour.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-10-18--9
-https://backstage.eu/thrash-inferno-24.html
-https://backstage.eu/25-jahre-asp-die-zusammenkunft-3.html
-https://letheatredelescapade.wordpress.com/a-laffiche-4/
-https://backstage.eu/kinoi-thnitoi-live-in-munchen.html
-https://backstage.eu/mr-takeshi-s-rock-n-roll-circus.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-12-liveshow-ii-von-ii
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-10-04--9
-https://backstage.eu/backstage-biergarten-opening-2025.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-11-17--1
-https://backstage.eu/jag-panzer-40-years-of-destruction.html
-https://backstage.eu/emergenza-bayern-second-round-07-02-25.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-21-finissage
-https://backstage.eu/resonate-2025-rock-extravaganza.html
-https://backstage.eu/lomaus-barthaar-free-easy-kids-2025.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-07-26--9
-https://backstage.eu/rich-kids-on-lsd-live-2025.html
-https://letheatredelescapade.wordpress.com/a-laffiche-4/
-https://eventfrog.de/de/p/theater-buehne/comedy-kabarett/benefiz-zauberei-fuer-positivarbeiten-deutsche-aidshilfe-7268932588730834862.html
-https://backstage.eu/emo-s-not-dead-29-11-24.html
-https://backstage.eu/dissonance-domination-tour-2025.html
-https://backstage.eu/heathcliff-album-release-party.html
+https://heppel-ettlich.de/openstage.html
+https://backstage.eu/rebellion-tour-xi-2025.html
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-10-20-
+https://www.tixforgigs.com/Event/66164
 https://fienta.com/two-buckets-of-chicken-standup-comedy-in-english-132730
-https://bit.ly/fuzzmuc
-|time data 'January 17, 2025 - 20:00' does not match format '%d. %B %Y - %H:%M'    |
-https://heppel-ettlich.de/wp-content/uploads/2024/12/IMG_5071.jpeg
-https://backstage.eu/keep-it-low-doom-fruhshoppen-12-10-24.html
-https://import-export.cc/event/sahiya-canda-kurd-kurdisches-kulturfest/
-https://letheatredelescapade.wordpress.com/a-laffiche-4/
-https://backstage.eu/thrash-metal-conviction-2024.html
-https://backstage.eu/captain-khalid-s-voices-in-my-head-munich.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-10-02-rage-against-abschiebung-23
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-11-liveshow-i-von-ii
+https://backstage.eu/abschlussfeier-der-mos-munchen-10-07-25.html
+https://backstage.eu/emergenza-bayern-second-round-07-02-25.html
+https://backstage.eu/fuck-off-2024-die-silvester-all-area-party-im-backstage.html
+https://backstage.eu/cody-pennington-country-show-live-2025.html
+https://www.eventbrite.de/e/live-comedy-battle-ultimate-funny-championships-109-tickets-1631114470289?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-23--1
+https://backstage.eu/mamma-mia-party-mit-sing-konzert-20-06-25.html
+https://backstage.eu/mr-hurley-die-pulveraffen-ye-banished-privateers-live-24.html
+https://backstage.eu/emergenza-bayern-third-round-08-02-25.html
+https://backstage.eu/bonfire-unplugged-und-biografie-von-hans-ziller-live-2024.html
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-10-
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-02-vernissage
+https://backstage.eu/keanu-x-bandz-live-2025.html
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-20--1
+https://eastwestencounter.com/coming-soon-3/
+https://www.muffatwerk.de/de/events/view/7212/datteltaeter
+https://backstage.eu/kapotaki-stadltort-o-ur.html
+https://backstage.eu/michael-holtschulte-tot-aber-lustig-das-ende-ist-nah.html
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-07-27-finissage
+https://backstage.eu/26-schalldruck-festival-metal-core-21-12-24.html
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-07-
+https://backstage.eu/fall-of-man-2024.html
 https://heppel-ettlich.de/jjb.html
-https://backstage.eu/metal-yoga-02-08-25-free-easy-2025.html
-https://backstage.eu/the-analogues-light-live-aus-der-ukraine.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-09-ausgabe-31-welchen-support-braucht-musik-muenchen
-https://backstage.eu/kumpels-in-kutten-heavy-metal-im-ruhrgebiet-free-easy-2024.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-07-25--8
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-09-14--3
-https://backstage.eu/iq-zero-album-release.html
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-10-19--3
-https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-08-04-
-  0%|          | 0/4155 [00:00<?, ?it/s]  3%|▎         | 107/4155 [00:00<00:25, 158.38it/s]  3%|▎         | 123/4155 [00:04<02:58, 22.54it/s]   5%|▌         | 218/4155 [00:04<01:22, 47.64it/s]  6%|▌         | 251/4155 [00:05<01:25, 45.65it/s]  7%|▋         | 282/4155 [00:06<01:22, 46.70it/s] 11%|█         | 461/4155 [00:06<00:33, 108.77it/s] 14%|█▎        | 570/4155 [00:07<00:29, 121.26it/s] 14%|█▍        | 602/4155 [00:08<00:34, 103.45it/s] 17%|█▋        | 703/4155 [00:09<00:43, 79.95it/s]  20%|█▉        | 828/4155 [00:10<00:31, 105.42it/s] 20%|██        | 842/4155 [00:12<00:58, 56.60it/s]  30%|██▉       | 1240/4155 [00:13<00:18, 160.20it/s] 34%|███▎      | 1395/4155 [00:13<00:15, 178.62it/s] 36%|███▋      | 1515/4155 [00:14<00:14, 182.43it/s] 38%|███▊      | 1597/4155 [00:14<00:15, 163.98it/s] 44%|████▍     | 1839/4155 [00:15<00:10, 212.41it/s] 49%|████▉     | 2030/4155 [00:16<00:08, 237.33it/s] 50%|█████     | 2086/4155 [00:16<00:09, 208.08it/s] 53%|█████▎    | 2215/4155 [00:18<00:15, 125.05it/s] 60%|██████    | 2498/4155 [00:19<00:08, 197.50it/s] 66%|██████▋   | 2761/4155 [00:20<00:05, 248.86it/s] 67%|██████▋   | 2794/4155 [00:21<00:07, 171.57it/s] 68%|██████▊   | 2818/4155 [00:22<00:11, 116.42it/s] 77%|███████▋  | 3179/4155 [00:22<00:04, 223.97it/s] 77%|███████▋  | 3213/4155 [00:23<00:06, 148.30it/s] 80%|████████  | 3334/4155 [00:24<00:04, 165.15it/s] 82%|████████▏ | 3417/4155 [00:25<00:04, 157.42it/s] 85%|████████▍ | 3513/4155 [00:25<00:04, 144.73it/s] 86%|████████▌ | 3577/4155 [00:26<00:04, 123.99it/s] 87%|████████▋ | 3601/4155 [00:27<00:05, 98.66it/s]  88%|████████▊ | 3660/4155 [00:27<00:04, 102.36it/s] 90%|█████████ | 3746/4155 [00:28<00:03, 118.27it/s] 90%|█████████ | 3760/4155 [00:29<00:04, 95.25it/s]  93%|█████████▎| 3880/4155 [00:29<00:02, 132.19it/s] 94%|█████████▍| 3899/4155 [00:30<00:02, 100.29it/s]100%|██████████| 4155/4155 [00:30<00:00, 137.83it/s]
-  0%|          | 0/4155 [00:00<?, ?it/s]  0%|          | 11/4155 [00:00<03:56, 17.49it/s]  3%|▎         | 113/4155 [00:01<00:33, 121.23it/s]  6%|▌         | 233/4155 [00:01<00:22, 172.03it/s] 17%|█▋        | 688/4155 [00:02<00:07, 435.98it/s] 19%|█▊        | 773/4155 [00:02<00:09, 354.40it/s] 19%|█▉        | 808/4155 [00:04<00:21, 157.36it/s] 25%|██▍       | 1018/4155 [00:04<00:14, 220.58it/s] 33%|███▎      | 1382/4155 [00:04<00:07, 353.49it/s] 34%|███▍      | 1429/4155 [00:07<00:21, 124.47it/s] 35%|███▌      | 1462/4155 [00:09<00:30, 89.37it/s]  36%|███▌      | 1488/4155 [00:09<00:31, 85.26it/s] 36%|███▌      | 1506/4155 [00:12<00:55, 47.67it/s] 37%|███▋      | 1524/4155 [00:12<00:56, 46.72it/s] 39%|███▉      | 1612/4155 [00:13<00:38, 66.42it/s] 39%|███▉      | 1641/4155 [00:13<00:38, 66.02it/s] 43%|████▎     | 1805/4155 [00:14<00:19, 120.99it/s] 47%|████▋     | 1959/4155 [00:14<00:14, 155.34it/s] 50%|████▉     | 2071/4155 [00:15<00:14, 142.51it/s] 58%|█████▊    | 2425/4155 [00:16<00:06, 271.67it/s] 62%|██████▏   | 2576/4155 [00:16<00:05, 277.00it/s] 63%|██████▎   | 2628/4155 [00:17<00:06, 233.07it/s] 64%|██████▍   | 2677/4155 [00:18<00:09, 156.58it/s] 71%|███████   | 2932/4155 [00:18<00:05, 227.31it/s] 72%|███████▏  | 3011/4155 [00:19<00:05, 214.35it/s] 75%|███████▍  | 3108/4155 [00:19<00:04, 212.66it/s] 78%|███████▊  | 3243/4155 [00:20<00:04, 215.83it/s] 79%|███████▊  | 3266/4155 [00:20<00:05, 173.85it/s] 89%|████████▊ | 3683/4155 [00:21<00:01, 347.42it/s] 94%|█████████▎| 3886/4155 [00:21<00:00, 371.54it/s] 99%|█████████▉| 4128/4155 [00:22<00:00, 414.51it/s]100%|██████████| 4155/4155 [00:22<00:00, 186.00it/s]
-  0%|          | 0/4155 [00:00<?, ?it/s] 15%|█▍        | 613/4155 [00:00<00:00, 6118.86it/s] 47%|████▋     | 1944/4155 [00:00<00:00, 10344.94it/s] 72%|███████▏  | 2979/4155 [00:00<00:00, 9957.85it/s]  96%|█████████▌| 3977/4155 [00:00<00:00, 9839.51it/s]100%|██████████| 4155/4155 [00:00<00:00, 9968.66it/s]
+https://www.feierwerk.de/konzert-kulturprogramm/detail/2024-12-03-booking-fuer-musiker-innen
+https://www.tickettailor.com/events/reubensolo/1316373
+https://eastwestencounter.com/coming-soon-3/
+https://backstage.eu/our-promise-independence-tour-2025.html
+  0%|          | 0/4157 [00:00<?, ?it/s]  3%|▎         | 108/4157 [00:00<00:26, 151.60it/s]  3%|▎         | 124/4157 [00:05<03:53, 17.28it/s]   5%|▌         | 210/4157 [00:06<01:56, 33.91it/s]  6%|▌         | 251/4157 [00:07<01:44, 37.29it/s] 10%|▉         | 410/4157 [00:07<00:48, 77.83it/s] 10%|█         | 425/4157 [00:12<02:13, 28.03it/s] 14%|█▎        | 570/4157 [00:13<01:11, 50.10it/s] 15%|█▌        | 634/4157 [00:13<01:02, 56.10it/s] 18%|█▊        | 768/4157 [00:14<00:40, 83.96it/s] 21%|██        | 857/4157 [00:14<00:33, 98.41it/s] 22%|██▏       | 923/4157 [00:15<00:31, 104.19it/s] 32%|███▏      | 1311/4157 [00:16<00:12, 223.52it/s] 36%|███▋      | 1515/4157 [00:16<00:10, 262.23it/s] 37%|███▋      | 1547/4157 [00:17<00:12, 214.77it/s] 40%|███▉      | 1644/4157 [00:17<00:12, 209.37it/s] 41%|████▏     | 1721/4157 [00:18<00:13, 182.37it/s] 42%|████▏     | 1741/4157 [00:18<00:17, 137.21it/s] 43%|████▎     | 1774/4157 [00:19<00:21, 112.12it/s] 44%|████▍     | 1825/4157 [00:19<00:21, 108.87it/s] 45%|████▌     | 1874/4157 [00:20<00:24, 94.86it/s]  47%|████▋     | 1938/4157 [00:21<00:23, 93.05it/s] 50%|████▉     | 2077/4157 [00:21<00:14, 139.13it/s] 51%|█████     | 2113/4157 [00:22<00:18, 108.35it/s] 53%|█████▎    | 2201/4157 [00:23<00:17, 112.96it/s] 54%|█████▍    | 2244/4157 [00:23<00:17, 106.32it/s] 55%|█████▌    | 2295/4157 [00:24<00:18, 98.86it/s]  56%|█████▌    | 2334/4157 [00:25<00:21, 84.10it/s] 57%|█████▋    | 2380/4157 [00:25<00:23, 74.24it/s] 59%|█████▊    | 2438/4157 [00:26<00:23, 73.14it/s] 59%|█████▉    | 2462/4157 [00:27<00:26, 64.15it/s] 61%|██████    | 2518/4157 [00:28<00:25, 65.47it/s] 61%|██████▏   | 2556/4157 [00:28<00:24, 64.61it/s] 65%|██████▍   | 2693/4157 [00:29<00:13, 107.94it/s] 67%|██████▋   | 2784/4157 [00:29<00:11, 124.49it/s] 67%|██████▋   | 2798/4157 [00:30<00:13, 99.54it/s]  80%|████████  | 3328/4157 [00:31<00:02, 335.42it/s] 82%|████████▏ | 3404/4157 [00:32<00:03, 192.25it/s] 84%|████████▍ | 3512/4157 [00:33<00:03, 181.06it/s] 86%|████████▌ | 3577/4157 [00:33<00:03, 156.03it/s] 88%|████████▊ | 3639/4157 [00:34<00:03, 136.54it/s] 88%|████████▊ | 3664/4157 [00:35<00:04, 107.41it/s] 88%|████████▊ | 3676/4157 [00:36<00:05, 84.51it/s]  89%|████████▉ | 3712/4157 [00:36<00:06, 71.07it/s] 90%|█████████ | 3760/4157 [00:37<00:05, 72.92it/s] 91%|█████████▏| 3795/4157 [00:38<00:05, 68.58it/s] 93%|█████████▎| 3884/4157 [00:38<00:03, 82.26it/s] 94%|█████████▍| 3900/4157 [00:39<00:03, 67.20it/s] 96%|█████████▌| 3974/4157 [00:40<00:02, 75.03it/s] 98%|█████████▊| 4064/4157 [00:41<00:01, 89.88it/s]100%|██████████| 4157/4157 [00:41<00:00, 101.26it/s]
+  0%|          | 0/4157 [00:00<?, ?it/s]  0%|          | 11/4157 [00:00<04:03, 17.02it/s]  3%|▎         | 121/4157 [00:01<00:31, 128.15it/s]  6%|▌         | 233/4157 [00:01<00:22, 174.25it/s] 17%|█▋        | 688/4157 [00:02<00:07, 461.69it/s] 19%|█▊        | 773/4157 [00:02<00:09, 364.12it/s] 19%|█▉        | 810/4157 [00:03<00:20, 164.11it/s] 24%|██▍       | 1018/4157 [00:04<00:13, 225.23it/s] 33%|███▎      | 1382/4157 [00:04<00:07, 352.26it/s] 34%|███▍      | 1427/4157 [00:07<00:21, 126.73it/s] 35%|███▌      | 1459/4157 [00:09<00:28, 93.55it/s]  36%|███▌      | 1488/4157 [00:09<00:29, 89.44it/s] 36%|███▌      | 1506/4157 [00:12<00:55, 47.66it/s] 37%|███▋      | 1524/4157 [00:12<00:56, 46.58it/s] 39%|███▉      | 1612/4157 [00:13<00:37, 67.25it/s] 39%|███▉      | 1641/4157 [00:13<00:37, 66.24it/s] 43%|████▎     | 1802/4157 [00:14<00:19, 119.62it/s] 47%|████▋     | 1959/4157 [00:14<00:13, 165.30it/s] 50%|████▉     | 2071/4157 [00:15<00:13, 149.13it/s] 58%|█████▊    | 2425/4157 [00:15<00:06, 281.00it/s] 62%|██████▏   | 2576/4157 [00:16<00:05, 289.81it/s] 63%|██████▎   | 2628/4157 [00:16<00:06, 243.15it/s] 64%|██████▍   | 2677/4157 [00:17<00:09, 164.15it/s] 71%|███████   | 2931/4157 [00:18<00:04, 252.02it/s] 72%|███████▏  | 3011/4157 [00:18<00:04, 229.51it/s] 75%|███████▍  | 3108/4157 [00:19<00:04, 223.53it/s] 78%|███████▊  | 3243/4157 [00:19<00:03, 237.78it/s] 79%|███████▊  | 3269/4157 [00:20<00:04, 187.00it/s] 89%|████████▊ | 3683/4157 [00:20<00:01, 348.98it/s] 89%|████████▉ | 3717/4157 [00:21<00:01, 253.49it/s] 94%|█████████▎| 3887/4157 [00:21<00:00, 282.78it/s] 98%|█████████▊| 4064/4157 [00:22<00:00, 277.45it/s] 99%|█████████▉| 4130/4157 [00:22<00:00, 243.32it/s]100%|██████████| 4157/4157 [00:22<00:00, 180.85it/s]
+  0%|          | 0/4157 [00:00<?, ?it/s] 13%|█▎        | 561/4157 [00:00<00:00, 5609.24it/s] 45%|████▌     | 1889/4157 [00:00<00:00, 10116.20it/s] 70%|███████   | 2912/4157 [00:00<00:00, 10145.94it/s] 94%|█████████▍| 3927/4157 [00:00<00:00, 9743.28it/s] 100%|██████████| 4157/4157 [00:00<00:00, 9934.01it/s]
 
 
-|CREATE_Log                                                         250912-12_05_16|
+|CREATE_Log                                                         250912-18_18_44|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
 |'NoneType' object has no attribute 'find'                                         |
 |'NoneType' object has no attribute 'find'                                         |
 |'event' object has no attribute 'buehnenpolka'                                    |
 |'NoneType' object has no attribute 'find'                                         |
 |'NoneType' object has no attribute 'find'                                         |
+|'event' object has no attribute 'heppel_ettlich'                                  |
 |'NoneType' object has no attribute 'find'                                         |
 |'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'event' object has no attribute 'letheatredelescapade'                            |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'event' object has no attribute 'letheatredelescapade'                            |
-|'event' object has no attribute 'eventfrog'                                       |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
+|'event' object has no attribute 'tixforgigs'                                      |
 |'event' object has no attribute 'fienta'                                          |
-|time data 'January 17, 2025 - 20:00' does not match format '%d. %B %Y - %H:%M'    |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'event' object has no attribute 'eventbrite'                                      |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'event' object has no attribute 'eastwestencounter'                               |
+|'NoneType' object has no attribute 'get_text'                                     |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
+|'NoneType' object has no attribute 'find'                                         |
 |'event' object has no attribute 'heppel_ettlich'                                  |
 |'NoneType' object has no attribute 'find'                                         |
+|'event' object has no attribute 'tickettailor'                                    |
+|'event' object has no attribute 'eastwestencounter'                               |
 |'NoneType' object has no attribute 'find'                                         |
-|'event' object has no attribute 'letheatredelescapade'                            |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'event' object has no attribute 'heppel_ettlich'                                  |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'find'                                         |
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    2|add:    0|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    3|add:    0|sta: DONE|
-|last minute | MusikFrosch_MUC updated               | rm:   60|add:   85|sta: DONE|
-|early bird | MusikFrosch_MUC updated                | rm:   19|add:    6|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:   10|add:   16|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:   10|add:   16|sta: DONE|
-|finished                                                      |len: 4155|sta: DONE|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    2|add:    0|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage next year!  Last update:                                        2025/09/12, 12:11:59
-|M<3 | MusikFrosch_MUC updated                       | rm:    3|add:    0|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2025/09/12, 12:12:06
-|last minute | MusikFrosch_MUC updated               | rm:   60|add:   85|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2025/09/12, 12:12:13
-|early bird | MusikFrosch_MUC updated                | rm:   19|add:    6|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2025/09/12, 12:12:22
-|MusikFrosch_MC_test updated                         | rm:   10|add:   16|sta: DONE|
-test_palylist  Last update:                                        2025/09/12, 12:12:31
-|MusikFrosch_MUC updated                             | rm:   10|add:   16|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2025/09/12, 12:12:40
-|finished                                                      |len: 4155|sta: DONE|
-/home/a163/GitRepo/musikfrosch_mc/LOG/250912-12_05_16_root_log.txt
-|CREATE_Log                                                         250912-12_12_47|
+|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    3|sta: DONE|
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
+|early bird | MusikFrosch_MUC updated                | rm:    0|add:    3|sta: DONE|
+|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
+|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
+|finished                                                      |len: 4157|sta: DONE|
+|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    3|sta: DONE|
+The MusikFrosch is saying that some legends will be hitting the feierwerk stage next year!  Last update:                                        2025/09/12, 18:23:54
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
+Who's rocking the stage next at Milla Club?  Last update:                                        2025/09/12, 18:24:01
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
+Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2025/09/12, 18:24:07
+|early bird | MusikFrosch_MUC updated                | rm:    0|add:    3|sta: DONE|
+Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2025/09/12, 18:24:16
+|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
+test_palylist  Last update:                                        2025/09/12, 18:24:25
+|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
+Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2025/09/12, 18:24:33
+|finished                                                      |len: 4157|sta: DONE|
+/home/a163/GitRepo/musikfrosch_mc/LOG/250912-18_18_44_root_log.txt
+|CREATE_Log                                                         250912-18_24_40|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 143258.96it/s]
-  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 147.29it/s]100%|██████████| 108/108 [00:00<00:00, 148.56it/s]
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 16618.42it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 134776.80it/s]
+  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 170.94it/s]100%|██████████| 108/108 [00:00<00:00, 172.38it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 14902.78it/s]
 |Theatron MusikSommer 25 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2025/09/12, 12:13:22
+The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2025/09/12, 18:25:18
