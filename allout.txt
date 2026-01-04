@@ -4,14 +4,14 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: So 4. Jan 18:05:22 CET 2026
+Current date and time: So 4. Jan 22:03:01 CET 2026
 Current folder: /
 
-|CREATE_Log                                                         260104-18_05_36|
+|CREATE_Log                                                         260104-22_03_16|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:02<00:16,  2.72s/it] 29%|██▊       | 2/7 [00:03<00:08,  1.73s/it] 43%|████▎     | 3/7 [00:06<00:09,  2.36s/it] 57%|█████▋    | 4/7 [00:09<00:07,  2.36s/it] 71%|███████▏  | 5/7 [00:42<00:27, 13.67s/it] 71%|███████▏  | 5/7 [00:44<00:17,  8.92s/it]
+  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:12<01:16, 12.71s/it] 29%|██▊       | 2/7 [00:13<00:29,  5.85s/it] 43%|████▎     | 3/7 [00:17<00:18,  4.74s/it] 57%|█████▋    | 4/7 [00:19<00:10,  3.66s/it] 71%|███████▏  | 5/7 [00:54<00:30, 15.17s/it] 71%|███████▏  | 5/7 [00:56<00:22, 11.31s/it]
 Traceback (most recent call last):
   File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 57, in <module>
     cd.scrapSideCompare('FroschData_10fin', 'FroschData_01', URLs)
@@ -28,11 +28,11 @@ Traceback (most recent call last):
     return self.attrs[key]
            ~~~~~~~~~~^^^^^
 KeyError: 'href'
-|CREATE_Log                                                         260104-18_06_24|
+|CREATE_Log                                                         260104-22_04_16|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 147073.00it/s]
-  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 176.79it/s]100%|██████████| 108/108 [00:00<00:00, 178.30it/s]
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 2209.56it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 146882.24it/s]
+  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 163.34it/s]100%|██████████| 108/108 [00:00<00:00, 164.74it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 2655.51it/s]
 |Theatron MusikSommer 25 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/01/04, 18:06:58
+The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/01/04, 22:04:50
