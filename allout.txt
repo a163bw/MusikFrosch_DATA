@@ -4,14 +4,14 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Sa 28. Feb 12:02:14 CET 2026
+Current date and time: Sa 28. Feb 18:26:51 CET 2026
 Current folder: /
 
-|CREATE_Log                                                         260228-12_02_29|
+|CREATE_Log                                                         260228-18_27_06|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:00<00:05,  1.09it/s] 29%|██▊       | 2/7 [00:02<00:05,  1.04s/it] 43%|████▎     | 3/7 [00:04<00:07,  1.91s/it] 57%|█████▋    | 4/7 [00:07<00:06,  2.07s/it] 57%|█████▋    | 4/7 [00:12<00:09,  3.05s/it]
+  0%|          | 0/7 [00:00<?, ?it/s] 14%|█▍        | 1/7 [00:01<00:08,  1.40s/it] 29%|██▊       | 2/7 [00:02<00:06,  1.21s/it] 43%|████▎     | 3/7 [00:05<00:08,  2.06s/it] 57%|█████▋    | 4/7 [00:07<00:06,  2.14s/it] 57%|█████▋    | 4/7 [00:11<00:08,  2.82s/it]
 Traceback (most recent call last):
   File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 57, in <module>
     cd.scrapSideCompare('FroschData_10fin', 'FroschData_01', URLs)
@@ -25,11 +25,11 @@ Traceback (most recent call last):
     for page in self.soup.find('ul', {'class': 'f3-widget-paginator'}).find_all(href=True): # lapozás 
                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 AttributeError: 'NoneType' object has no attribute 'find_all'
-|CREATE_Log                                                         260228-12_02_45|
+|CREATE_Log                                                         260228-18_27_21|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 144262.69it/s]
-  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 169.56it/s]100%|██████████| 108/108 [00:00<00:00, 171.00it/s]
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 2333.58it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 140112.85it/s]
+  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 134.50it/s]100%|██████████| 108/108 [00:00<00:00, 135.67it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 3494.23it/s]
 |Theatron MusikSommer 25 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/02/28, 12:03:16
+The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/02/28, 18:27:53
