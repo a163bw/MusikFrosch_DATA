@@ -4,11 +4,11 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Di 10. Mär 22:02:11 CET 2026
+Current date and time: Mi 11. Mär 11:03:11 CET 2026
 Current folder: /
 
 HTTP Error for GET to https://api.spotify.com/v1/me/ with Params: {} returned 403 due to Active premium subscription required for the owner of the app. When the subscription status changes, it can take a few hours before requests are allowed again.
-|CREATE_Log                                                         260310-22_02_26|
+|CREATE_Log                                                         260311-11_03_26|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 Traceback (most recent call last):
@@ -37,12 +37,12 @@ Traceback (most recent call last):
     raise SpotifyException(
 spotipy.exceptions.SpotifyException: http status: 403, code:-1 - https://api.spotify.com/v1/me/:
  Active premium subscription required for the owner of the app. When the subscription status changes, it can take a few hours before requests are allowed again., reason: None
-|CREATE_Log                                                         260310-22_02_28|
+|CREATE_Log                                                         260311-11_03_28|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 131566.90it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 130130.66it/s]
   0%|          | 0/108 [00:00<?, ?it/s]HTTP Error for GET to https://api.spotify.com/v1/artists/7D8h0E4f0RaekBmTqiyx5N/top-tracks with Params: {'country': 'GE'} returned 403 due to Active premium subscription required for the owner of the app. When the subscription status changes, it can take a few hours before requests are allowed again.
- 98%|█████████▊| 106/108 [00:00<00:00, 492.17it/s]
+ 98%|█████████▊| 106/108 [00:00<00:00, 516.47it/s]
 Traceback (most recent call last):
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 271, in _internal_call
     response.raise_for_status()
