@@ -68,3 +68,5 @@ Traceback (most recent call last):
     raise SpotifyException(
 spotipy.exceptions.SpotifyException: http status: 403, code:-1 - https://api.spotify.com/v1/artists/7D8h0E4f0RaekBmTqiyx5N/top-tracks?country=GE:
  Active premium subscription required for the owner of the app. When the subscription status changes, it can take a few hours before requests are allowed again., reason: None
+
+
