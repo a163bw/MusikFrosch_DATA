@@ -4,72 +4,112 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Mo 23. Mär 12:02:05 CET 2026
+Current date and time: Mo 23. Mär 19:02:01 CET 2026
 Current folder: /
 
-|CREATE_Log                                                         260323-12_02_20|
+|CREATE_Log                                                         260323-19_02_15|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:01<00:06,  1.12s/it]scrapSide:  29%|██▊       | 2/7 [00:02<00:05,  1.03s/it]scrapSide:  43%|████▎     | 3/7 [00:05<00:08,  2.03s/it]scrapSide:  57%|█████▋    | 4/7 [00:07<00:06,  2.07s/it]scrapSide:  71%|███████▏  | 5/7 [00:12<00:06,  3.25s/it]scrapSide:  86%|████████▌ | 6/7 [00:14<00:02,  2.68s/it]scrapSide: 100%|██████████| 7/7 [01:03<00:00, 17.78s/it]scrapSide: 100%|██████████| 7/7 [01:03<00:00,  9.03s/it]
+scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:01<00:07,  1.22s/it]scrapSide:  29%|██▊       | 2/7 [00:02<00:05,  1.13s/it]scrapSide:  43%|████▎     | 3/7 [00:05<00:08,  2.03s/it]scrapSide:  57%|█████▋    | 4/7 [00:07<00:05,  1.99s/it]scrapSide:  71%|███████▏  | 5/7 [00:11<00:05,  2.61s/it]scrapSide:  86%|████████▌ | 6/7 [00:12<00:02,  2.26s/it]scrapSide: 100%|██████████| 7/7 [00:49<00:00, 13.72s/it]scrapSide: 100%|██████████| 7/7 [00:49<00:00,  7.13s/it]
 |https://import-export.cc/ KeyError('href')                                        |
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:05,  1.02it/s]scrapSide:  29%|██▊       | 2/7 [00:01<00:04,  1.10it/s]scrapSide:  43%|████▎     | 3/7 [00:05<00:07,  1.98s/it]scrapSide:  57%|█████▋    | 4/7 [00:07<00:06,  2.09s/it]scrapSide:  71%|███████▏  | 5/7 [00:12<00:06,  3.34s/it]scrapSide:  86%|████████▌ | 6/7 [00:14<00:02,  2.75s/it]scrapSide: 100%|██████████| 7/7 [00:28<00:00,  6.39s/it]scrapSide: 100%|██████████| 7/7 [00:28<00:00,  4.06s/it]
+scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:05,  1.14it/s]scrapSide:  29%|██▊       | 2/7 [00:01<00:04,  1.13it/s]scrapSide:  43%|████▎     | 3/7 [00:04<00:07,  1.87s/it]scrapSide:  57%|█████▋    | 4/7 [00:07<00:06,  2.05s/it]scrapSide:  71%|███████▏  | 5/7 [00:11<00:05,  2.80s/it]scrapSide:  86%|████████▌ | 6/7 [00:12<00:02,  2.40s/it]scrapSide: 100%|██████████| 7/7 [00:26<00:00,  6.09s/it]scrapSide: 100%|██████████| 7/7 [00:26<00:00,  3.79s/it]
 |https://import-export.cc/ KeyError('href')                                        |
-scrapEvent:   0%|          | 0/819 [00:00<?, ?it/s]scrapEvent:   0%|          | 1/819 [00:00<11:59,  1.14it/s]scrapEvent:   0%|          | 2/819 [00:01<09:26,  1.44it/s]scrapEvent:   0%|          | 3/819 [00:02<09:45,  1.39it/s]scrapEvent:   0%|          | 4/819 [00:03<10:49,  1.25it/s]scrapEvent:   1%|          | 5/819 [00:03<09:32,  1.42it/s]scrapEvent:   1%|          | 6/819 [00:05<15:35,  1.15s/it]scrapEvent:   1%|          | 7/819 [00:06<13:08,  1.03it/s]scrapEvent:   1%|          | 8/819 [00:07<12:57,  1.04it/s]scrapEvent:   1%|          | 9/819 [00:07<11:10,  1.21it/s]scrapEvent:   1%|          | 10/819 [00:08<09:51,  1.37it/s]scrapEvent:   1%|▏         | 11/819 [00:09<10:35,  1.27it/s]scrapEvent:   1%|▏         | 12/819 [00:13<24:59,  1.86s/it]scrapEvent:   2%|▏         | 13/819 [00:14<19:35,  1.46s/it]scrapEvent:   2%|▏         | 14/819 [00:15<19:16,  1.44s/it]scrapEvent:   2%|▏         | 15/819 [00:16<16:19,  1.22s/it]scrapEvent:   2%|▏         | 16/819 [00:16<14:16,  1.07s/it]scrapEvent:   2%|▏         | 17/819 [00:17<12:13,  1.09it/s]scrapEvent:   2%|▏         | 18/819 [00:19<15:49,  1.19s/it]scrapEvent:   2%|▏         | 19/819 [00:19<13:18,  1.00it/s]scrapEvent:   2%|▏         | 20/819 [00:21<18:10,  1.37s/it]scrapEvent:   3%|▎         | 21/819 [00:22<14:55,  1.12s/it]scrapEvent:   3%|▎         | 22/819 [00:24<16:23,  1.23s/it]scrapEvent:   3%|▎         | 23/819 [00:26<20:26,  1.54s/it]scrapEvent:   3%|▎         | 24/819 [00:28<22:04,  1.67s/it]scrapEvent:   3%|▎         | 25/819 [00:30<23:25,  1.77s/it]scrapEvent:   3%|▎         | 26/819 [00:32<23:45,  1.80s/it]scrapEvent:   3%|▎         | 27/819 [00:34<24:11,  1.83s/it]scrapEvent:   3%|▎         | 28/819 [00:35<21:21,  1.62s/it]scrapEvent:   4%|▎         | 29/819 [00:36<21:22,  1.62s/it]scrapEvent:   4%|▎         | 30/819 [00:37<17:46,  1.35s/it]scrapEvent:   4%|▍         | 31/819 [00:38<15:19,  1.17s/it]scrapEvent:   4%|▍         | 32/819 [00:40<18:05,  1.38s/it]scrapEvent:   4%|▍         | 33/819 [00:40<16:05,  1.23s/it]scrapEvent:   4%|▍         | 34/819 [00:41<14:32,  1.11s/it]scrapEvent:   4%|▍         | 35/819 [00:43<17:20,  1.33s/it]scrapEvent:   4%|▍         | 36/819 [00:45<20:15,  1.55s/it]scrapEvent:   5%|▍         | 37/819 [00:46<17:40,  1.36s/it]scrapEvent:   5%|▍         | 38/819 [00:47<14:51,  1.14s/it]scrapEvent:   5%|▍         | 39/819 [00:49<18:04,  1.39s/it]scrapEvent:   5%|▍         | 40/819 [00:49<14:43,  1.13s/it]scrapEvent:   5%|▌         | 41/819 [00:51<17:55,  1.38s/it]scrapEvent:   5%|▌         | 42/819 [00:52<14:39,  1.13s/it]scrapEvent:   5%|▌         | 43/819 [00:52<12:18,  1.05it/s]scrapEvent:   5%|▌         | 44/819 [00:53<11:09,  1.16it/s]scrapEvent:   5%|▌         | 45/819 [00:54<10:35,  1.22it/s]scrapEvent:   6%|▌         | 46/819 [00:54<10:09,  1.27it/s]scrapEvent:   6%|▌         | 47/819 [00:55<08:49,  1.46it/s]scrapEvent:   6%|▌         | 48/819 [00:55<08:11,  1.57it/s]scrapEvent:   6%|▌         | 49/819 [00:56<07:48,  1.64it/s]scrapEvent:   6%|▌         | 50/819 [00:56<07:31,  1.70it/s]scrapEvent:   6%|▌         | 51/819 [00:57<07:22,  1.74it/s]scrapEvent:   6%|▋         | 52/819 [00:58<08:07,  1.57it/s]scrapEvent:   6%|▋         | 53/819 [00:58<07:41,  1.66it/s]scrapEvent:   7%|▋         | 54/819 [00:59<08:51,  1.44it/s]scrapEvent:   7%|▋         | 55/819 [01:00<08:19,  1.53it/s]scrapEvent:   7%|▋         | 56/819 [01:02<13:07,  1.03s/it]scrapEvent:   7%|▋         | 57/819 [01:04<16:40,  1.31s/it]scrapEvent:   7%|▋         | 58/819 [01:06<18:57,  1.50s/it]scrapEvent:   7%|▋         | 59/819 [01:06<15:56,  1.26s/it]scrapEvent:   7%|▋         | 60/819 [01:07<14:37,  1.16s/it]scrapEvent:   7%|▋         | 61/819 [01:11<23:33,  1.86s/it]scrapEvent:   8%|▊         | 62/819 [01:16<37:39,  2.98s/it]scrapEvent:   8%|▊         | 63/819 [01:17<29:30,  2.34s/it]scrapEvent:   8%|▊         | 64/819 [01:18<23:13,  1.85s/it]scrapEvent:   8%|▊         | 65/819 [01:21<26:24,  2.10s/it]scrapEvent:   8%|▊         | 66/819 [01:23<26:05,  2.08s/it]scrapEvent:   8%|▊         | 67/819 [01:23<20:55,  1.67s/it]scrapEvent:   8%|▊         | 68/819 [01:24<16:38,  1.33s/it]scrapEvent:   8%|▊         | 69/819 [01:26<18:26,  1.48s/it]scrapEvent:   9%|▊         | 70/819 [01:28<21:23,  1.71s/it]scrapEvent:   9%|▊         | 71/819 [01:28<17:02,  1.37s/it]scrapEvent:   9%|▉         | 72/819 [01:29<14:43,  1.18s/it]scrapEvent:   9%|▉         | 73/819 [01:32<19:16,  1.55s/it]scrapEvent:   9%|▉         | 74/819 [01:32<15:33,  1.25s/it]scrapEvent:   9%|▉         | 75/819 [01:33<12:53,  1.04s/it]scrapEvent:   9%|▉         | 76/819 [01:35<18:14,  1.47s/it]scrapEvent:   9%|▉         | 77/819 [01:38<23:15,  1.88s/it]scrapEvent:  10%|▉         | 78/819 [01:40<24:53,  2.02s/it]scrapEvent:  10%|▉         | 79/819 [01:44<29:42,  2.41s/it]scrapEvent:  10%|▉         | 80/819 [01:44<23:15,  1.89s/it]scrapEvent:  10%|▉         | 81/819 [01:45<18:17,  1.49s/it]scrapEvent:  10%|█         | 82/819 [01:46<15:39,  1.27s/it]scrapEvent:  10%|█         | 83/819 [01:46<13:16,  1.08s/it]scrapEvent:  10%|█         | 84/819 [01:47<11:17,  1.09it/s]scrapEvent:  10%|█         | 85/819 [01:47<10:01,  1.22it/s]scrapEvent:  11%|█         | 86/819 [01:49<11:35,  1.05it/s]scrapEvent:  11%|█         | 87/819 [01:49<10:33,  1.16it/s]scrapEvent:  11%|█         | 88/819 [01:52<17:42,  1.45s/it]scrapEvent:  11%|█         | 89/819 [01:54<20:25,  1.68s/it]scrapEvent:  11%|█         | 90/819 [01:55<16:15,  1.34s/it]scrapEvent:  11%|█         | 91/819 [01:56<13:25,  1.11s/it]scrapEvent:  11%|█         | 92/819 [01:56<11:20,  1.07it/s]scrapEvent:  11%|█▏        | 93/819 [01:58<15:19,  1.27s/it]scrapEvent:  11%|█▏        | 94/819 [01:59<12:51,  1.06s/it]scrapEvent:  12%|█▏        | 95/819 [02:01<17:15,  1.43s/it]scrapEvent:  12%|█▏        | 96/819 [02:03<17:53,  1.49s/it]scrapEvent:  12%|█▏        | 97/819 [02:05<19:36,  1.63s/it]scrapEvent:  12%|█▏        | 98/819 [02:05<15:47,  1.31s/it]scrapEvent:  12%|█▏        | 99/819 [02:08<20:05,  1.67s/it]scrapEvent:  12%|█▏        | 100/819 [02:10<23:33,  1.97s/it]scrapEvent:  12%|█▏        | 101/819 [02:17<40:26,  3.38s/it]scrapEvent:  12%|█▏        | 102/819 [02:19<35:17,  2.95s/it]scrapEvent:  13%|█▎        | 103/819 [02:20<28:09,  2.36s/it]scrapEvent:  13%|█▎        | 104/819 [02:21<22:14,  1.87s/it]scrapEvent:  13%|█▎        | 105/819 [02:23<23:27,  1.97s/it]scrapEvent:  13%|█▎        | 106/819 [02:25<24:45,  2.08s/it]scrapEvent:  13%|█▎        | 106/819 [02:26<16:23,  1.38s/it]
-https://www.feierwerk.de/konzert-kulturprogramm/detail/27-03-2026_synthicide-dj-johnny-nachfrage-dj-marc-z
-https://www.feierwerk.de/konzert-kulturprogramm/detail/01-04-2026_sind
-https://tickets.hendrikvonbueltzingsloewen.de/product/91345/hendrik-von-bueltzingsloewen-heppel-ettlich-muenchen-am-09-04-2026
-https://www.feierwerk.de/konzert-kulturprogramm/detail/24-03-2026_blitz-x-qeone-sound-academy-0
+scrapEvent:   0%|          | 0/822 [00:00<?, ?it/s]scrapEvent:   0%|          | 1/822 [00:00<07:46,  1.76it/s]scrapEvent:   0%|          | 2/822 [00:02<19:22,  1.42s/it]scrapEvent:   0%|          | 3/822 [00:04<23:25,  1.72s/it]scrapEvent:   0%|          | 4/822 [00:06<25:34,  1.88s/it]scrapEvent:   1%|          | 5/822 [00:12<44:31,  3.27s/it]scrapEvent:   1%|          | 6/822 [00:13<31:51,  2.34s/it]scrapEvent:   1%|          | 7/822 [00:19<49:13,  3.62s/it]scrapEvent:   1%|          | 8/822 [00:24<57:27,  4.24s/it]scrapEvent:   1%|          | 9/822 [00:26<47:09,  3.48s/it]scrapEvent:   1%|          | 10/822 [00:28<42:05,  3.11s/it]scrapEvent:   1%|▏         | 11/822 [00:29<32:24,  2.40s/it]scrapEvent:   1%|▏         | 12/822 [00:35<45:21,  3.36s/it]scrapEvent:   2%|▏         | 13/822 [00:37<40:54,  3.03s/it]scrapEvent:   2%|▏         | 14/822 [00:38<30:37,  2.27s/it]scrapEvent:   2%|▏         | 15/822 [00:38<24:24,  1.81s/it]scrapEvent:   2%|▏         | 16/822 [00:45<43:08,  3.21s/it]scrapEvent:   2%|▏         | 17/822 [00:50<52:33,  3.92s/it]scrapEvent:   2%|▏         | 18/822 [00:51<40:35,  3.03s/it]scrapEvent:   2%|▏         | 19/822 [00:57<51:35,  3.86s/it]scrapEvent:   2%|▏         | 20/822 [01:01<51:58,  3.89s/it]scrapEvent:   3%|▎         | 21/822 [01:02<40:02,  3.00s/it]scrapEvent:   3%|▎         | 22/822 [01:03<30:15,  2.27s/it]scrapEvent:   3%|▎         | 23/822 [01:04<28:43,  2.16s/it]scrapEvent:   3%|▎         | 24/822 [01:05<22:20,  1.68s/it]scrapEvent:   3%|▎         | 25/822 [01:07<24:25,  1.84s/it]scrapEvent:   3%|▎         | 26/822 [01:09<25:05,  1.89s/it]scrapEvent:   3%|▎         | 27/822 [01:15<39:33,  2.99s/it]scrapEvent:   3%|▎         | 28/822 [01:16<30:34,  2.31s/it]scrapEvent:   4%|▎         | 29/822 [01:16<23:32,  1.78s/it]scrapEvent:   4%|▎         | 30/822 [01:17<19:38,  1.49s/it]scrapEvent:   4%|▍         | 31/822 [01:18<19:26,  1.47s/it]scrapEvent:   4%|▍         | 32/822 [01:19<15:46,  1.20s/it]scrapEvent:   4%|▍         | 34/822 [01:19<10:13,  1.28it/s]scrapEvent:   4%|▍         | 35/822 [01:21<13:46,  1.05s/it]scrapEvent:   4%|▍         | 36/822 [01:23<17:17,  1.32s/it]scrapEvent:   5%|▍         | 37/822 [01:26<20:36,  1.57s/it]scrapEvent:   5%|▍         | 38/822 [01:27<18:10,  1.39s/it]scrapEvent:   5%|▍         | 39/822 [01:37<53:33,  4.10s/it]scrapEvent:   5%|▍         | 40/822 [01:38<40:04,  3.08s/it]scrapEvent:   5%|▍         | 41/822 [01:40<35:03,  2.69s/it]scrapEvent:   5%|▌         | 42/822 [01:42<33:12,  2.55s/it]scrapEvent:   5%|▌         | 43/822 [01:52<1:02:41,  4.83s/it]scrapEvent:   5%|▌         | 44/822 [01:53<47:57,  3.70s/it]  scrapEvent:   5%|▌         | 45/822 [01:59<55:10,  4.26s/it]scrapEvent:   6%|▌         | 46/822 [02:04<1:00:02,  4.64s/it]scrapEvent:   6%|▌         | 47/822 [02:11<1:08:22,  5.29s/it]scrapEvent:   6%|▌         | 48/822 [02:13<53:22,  4.14s/it]  scrapEvent:   6%|▌         | 49/822 [02:13<39:23,  3.06s/it]scrapEvent:   6%|▌         | 50/822 [02:14<30:15,  2.35s/it]scrapEvent:   6%|▌         | 51/822 [02:15<23:53,  1.86s/it]scrapEvent:   6%|▋         | 52/822 [02:15<19:40,  1.53s/it]scrapEvent:   6%|▋         | 53/822 [02:17<20:46,  1.62s/it]scrapEvent:   7%|▋         | 54/822 [02:18<16:33,  1.29s/it]scrapEvent:   7%|▋         | 55/822 [02:19<15:05,  1.18s/it]scrapEvent:   7%|▋         | 56/822 [02:19<12:51,  1.01s/it]scrapEvent:   7%|▋         | 57/822 [02:21<16:17,  1.28s/it]scrapEvent:   7%|▋         | 58/822 [02:22<13:33,  1.06s/it]scrapEvent:   7%|▋         | 59/822 [02:29<37:40,  2.96s/it]scrapEvent:   7%|▋         | 60/822 [02:35<48:50,  3.85s/it]scrapEvent:   7%|▋         | 61/822 [02:37<42:57,  3.39s/it]scrapEvent:   8%|▊         | 62/822 [02:38<33:50,  2.67s/it]scrapEvent:   8%|▊         | 63/822 [02:44<45:05,  3.56s/it]scrapEvent:   8%|▊         | 64/822 [02:46<38:33,  3.05s/it]scrapEvent:   8%|▊         | 65/822 [02:47<29:37,  2.35s/it]scrapEvent:   8%|▊         | 66/822 [02:47<22:40,  1.80s/it]scrapEvent:   8%|▊         | 67/822 [02:48<18:04,  1.44s/it]scrapEvent:   8%|▊         | 68/822 [02:48<15:23,  1.22s/it]scrapEvent:   8%|▊         | 69/822 [02:49<12:44,  1.02s/it]scrapEvent:   9%|▊         | 70/822 [02:50<11:36,  1.08it/s]scrapEvent:   9%|▊         | 71/822 [02:50<10:12,  1.23it/s]scrapEvent:   9%|▉         | 72/822 [02:51<09:11,  1.36it/s]scrapEvent:   9%|▉         | 73/822 [02:53<14:19,  1.15s/it]scrapEvent:   9%|▉         | 74/822 [02:54<15:03,  1.21s/it]scrapEvent:   9%|▉         | 75/822 [02:55<12:35,  1.01s/it]scrapEvent:   9%|▉         | 76/822 [02:56<13:39,  1.10s/it]scrapEvent:   9%|▉         | 77/822 [03:02<30:09,  2.43s/it]scrapEvent:   9%|▉         | 78/822 [03:02<22:54,  1.85s/it]scrapEvent:  10%|▉         | 79/822 [03:04<23:47,  1.92s/it]scrapEvent:  10%|▉         | 80/822 [03:10<37:17,  3.02s/it]scrapEvent:  10%|▉         | 81/822 [03:12<33:35,  2.72s/it]scrapEvent:  10%|▉         | 82/822 [03:12<26:04,  2.11s/it]scrapEvent:  10%|█         | 83/822 [03:23<56:01,  4.55s/it]scrapEvent:  10%|█         | 84/822 [03:31<1:10:08,  5.70s/it]scrapEvent:  10%|█         | 85/822 [03:37<1:09:11,  5.63s/it]scrapEvent:  10%|█         | 86/822 [03:37<50:24,  4.11s/it]  scrapEvent:  11%|█         | 87/822 [03:38<39:07,  3.19s/it]scrapEvent:  11%|█         | 88/822 [03:44<47:45,  3.90s/it]scrapEvent:  11%|█         | 89/822 [03:49<54:12,  4.44s/it]scrapEvent:  11%|█         | 90/822 [03:50<40:32,  3.32s/it]scrapEvent:  11%|█         | 91/822 [03:53<36:59,  3.04s/it]scrapEvent:  11%|█         | 92/822 [03:53<28:27,  2.34s/it]scrapEvent:  11%|█▏        | 93/822 [03:54<22:09,  1.82s/it]scrapEvent:  11%|█▏        | 94/822 [03:56<22:58,  1.89s/it]scrapEvent:  12%|█▏        | 95/822 [03:57<18:38,  1.54s/it]scrapEvent:  12%|█▏        | 96/822 [03:58<18:19,  1.52s/it]scrapEvent:  12%|█▏        | 97/822 [03:59<16:03,  1.33s/it]scrapEvent:  12%|█▏        | 98/822 [04:00<13:46,  1.14s/it]scrapEvent:  12%|█▏        | 99/822 [04:00<11:36,  1.04it/s]scrapEvent:  12%|█▏        | 100/822 [04:01<10:45,  1.12it/s]scrapEvent:  12%|█▏        | 101/822 [04:02<09:36,  1.25it/s]scrapEvent:  12%|█▏        | 102/822 [04:02<08:59,  1.34it/s]scrapEvent:  13%|█▎        | 103/822 [04:08<28:47,  2.40s/it]scrapEvent:  13%|█▎        | 104/822 [04:13<34:50,  2.91s/it]scrapEvent:  13%|█▎        | 105/822 [04:14<28:15,  2.36s/it]scrapEvent:  13%|█▎        | 106/822 [04:15<23:23,  1.96s/it]scrapEvent:  13%|█▎        | 107/822 [04:15<18:24,  1.55s/it]scrapEvent:  13%|█▎        | 108/822 [04:16<14:54,  1.25s/it]scrapEvent:  13%|█▎        | 109/822 [04:17<15:23,  1.29s/it]scrapEvent:  13%|█▎        | 110/822 [04:21<24:59,  2.11s/it]scrapEvent:  13%|█▎        | 110/822 [04:22<28:17,  2.38s/it]
 https://www.musicglue.com/ryan-oreilly/events/2026-04-15-ryan-oreilly-heppel-and-ettlich-theater-1
-https://www.feierwerk.de/konzert-kulturprogramm/detail/28-03-2026_riddim-disco
+https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/die-letzten-nachte-munchen-1C186B
+|time data 'May 7, 2026 - 20:00' does not match format '%d. %B %Y - %H:%M'         |
 https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php
-addArtist:   0%|          | 0/819 [00:00<?, ?it/s]addArtist:  88%|████████▊ | 721/819 [00:00<00:00, 737.96it/s]addArtist:  88%|████████▊ | 721/819 [00:12<00:00, 737.96it/s]addArtist:  89%|████████▉ | 732/819 [00:12<00:01, 43.54it/s] addArtist:  89%|████████▉ | 733/819 [00:14<00:02, 33.70it/s]addArtist:  89%|████████▉ | 733/819 [00:32<00:02, 33.70it/s]addArtist:  92%|█████████▏| 756/819 [00:32<00:05, 11.04it/s]addArtist:  93%|█████████▎| 759/819 [00:32<00:05, 10.71it/s]addArtist:  95%|█████████▍| 776/819 [00:45<00:06,  6.15it/s]addArtist:  95%|█████████▍| 777/819 [00:46<00:07,  5.93it/s]addArtist:  96%|█████████▌| 788/819 [00:52<00:06,  4.54it/s]addArtist:  97%|█████████▋| 795/819 [00:57<00:06,  3.63it/s]addArtist:  98%|█████████▊| 800/819 [01:01<00:06,  3.09it/s]addArtist:  98%|█████████▊| 803/819 [01:05<00:06,  2.51it/s]addArtist:  98%|█████████▊| 806/819 [01:08<00:05,  2.26it/s]addArtist:  99%|█████████▊| 808/819 [01:09<00:05,  2.13it/s]addArtist:  99%|█████████▉| 810/819 [01:11<00:04,  2.01it/s]addArtist:  99%|█████████▉| 811/819 [01:12<00:04,  1.90it/s]addArtist:  99%|█████████▉| 812/819 [01:13<00:04,  1.74it/s]addArtist:  99%|█████████▉| 813/819 [01:13<00:03,  1.66it/s]addArtist:  99%|█████████▉| 814/819 [01:14<00:03,  1.58it/s]addArtist: 100%|█████████▉| 815/819 [01:15<00:02,  1.55it/s]addArtist: 100%|█████████▉| 816/819 [01:16<00:02,  1.47it/s]addArtist: 100%|█████████▉| 817/819 [01:17<00:01,  1.41it/s]addArtist: 100%|█████████▉| 818/819 [01:19<00:01,  1.08s/it]addArtist: 100%|██████████| 819/819 [01:20<00:00,  1.01s/it]addArtist: 100%|██████████| 819/819 [01:20<00:00, 10.22it/s]
-addTracksOfArtist:   0%|          | 0/819 [00:00<?, ?it/s]addTracksOfArtist:  88%|████████▊ | 721/819 [00:00<00:00, 947.16it/s]addTracksOfArtist:  88%|████████▊ | 721/819 [00:11<00:00, 947.16it/s]addTracksOfArtist:  90%|████████▉ | 737/819 [00:12<00:01, 44.13it/s] addTracksOfArtist:  90%|█████████ | 738/819 [00:12<00:01, 41.63it/s]addTracksOfArtist:  95%|█████████▍| 778/819 [00:29<00:03, 12.90it/s]addTracksOfArtist:  95%|█████████▌| 779/819 [00:29<00:03, 12.55it/s]addTracksOfArtist:  98%|█████████▊| 801/819 [00:40<00:02,  7.47it/s]addTracksOfArtist:  98%|█████████▊| 802/819 [00:41<00:02,  7.30it/s]addTracksOfArtist: 100%|█████████▉| 815/819 [00:47<00:00,  5.29it/s]addTracksOfArtist: 100%|██████████| 819/819 [00:50<00:00, 16.14it/s]
-addTrackListOfEvents:   0%|          | 0/819 [00:00<?, ?it/s]addTrackListOfEvents:  94%|█████████▍| 769/819 [00:00<00:00, 7659.33it/s]addTrackListOfEvents: 100%|██████████| 819/819 [00:00<00:00, 5503.37it/s]
+https://rausgegangen.de/events/impro-comedy-duell-munchens-lachduell-4/
+https://www.feierwerk.de/konzert-kulturprogramm/detail/23-03-2026_french-police-sad-madona
+https://milla-club.de/cupcakes-club-90s-y2k-girl-pop-party-7/
+|HTTPSConnectionPool(host='milla-club.de', port=443): Max retries exceeded with url|
+https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php
+https://www.jerryvsan.shop/raffle
+https://strom-muc.de/event/fast-boy/
+|HTTPSConnectionPool(host='strom-muc.de', port=443): Max retries exceeded with url:|
+https://rausgegangen.de/events/simon-carl-domes-stand-up-comedy-tryout-2/
+addArtist:   0%|          | 0/822 [00:00<?, ?it/s]addArtist:  88%|████████▊ | 723/822 [00:00<00:00, 830.61it/s]addArtist:  88%|████████▊ | 723/822 [00:11<00:00, 830.61it/s]addArtist:  90%|████████▉ | 736/822 [00:11<00:01, 45.69it/s] addArtist:  90%|████████▉ | 737/822 [00:12<00:02, 41.54it/s]addArtist:  90%|████████▉ | 737/822 [00:31<00:02, 41.54it/s]addArtist:  91%|█████████▏| 751/822 [00:32<00:03, 23.18it/s]
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 461, in _make_request
+    httplib_response = conn.getresponse()
+                       ^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 1378, in getresponse
+    response.begin()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
 
+During handling of the above exception, another exception occurred:
 
-|CREATE_Log                                                         260323-12_02_20|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-|https://import-export.cc/ KeyError('href')                                        |
-|https://import-export.cc/ KeyError('href')                                        |
-|'event' object has no attribute 'find'                                            |
-|'event' object has no attribute 'find'                                            |
-|'event' object has no attribute 'tickets'                                         |
-|'event' object has no attribute 'find'                                            |
-|'event' object has no attribute 'musicglue'                                       |
-|'event' object has no attribute 'find'                                            |
-|'event' object has no attribute 'heppel_ettlich'                                  |
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-|weekend | MusikFrosch_MUC updated                   | rm:   20|add:   10|sta: DONE|
-|last minute | MusikFrosch_MUC updated               | rm:   40|add:   10|sta: DONE|
-|early bird | MusikFrosch_MUC updated                | rm:  155|add:   14|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:  242|add:   24|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:  242|add:   24|sta: DONE|
-|finished                                                      |len:  819|sta: DONE|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage next year!  Last update:                                        2026/03/23, 12:08:30
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2026/03/23, 12:08:36
-|weekend | MusikFrosch_MUC updated                   | rm:   20|add:   10|sta: DONE|
-Ready to make the weekend epic? Check out the live gigs in Munich.  Last update:                                        2026/03/23, 12:08:42
-|last minute | MusikFrosch_MUC updated               | rm:   40|add:   10|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/03/23, 12:08:48
-|early bird | MusikFrosch_MUC updated                | rm:  155|add:   14|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/03/23, 12:08:55
-|MusikFrosch_MC_test updated                         | rm:  242|add:   24|sta: DONE|
-test_palylist  Last update:                                        2026/03/23, 12:09:03
-|MusikFrosch_MUC updated                             | rm:  242|add:   24|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/03/23, 12:09:12
-|finished                                                      |len:  819|sta: DONE|
-/home/a163/GitRepo/musikfrosch_mc/LOG/260323-12_02_20_root_log.txt
-|CREATE_Log                                                         260323-12_09_19|
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/packages/six.py", line 770, in reraise
+    raise value
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 468, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 357, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 61, in <module>
+    cd.addArtist('FroschData_02', 'FroschData_03')
+  File "/home/a163/GitRepo/musikfrosch_mc/class_dictionary.py", line 203, in addArtist
+    search_response = SP_a163.sp.search(q=f"artist:{artist}", limit=1, type='artist', market='DE')
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 587, in search
+    return self._get(
+           ^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
+    return self._internal_call("GET", url, payload, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 266, in _internal_call
+    response = self._session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+|CREATE_Log                                                         260323-19_08_29|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 137936.92it/s]
-  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 168.01it/s]100%|██████████| 108/108 [00:00<00:00, 169.44it/s]
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 16283.29it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 147360.06it/s]
+  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:01<00:00, 89.07it/s]100%|██████████| 108/108 [00:01<00:00, 89.86it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 2523.14it/s]
 |Theatron MusikSommer 25 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/03/23, 12:09:54
+The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/03/23, 19:09:04
