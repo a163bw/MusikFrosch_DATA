@@ -4,77 +4,73 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Mi 8. Apr 22:02:16 CEST 2026
+Current date and time: Do 9. Apr 12:04:23 CEST 2026
 Current folder: /
 
-|CREATE_Log                                                         260408-22_02_31|
+HTTP Error for GET to https://api.spotify.com/v1/me/ with Params: {} returned 401 due to None
+|CREATE_Log                                                         260409-12_04_37|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:01<00:07,  1.24s/it]scrapSide:  29%|██▊       | 2/7 [00:02<00:05,  1.07s/it]scrapSide:  43%|████▎     | 3/7 [00:05<00:07,  1.99s/it]scrapSide:  57%|█████▋    | 4/7 [00:07<00:06,  2.05s/it]scrapSide:  71%|███████▏  | 5/7 [00:12<00:06,  3.07s/it]scrapSide:  86%|████████▌ | 6/7 [00:14<00:02,  2.71s/it]scrapSide: 100%|██████████| 7/7 [00:15<00:00,  2.29s/it]scrapSide: 100%|██████████| 7/7 [00:15<00:00,  2.25s/it]
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:05,  1.01it/s]scrapSide:  29%|██▊       | 2/7 [00:01<00:04,  1.09it/s]scrapSide:  43%|████▎     | 3/7 [00:05<00:07,  1.95s/it]scrapSide:  57%|█████▋    | 4/7 [00:06<00:05,  1.92s/it]scrapSide:  71%|███████▏  | 5/7 [00:11<00:05,  2.83s/it]scrapSide:  86%|████████▌ | 6/7 [00:13<00:02,  2.55s/it]scrapSide: 100%|██████████| 7/7 [00:14<00:00,  2.08s/it]scrapSide: 100%|██████████| 7/7 [00:14<00:00,  2.07s/it]
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-scrapEvent:   0%|          | 0/535 [00:00<?, ?it/s]scrapEvent:   0%|          | 1/535 [00:01<15:28,  1.74s/it]scrapEvent:   0%|          | 2/535 [00:02<11:33,  1.30s/it]scrapEvent:   1%|          | 3/535 [00:03<08:31,  1.04it/s]scrapEvent:   1%|          | 4/535 [00:03<07:02,  1.26it/s]scrapEvent:   1%|          | 5/535 [00:04<06:12,  1.42it/s]scrapEvent:   1%|          | 6/535 [00:04<05:42,  1.54it/s]scrapEvent:   1%|▏         | 7/535 [00:05<05:45,  1.53it/s]scrapEvent:   1%|▏         | 8/535 [00:06<05:56,  1.48it/s]scrapEvent:   2%|▏         | 9/535 [00:06<05:32,  1.58it/s]scrapEvent:   2%|▏         | 10/535 [00:07<05:41,  1.54it/s]scrapEvent:   2%|▏         | 11/535 [00:08<05:24,  1.61it/s]scrapEvent:   2%|▏         | 12/535 [00:09<07:06,  1.23it/s]scrapEvent:   2%|▏         | 13/535 [00:12<12:15,  1.41s/it]scrapEvent:   3%|▎         | 14/535 [00:12<09:58,  1.15s/it]scrapEvent:   3%|▎         | 15/535 [00:13<08:30,  1.02it/s]scrapEvent:   3%|▎         | 16/535 [00:13<07:35,  1.14it/s]scrapEvent:   3%|▎         | 17/535 [00:14<07:05,  1.22it/s]scrapEvent:   3%|▎         | 18/535 [00:15<06:23,  1.35it/s]scrapEvent:   4%|▎         | 19/535 [00:17<11:20,  1.32s/it]scrapEvent:   4%|▎         | 20/535 [00:18<09:40,  1.13s/it]scrapEvent:   4%|▍         | 21/535 [00:19<08:35,  1.00s/it]scrapEvent:   4%|▍         | 22/535 [00:19<07:52,  1.09it/s]scrapEvent:   4%|▍         | 23/535 [00:20<06:51,  1.24it/s]scrapEvent:   4%|▍         | 24/535 [00:21<06:15,  1.36it/s]scrapEvent:   5%|▍         | 25/535 [00:21<06:45,  1.26it/s]scrapEvent:   5%|▍         | 26/535 [00:22<06:03,  1.40it/s]scrapEvent:   5%|▌         | 27/535 [00:25<11:14,  1.33s/it]scrapEvent:   5%|▌         | 28/535 [00:25<09:37,  1.14s/it]scrapEvent:   5%|▌         | 29/535 [00:26<09:04,  1.08s/it]scrapEvent:   6%|▌         | 30/535 [00:27<07:42,  1.09it/s]scrapEvent:   6%|▌         | 31/535 [00:27<06:48,  1.23it/s]scrapEvent:   6%|▌         | 32/535 [00:28<06:05,  1.37it/s]scrapEvent:   6%|▌         | 33/535 [00:30<08:23,  1.00s/it]scrapEvent:   6%|▋         | 34/535 [00:30<07:37,  1.09it/s]scrapEvent:   7%|▋         | 35/535 [00:31<06:43,  1.24it/s]scrapEvent:   7%|▋         | 36/535 [00:31<06:04,  1.37it/s]scrapEvent:   7%|▋         | 37/535 [00:32<05:34,  1.49it/s]scrapEvent:   7%|▋         | 38/535 [00:33<05:14,  1.58it/s]scrapEvent:   7%|▋         | 39/535 [00:35<10:00,  1.21s/it]scrapEvent:   7%|▋         | 40/535 [00:36<08:40,  1.05s/it]scrapEvent:   8%|▊         | 41/535 [00:36<07:36,  1.08it/s]scrapEvent:   8%|▊         | 43/535 [00:39<09:09,  1.12s/it]scrapEvent:   8%|▊         | 44/535 [00:40<08:16,  1.01s/it]scrapEvent:   8%|▊         | 45/535 [00:41<08:48,  1.08s/it]scrapEvent:   9%|▊         | 46/535 [00:42<07:39,  1.06it/s]scrapEvent:   9%|▉         | 47/535 [00:43<08:33,  1.05s/it]scrapEvent:   9%|▉         | 48/535 [00:45<09:53,  1.22s/it]scrapEvent:   9%|▉         | 49/535 [00:45<08:40,  1.07s/it]scrapEvent:   9%|▉         | 50/535 [00:46<07:48,  1.03it/s]scrapEvent:  10%|▉         | 51/535 [00:47<06:49,  1.18it/s]scrapEvent:  10%|▉         | 52/535 [00:48<09:01,  1.12s/it]scrapEvent:  10%|▉         | 53/535 [00:49<08:06,  1.01s/it]scrapEvent:  10%|█         | 54/535 [00:50<07:00,  1.14it/s]scrapEvent:  10%|█         | 55/535 [00:51<07:14,  1.10it/s]scrapEvent:  10%|█         | 56/535 [00:51<06:47,  1.17it/s]scrapEvent:  11%|█         | 57/535 [00:52<06:03,  1.31it/s]scrapEvent:  11%|█         | 58/535 [00:53<05:51,  1.36it/s]scrapEvent:  11%|█         | 59/535 [00:53<05:23,  1.47it/s]scrapEvent:  11%|█         | 60/535 [00:54<05:00,  1.58it/s]scrapEvent:  11%|█▏        | 61/535 [00:54<04:45,  1.66it/s]scrapEvent:  12%|█▏        | 62/535 [00:55<04:41,  1.68it/s]scrapEvent:  12%|█▏        | 63/535 [00:56<06:26,  1.22it/s]scrapEvent:  12%|█▏        | 64/535 [00:57<05:49,  1.35it/s]scrapEvent:  12%|█▏        | 65/535 [00:58<06:14,  1.25it/s]scrapEvent:  12%|█▏        | 66/535 [00:58<05:36,  1.40it/s]scrapEvent:  13%|█▎        | 67/535 [00:59<05:10,  1.51it/s]scrapEvent:  13%|█▎        | 68/535 [00:59<05:10,  1.50it/s]scrapEvent:  13%|█▎        | 69/535 [01:00<04:55,  1.58it/s]scrapEvent:  13%|█▎        | 70/535 [01:01<04:59,  1.55it/s]scrapEvent:  13%|█▎        | 71/535 [01:02<05:37,  1.37it/s]scrapEvent:  13%|█▎        | 72/535 [01:02<05:11,  1.49it/s]scrapEvent:  14%|█▎        | 73/535 [01:03<04:49,  1.59it/s]scrapEvent:  14%|█▍        | 74/535 [01:03<04:56,  1.56it/s]scrapEvent:  14%|█▍        | 75/535 [01:04<05:05,  1.51it/s]scrapEvent:  14%|█▍        | 76/535 [01:05<05:12,  1.47it/s]scrapEvent:  14%|█▍        | 77/535 [01:06<05:45,  1.33it/s]scrapEvent:  15%|█▍        | 78/535 [01:06<05:43,  1.33it/s]scrapEvent:  15%|█▍        | 79/535 [01:07<05:14,  1.45it/s]scrapEvent:  15%|█▍        | 80/535 [01:07<04:50,  1.57it/s]scrapEvent:  15%|█▌        | 81/535 [01:08<04:50,  1.56it/s]scrapEvent:  15%|█▌        | 82/535 [01:10<07:07,  1.06it/s]scrapEvent:  16%|█▌        | 83/535 [01:10<06:10,  1.22it/s]scrapEvent:  16%|█▌        | 84/535 [01:11<06:19,  1.19it/s]scrapEvent:  16%|█▌        | 85/535 [01:12<06:40,  1.12it/s]scrapEvent:  16%|█▌        | 86/535 [01:13<05:46,  1.30it/s]scrapEvent:  16%|█▋        | 87/535 [01:14<07:26,  1.00it/s]scrapEvent:  16%|█▋        | 88/535 [01:15<06:24,  1.16it/s]scrapEvent:  17%|█▋        | 89/535 [01:15<05:46,  1.29it/s]scrapEvent:  17%|█▋        | 90/535 [01:16<05:57,  1.24it/s]scrapEvent:  17%|█▋        | 91/535 [01:17<05:20,  1.39it/s]scrapEvent:  17%|█▋        | 92/535 [01:17<05:16,  1.40it/s]scrapEvent:  17%|█▋        | 93/535 [01:18<04:53,  1.51it/s]scrapEvent:  18%|█▊        | 94/535 [01:20<07:04,  1.04it/s]scrapEvent:  18%|█▊        | 95/535 [01:20<06:05,  1.20it/s]scrapEvent:  18%|█▊        | 96/535 [01:21<05:44,  1.28it/s]scrapEvent:  18%|█▊        | 97/535 [01:22<05:58,  1.22it/s]scrapEvent:  18%|█▊        | 98/535 [01:22<05:09,  1.41it/s]scrapEvent:  19%|█▊        | 99/535 [01:24<06:39,  1.09it/s]scrapEvent:  19%|█▊        | 100/535 [01:24<05:50,  1.24it/s]scrapEvent:  19%|█▉        | 101/535 [01:25<05:14,  1.38it/s]scrapEvent:  19%|█▉        | 102/535 [01:25<04:54,  1.47it/s]scrapEvent:  19%|█▉        | 103/535 [01:26<04:33,  1.58it/s]scrapEvent:  19%|█▉        | 104/535 [01:26<04:23,  1.64it/s]scrapEvent:  20%|█▉        | 105/535 [01:28<06:55,  1.03it/s]scrapEvent:  20%|█▉        | 106/535 [01:29<06:17,  1.14it/s]scrapEvent:  20%|██        | 107/535 [01:30<06:22,  1.12it/s]scrapEvent:  20%|██        | 108/535 [01:30<05:57,  1.19it/s]scrapEvent:  20%|██        | 109/535 [01:31<05:59,  1.18it/s]scrapEvent:  20%|██        | 109/535 [01:33<06:04,  1.17it/s]
-https://import-export.cc/event/trotzdem-bex-burch-johannes-schleiermacher/
-https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/die-letzten-nachte-munchen-1C186B
-|time data 'May 7, 2026 - 20:00' does not match format '%d. %B %Y - %H:%M'         |
-https://www.feierwerk.de/konzert-kulturprogramm/detail/17-04-2026_luca-noel
-https://www.feierwerk.de/konzert-kulturprogramm/detail/16-04-2026_mamore
-https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php
-https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php
-https://www.jerryvsan.shop/raffle
-https://tickets.hendrikvonbueltzingsloewen.de/product/91345/hendrik-von-bueltzingsloewen-heppel-ettlich-muenchen-am-09-04-2026
-https://allevents.in/munich/queer-comedy-club-tickets/80001566462156
-addArtist:   0%|          | 0/535 [00:00<?, ?it/s]addArtist:  82%|████████▏ | 437/535 [00:00<00:00, 654.08it/s]addArtist:  82%|████████▏ | 437/535 [00:16<00:00, 654.08it/s]addArtist:  85%|████████▍ | 453/535 [00:16<00:04, 19.40it/s] addArtist:  85%|████████▍ | 454/535 [00:18<00:04, 17.08it/s]addArtist:  85%|████████▍ | 454/535 [00:36<00:04, 17.08it/s]addArtist:  88%|████████▊ | 470/535 [00:37<00:10,  6.14it/s]addArtist:  88%|████████▊ | 471/535 [00:38<00:10,  5.97it/s]addArtist:  91%|█████████ | 486/535 [00:42<00:09,  5.37it/s]addArtist:  93%|█████████▎| 496/535 [00:53<00:11,  3.32it/s]addArtist:  93%|█████████▎| 497/535 [00:54<00:11,  3.22it/s]addArtist:  94%|█████████▍| 503/535 [00:57<00:10,  2.93it/s]addArtist:  95%|█████████▍| 507/535 [00:59<00:09,  2.94it/s]addArtist:  95%|█████████▌| 510/535 [01:00<00:08,  2.82it/s]addArtist:  96%|█████████▌| 512/535 [01:01<00:08,  2.82it/s]addArtist:  96%|█████████▌| 514/535 [01:03<00:09,  2.22it/s]addArtist:  96%|█████████▋| 516/535 [01:05<00:09,  2.05it/s]addArtist:  97%|█████████▋| 517/535 [01:05<00:09,  1.97it/s]addArtist:  97%|█████████▋| 518/535 [01:06<00:09,  1.88it/s]addArtist:  97%|█████████▋| 519/535 [01:09<00:13,  1.16it/s]addArtist:  97%|█████████▋| 520/535 [01:10<00:12,  1.17it/s]addArtist:  97%|█████████▋| 521/535 [01:11<00:11,  1.21it/s]addArtist:  98%|█████████▊| 522/535 [01:13<00:15,  1.16s/it]addArtist:  98%|█████████▊| 523/535 [01:14<00:12,  1.06s/it]addArtist:  98%|█████████▊| 524/535 [01:14<00:10,  1.03it/s]addArtist:  98%|█████████▊| 525/535 [01:15<00:09,  1.07it/s]addArtist:  98%|█████████▊| 526/535 [01:16<00:08,  1.11it/s]addArtist:  99%|█████████▊| 527/535 [01:17<00:06,  1.18it/s]addArtist:  99%|█████████▊| 528/535 [01:17<00:05,  1.24it/s]addArtist:  99%|█████████▉| 529/535 [01:18<00:04,  1.23it/s]addArtist:  99%|█████████▉| 530/535 [01:19<00:03,  1.28it/s]addArtist:  99%|█████████▉| 531/535 [01:20<00:03,  1.31it/s]addArtist:  99%|█████████▉| 532/535 [01:20<00:02,  1.28it/s]addArtist: 100%|█████████▉| 533/535 [01:23<00:02,  1.22s/it]addArtist: 100%|█████████▉| 534/535 [01:23<00:01,  1.07s/it]addArtist: 100%|██████████| 535/535 [01:24<00:00,  1.01it/s]addArtist: 100%|██████████| 535/535 [01:24<00:00,  6.31it/s]
-addTracksOfArtist:   0%|          | 0/535 [00:00<?, ?it/s]addTracksOfArtist:  82%|████████▏ | 438/535 [00:00<00:00, 558.99it/s]addTracksOfArtist:  82%|████████▏ | 438/535 [00:11<00:00, 558.99it/s]addTracksOfArtist:  86%|████████▌ | 458/535 [00:12<00:02, 27.18it/s] addTracksOfArtist:  86%|████████▌ | 459/535 [00:12<00:02, 25.44it/s]addTracksOfArtist:  90%|█████████ | 483/535 [00:23<00:04, 10.63it/s]addTracksOfArtist:  90%|█████████ | 484/535 [00:24<00:04, 10.20it/s]addTracksOfArtist:  93%|█████████▎| 497/535 [00:33<00:06,  5.91it/s]addTracksOfArtist:  94%|█████████▍| 505/535 [00:35<00:05,  5.47it/s]addTracksOfArtist:  96%|█████████▌| 511/535 [00:37<00:04,  5.13it/s]addTracksOfArtist:  96%|█████████▋| 515/535 [00:39<00:04,  4.39it/s]addTracksOfArtist:  97%|█████████▋| 518/535 [00:41<00:04,  3.91it/s]addTracksOfArtist:  97%|█████████▋| 520/535 [00:43<00:04,  3.35it/s]addTracksOfArtist:  98%|█████████▊| 522/535 [00:45<00:04,  2.81it/s]addTracksOfArtist:  98%|█████████▊| 523/535 [00:45<00:04,  2.64it/s]addTracksOfArtist:  98%|█████████▊| 524/535 [00:46<00:04,  2.51it/s]addTracksOfArtist:  98%|█████████▊| 525/535 [00:47<00:04,  2.37it/s]addTracksOfArtist:  98%|█████████▊| 526/535 [00:47<00:04,  2.24it/s]addTracksOfArtist:  99%|█████████▊| 527/535 [00:48<00:03,  2.11it/s]addTracksOfArtist:  99%|█████████▊| 528/535 [00:48<00:03,  2.00it/s]addTracksOfArtist:  99%|█████████▉| 529/535 [00:49<00:03,  1.91it/s]addTracksOfArtist:  99%|█████████▉| 530/535 [00:50<00:02,  1.84it/s]addTracksOfArtist:  99%|█████████▉| 531/535 [00:50<00:02,  1.78it/s]addTracksOfArtist:  99%|█████████▉| 532/535 [00:51<00:01,  1.74it/s]addTracksOfArtist: 100%|█████████▉| 533/535 [00:52<00:01,  1.33it/s]addTracksOfArtist: 100%|█████████▉| 534/535 [00:53<00:00,  1.35it/s]addTracksOfArtist: 100%|██████████| 535/535 [00:53<00:00,  1.42it/s]addTracksOfArtist: 100%|██████████| 535/535 [00:53<00:00,  9.92it/s]
-addTrackListOfEvents:   0%|          | 0/535 [00:00<?, ?it/s]addTrackListOfEvents:  90%|████████▉ | 481/535 [00:00<00:00, 4807.77it/s]addTrackListOfEvents: 100%|██████████| 535/535 [00:00<00:00, 3610.94it/s]
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 271, in _internal_call
+    response.raise_for_status()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://api.spotify.com/v1/me/
 
+During handling of the above exception, another exception occurred:
 
-|CREATE_Log                                                         260408-22_02_31|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-|'NoneType' object has no attribute 'find'                                         |
-|time data 'May 7, 2026 - 20:00' does not match format '%d. %B %Y - %H:%M'         |
-|'event' object has no attribute 'find'                                            |
-|'event' object has no attribute 'find'                                            |
-|'event' object has no attribute 'heppel_ettlich'                                  |
-|'event' object has no attribute 'heppel_ettlich'                                  |
-|'event' object has no attribute 'jerryvsan'                                       |
-|'event' object has no attribute 'tickets'                                         |
-|'event' object has no attribute 'allevents'                                       |
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-|weekend | MusikFrosch_MUC updated                   | rm:   50|add:    0|sta: DONE|
-|last minute | MusikFrosch_MUC updated               | rm:   20|add:    0|sta: DONE|
-|early bird | MusikFrosch_MUC updated                | rm:   38|add:    5|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:  130|add:   14|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:  130|add:   14|sta: DONE|
-|finished                                                      |len:  535|sta: DONE|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage next year!  Last update:                                        2026/04/08, 22:06:55
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2026/04/08, 22:07:00
-|weekend | MusikFrosch_MUC updated                   | rm:   50|add:    0|sta: DONE|
-Ready to make the weekend epic? Check out the live gigs in Munich.  Last update:                                        2026/04/08, 22:07:06
-|last minute | MusikFrosch_MUC updated               | rm:   20|add:    0|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/04/08, 22:07:12
-|early bird | MusikFrosch_MUC updated                | rm:   38|add:    5|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/04/08, 22:07:18
-|MusikFrosch_MC_test updated                         | rm:  130|add:   14|sta: DONE|
-test_palylist  Last update:                                        2026/04/08, 22:07:25
-|MusikFrosch_MUC updated                             | rm:  130|add:   14|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/04/08, 22:07:32
-|finished                                                      |len:  535|sta: DONE|
-/home/a163/GitRepo/musikfrosch_mc/LOG/260408-22_02_31_root_log.txt
-|CREATE_Log                                                         260408-22_07_40|
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 40, in <module>
+    s.string_(title='Spotify token', name=SP_a163.sp.current_user()['display_name'], type_=SP_a163.sp.current_user()['type'])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 1227, in current_user
+    return self.me()
+           ^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 1221, in me
+    return self._get("me/")
+           ^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
+    return self._internal_call("GET", url, payload, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 293, in _internal_call
+    raise SpotifyException(
+spotipy.exceptions.SpotifyException: http status: 401, code:-1 - https://api.spotify.com/v1/me/:
+ None, reason: None
+|CREATE_Log                                                         260409-12_04_40|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 140286.41it/s]
-  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 168.97it/s]100%|██████████| 108/108 [00:00<00:00, 170.41it/s]
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 16404.77it/s]
-|Theatron MusikSommer 25 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2025 - Theatron!   Last update:                                        2026/04/08, 22:08:13
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 140416.87it/s]
+  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:00<00:00, 167.29it/s]100%|██████████| 108/108 [00:00<00:00, 168.72it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 2318.33it/s]
+HTTP Error for GET to https://api.spotify.com/v1/playlists/6TVlqBiw6MeqU3tZO2cm6K/tracks with Params: {'limit': 100, 'offset': 0, 'fields': None, 'market': None, 'additional_types': 'track,episode'} returned 401 due to None
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 271, in _internal_call
+    response.raise_for_status()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://api.spotify.com/v1/playlists/6TVlqBiw6MeqU3tZO2cm6K/tracks?limit=100&offset=0&additional_types=track%2Cepisode
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/theatron_main.py", line 52, in <module>
+    theatron.updatePlaylist(row_list)
+  File "/home/a163/GitRepo/musikfrosch_mc/theatron_functions.py", line 295, in updatePlaylist
+    pm.update_playlist(SP_a163, row_)
+  File "/home/a163/GitRepo/musikfrosch_mc/playlist_manager.py", line 51, in update_playlist
+    currentplaylist = getPlaylistTracks(SPOT, row_['PlaylistID'])
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/GitRepo/musikfrosch_mc/playlist_manager.py", line 21, in getPlaylistTracks
+    results = SPOT.sp.playlist_items(playlist_id, )
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 707, in playlist_items
+    return self._get(
+           ^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
+    return self._internal_call("GET", url, payload, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 293, in _internal_call
+    raise SpotifyException(
+spotipy.exceptions.SpotifyException: http status: 401, code:-1 - https://api.spotify.com/v1/playlists/6TVlqBiw6MeqU3tZO2cm6K/tracks?limit=100&offset=0&additional_types=track%2Cepisode:
+ None, reason: None
