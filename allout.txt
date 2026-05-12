@@ -4,76 +4,56 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Di 12. Mai 18:50:06 CEST 2026
+Current date and time: Di 12. Mai 22:02:06 CEST 2026
 Current folder: /
 
-|CREATE_Log                                                         260512-18_50_45|
+|CREATE_Log                                                         260512-22_02_22|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: _main_.py                                                         |
-Traceback (most recent call last):
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 466, in _make_request
-    six.raise_from(e, None)
-  File "<string>", line 3, in raise_from
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 461, in _make_request
-    httplib_response = conn.getresponse()
-                       ^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 1378, in getresponse
-    response.begin()
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 318, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 279, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/socket.py", line 706, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/ssl.py", line 1311, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/ssl.py", line 1167, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
-
-During handling of the above exception, another exception occurred:
-
+|Spotify token                                                 |nam:Musik|typ: user|
+scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:05,  1.09it/s]scrapSide:  29%|██▊       | 2/7 [00:01<00:04,  1.06it/s]scrapSide:  43%|████▎     | 3/7 [00:04<00:07,  1.93s/it]scrapSide:  57%|█████▋    | 4/7 [00:06<00:05,  1.93s/it]scrapSide:  71%|███████▏  | 5/7 [00:08<00:03,  1.82s/it]scrapSide:  86%|████████▌ | 6/7 [00:10<00:01,  1.74s/it]scrapSide: 100%|██████████| 7/7 [00:11<00:00,  1.60s/it]scrapSide: 100%|██████████| 7/7 [00:11<00:00,  1.64s/it]
+|https://import-export.cc/ KeyError('href')                                        |
+|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
+scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:04,  1.27it/s]scrapSide:  29%|██▊       | 2/7 [00:01<00:04,  1.22it/s]scrapSide:  43%|████▎     | 3/7 [00:04<00:06,  1.74s/it]scrapSide:  57%|█████▋    | 4/7 [00:06<00:05,  1.78s/it]scrapSide:  71%|███████▏  | 5/7 [00:07<00:02,  1.48s/it]scrapSide:  86%|████████▌ | 6/7 [00:08<00:01,  1.57s/it]scrapSide: 100%|██████████| 7/7 [00:09<00:00,  1.37s/it]scrapSide: 100%|██████████| 7/7 [00:09<00:00,  1.42s/it]
+|https://import-export.cc/ KeyError('href')                                        |
+|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
+scrapEvent:   0%|          | 0/447 [00:00<?, ?it/s]scrapEvent:   0%|          | 1/447 [00:01<10:08,  1.36s/it]scrapEvent:   0%|          | 2/447 [00:02<07:04,  1.05it/s]scrapEvent:   1%|          | 3/447 [00:02<05:40,  1.30it/s]scrapEvent:   1%|          | 4/447 [00:04<08:04,  1.09s/it]scrapEvent:   1%|          | 5/447 [00:04<06:45,  1.09it/s]scrapEvent:   1%|▏         | 6/447 [00:05<05:48,  1.26it/s]scrapEvent:   2%|▏         | 7/447 [00:07<09:06,  1.24s/it]scrapEvent:   2%|▏         | 8/447 [00:08<07:26,  1.02s/it]scrapEvent:   2%|▏         | 9/447 [00:08<07:04,  1.03it/s]scrapEvent:   2%|▏         | 10/447 [00:09<06:30,  1.12it/s]scrapEvent:   2%|▏         | 11/447 [00:10<06:18,  1.15it/s]scrapEvent:   3%|▎         | 12/447 [00:10<05:36,  1.29it/s]scrapEvent:   3%|▎         | 13/447 [00:11<05:35,  1.29it/s]scrapEvent:   3%|▎         | 14/447 [00:12<05:40,  1.27it/s]scrapEvent:   3%|▎         | 15/447 [00:13<05:43,  1.26it/s]scrapEvent:   4%|▎         | 16/447 [00:14<05:33,  1.29it/s]scrapEvent:   4%|▍         | 17/447 [00:14<05:00,  1.43it/s]scrapEvent:   4%|▍         | 18/447 [00:15<04:38,  1.54it/s]scrapEvent:   4%|▍         | 19/447 [00:15<04:05,  1.74it/s]scrapEvent:   4%|▍         | 20/447 [00:16<04:01,  1.77it/s]scrapEvent:   5%|▍         | 21/447 [00:16<03:44,  1.90it/s]scrapEvent:   5%|▍         | 22/447 [00:17<03:49,  1.85it/s]scrapEvent:   5%|▌         | 23/447 [00:17<04:05,  1.73it/s]scrapEvent:   5%|▌         | 24/447 [00:18<04:16,  1.65it/s]scrapEvent:   6%|▌         | 25/447 [00:19<04:10,  1.69it/s]scrapEvent:   6%|▌         | 26/447 [00:19<04:05,  1.72it/s]scrapEvent:   6%|▌         | 27/447 [00:20<03:59,  1.75it/s]scrapEvent:   6%|▋         | 28/447 [00:21<06:05,  1.15it/s]scrapEvent:   6%|▋         | 29/447 [00:22<05:21,  1.30it/s]scrapEvent:   7%|▋         | 30/447 [00:23<05:25,  1.28it/s]scrapEvent:   7%|▋         | 31/447 [00:23<05:14,  1.32it/s]scrapEvent:   7%|▋         | 32/447 [00:25<07:22,  1.07s/it]scrapEvent:   7%|▋         | 33/447 [00:26<06:16,  1.10it/s]scrapEvent:   8%|▊         | 34/447 [00:26<06:07,  1.12it/s]scrapEvent:   8%|▊         | 35/447 [00:27<05:46,  1.19it/s]scrapEvent:   8%|▊         | 36/447 [00:28<05:29,  1.25it/s]scrapEvent:   8%|▊         | 37/447 [00:29<06:05,  1.12it/s]scrapEvent:   9%|▊         | 38/447 [00:29<05:20,  1.28it/s]scrapEvent:   9%|▊         | 39/447 [00:30<04:48,  1.41it/s]scrapEvent:   9%|▉         | 40/447 [00:31<04:49,  1.40it/s]scrapEvent:   9%|▉         | 41/447 [00:32<04:59,  1.36it/s]scrapEvent:   9%|▉         | 42/447 [00:32<04:38,  1.45it/s]scrapEvent:  10%|▉         | 43/447 [00:33<04:18,  1.56it/s]scrapEvent:  10%|▉         | 44/447 [00:33<04:31,  1.49it/s]scrapEvent:  10%|█         | 45/447 [00:35<05:47,  1.16it/s]scrapEvent:  10%|█         | 46/447 [00:35<05:09,  1.29it/s]scrapEvent:  11%|█         | 47/447 [00:36<04:31,  1.47it/s]scrapEvent:  11%|█         | 48/447 [00:36<04:11,  1.58it/s]scrapEvent:  11%|█         | 49/447 [00:37<04:35,  1.45it/s]scrapEvent:  11%|█         | 50/447 [00:38<04:50,  1.37it/s]scrapEvent:  11%|█▏        | 51/447 [00:39<04:45,  1.38it/s]scrapEvent:  12%|█▏        | 52/447 [00:39<04:22,  1.50it/s]scrapEvent:  12%|█▏        | 53/447 [00:40<04:06,  1.60it/s]scrapEvent:  12%|█▏        | 54/447 [00:40<04:31,  1.45it/s]scrapEvent:  12%|█▏        | 55/447 [00:41<04:27,  1.47it/s]scrapEvent:  13%|█▎        | 56/447 [00:42<04:55,  1.32it/s]scrapEvent:  13%|█▎        | 57/447 [00:43<04:49,  1.35it/s]scrapEvent:  13%|█▎        | 58/447 [00:43<04:24,  1.47it/s]scrapEvent:  13%|█▎        | 59/447 [00:44<04:05,  1.58it/s]scrapEvent:  13%|█▎        | 60/447 [00:44<04:01,  1.60it/s]scrapEvent:  14%|█▎        | 61/447 [00:45<03:59,  1.61it/s]scrapEvent:  14%|█▍        | 62/447 [00:46<04:08,  1.55it/s]scrapEvent:  14%|█▍        | 63/447 [00:46<03:51,  1.66it/s]scrapEvent:  14%|█▍        | 64/447 [00:47<04:04,  1.57it/s]scrapEvent:  15%|█▍        | 65/447 [00:48<04:35,  1.38it/s]scrapEvent:  15%|█▍        | 66/447 [00:49<04:35,  1.38it/s]scrapEvent:  15%|█▍        | 67/447 [00:49<04:19,  1.47it/s]scrapEvent:  15%|█▌        | 68/447 [00:50<04:00,  1.58it/s]scrapEvent:  15%|█▌        | 69/447 [00:50<03:46,  1.67it/s]scrapEvent:  16%|█▌        | 70/447 [00:51<03:51,  1.63it/s]scrapEvent:  16%|█▌        | 71/447 [00:52<04:11,  1.50it/s]scrapEvent:  16%|█▌        | 72/447 [00:52<03:49,  1.64it/s]scrapEvent:  16%|█▋        | 73/447 [00:53<03:37,  1.72it/s]scrapEvent:  17%|█▋        | 74/447 [00:53<03:29,  1.78it/s]scrapEvent:  17%|█▋        | 75/447 [00:54<03:24,  1.82it/s]scrapEvent:  17%|█▋        | 76/447 [00:55<03:55,  1.57it/s]scrapEvent:  17%|█▋        | 77/447 [00:55<04:19,  1.43it/s]scrapEvent:  17%|█▋        | 78/447 [00:56<04:28,  1.38it/s]scrapEvent:  18%|█▊        | 79/447 [00:57<04:04,  1.51it/s]scrapEvent:  18%|█▊        | 80/447 [00:57<04:07,  1.48it/s]scrapEvent:  18%|█▊        | 81/447 [00:58<04:12,  1.45it/s]scrapEvent:  18%|█▊        | 82/447 [00:59<04:43,  1.29it/s]scrapEvent:  19%|█▉        | 84/447 [01:00<03:38,  1.66it/s]scrapEvent:  19%|█▉        | 85/447 [01:00<03:31,  1.71it/s]scrapEvent:  19%|█▉        | 86/447 [01:01<03:38,  1.65it/s]scrapEvent:  19%|█▉        | 87/447 [01:02<03:59,  1.51it/s]scrapEvent:  20%|█▉        | 88/447 [01:04<05:39,  1.06it/s]scrapEvent:  20%|█▉        | 89/447 [01:04<04:55,  1.21it/s]scrapEvent:  20%|██        | 90/447 [01:05<04:39,  1.28it/s]scrapEvent:  20%|██        | 91/447 [01:06<04:31,  1.31it/s]scrapEvent:  21%|██        | 92/447 [01:07<06:19,  1.07s/it]scrapEvent:  21%|██        | 93/447 [01:08<05:45,  1.02it/s]scrapEvent:  21%|██        | 94/447 [01:10<06:44,  1.15s/it]scrapEvent:  21%|██▏       | 95/447 [01:10<05:44,  1.02it/s]scrapEvent:  21%|██▏       | 96/447 [01:11<05:02,  1.16it/s]scrapEvent:  22%|██▏       | 97/447 [01:12<05:04,  1.15it/s]scrapEvent:  22%|██▏       | 98/447 [01:12<04:55,  1.18it/s]scrapEvent:  22%|██▏       | 99/447 [01:13<04:53,  1.18it/s]scrapEvent:  22%|██▏       | 100/447 [01:14<04:21,  1.33it/s]scrapEvent:  23%|██▎       | 101/447 [01:14<04:00,  1.44it/s]scrapEvent:  23%|██▎       | 102/447 [01:15<04:13,  1.36it/s]scrapEvent:  23%|██▎       | 103/447 [01:16<03:54,  1.47it/s]scrapEvent:  23%|██▎       | 104/447 [01:17<04:04,  1.40it/s]scrapEvent:  23%|██▎       | 105/447 [01:17<04:13,  1.35it/s]scrapEvent:  24%|██▎       | 106/447 [01:18<03:51,  1.48it/s]scrapEvent:  24%|██▍       | 107/447 [01:18<03:35,  1.58it/s]scrapEvent:  24%|██▍       | 108/447 [01:19<03:25,  1.65it/s]scrapEvent:  24%|██▍       | 109/447 [01:20<04:36,  1.22it/s]scrapEvent:  24%|██▍       | 109/447 [01:21<04:12,  1.34it/s]
+https://www.tickettailor.com/events/improvstarone/2196712
+https://www.eventim-light.com/de/events/6983749a0402f7225d2947c0
+https://www.yesticket.org/events/en/dynamic-duos-munich-improv-duos/
+https://www.instagram.com/milla_cafe_/
+https://www.feierwerk.de/konzert-kulturprogramm/detail/13-05-2026_black-rat-noisefront-of-judea
+https://www.jerryvsan.shop/raffle
+https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php
+https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php
+https://www.feierwerk.de/konzert-kulturprogramm/detail/16-05-2026_freude
+|https://www.muffatwerk.de/de/events/view/6453/biergarten                          |
+|fromisoformat: argument must be str                                               |
+addArtist:   0%|          | 0/447 [00:00<?, ?it/s]Max Retries reached
+addArtist:  78%|███████▊  | 348/447 [00:05<00:01, 67.29it/s]
 Traceback (most recent call last):
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
     resp = conn.urlopen(
            ^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
-    retries = retries.increment(
-              ^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 550, in increment
-    raise six.reraise(type(error), error, _stacktrace)
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/packages/six.py", line 770, in reraise
-    raise value
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
-    httplib_response = self._make_request(
-                       ^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 468, in _make_request
-    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 357, in _raise_timeout
-    raise ReadTimeoutError(
-urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 889, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 889, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 889, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 879, in urlopen
+    retries = retries.increment(method, url, response=response, _pool=self)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/search?q=artist%3Adobr%C3%A9&limit=1&offset=0&type=artist&market=DE (Caused by ResponseError('too many 502 error responses'))
 
 During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
-  File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 40, in <module>
-    s.string_(title='Spotify token', name=SP_a163.sp.current_user()['display_name'], type_=SP_a163.sp.current_user()['type'])
-                                          ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 1227, in current_user
-    return self.me()
-           ^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 1221, in me
-    return self._get("me/")
-           ^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
-    return self._internal_call("GET", url, payload, kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 266, in _internal_call
     response = self._session.request(
                ^^^^^^^^^^^^^^^^^^^^^^
@@ -83,86 +63,31 @@ Traceback (most recent call last):
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
     r = adapter.send(request, **kwargs)
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 532, in send
-    raise ReadTimeout(e, request=request)
-requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
-|CREATE_Log                                                         260512-18_50_52|
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 510, in send
+    raise RetryError(e, request=request)
+requests.exceptions.RetryError: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/search?q=artist%3Adobr%C3%A9&limit=1&offset=0&type=artist&market=DE (Caused by ResponseError('too many 502 error responses'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 61, in <module>
+    cd.addArtist('FroschData_02', 'FroschData_03')
+  File "/home/a163/GitRepo/musikfrosch_mc/class_dictionary.py", line 203, in addArtist
+    search_response = SP_a163.sp.search(q=f"artist:{artist}", limit=1, type='artist', market='DE')
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 587, in search
+    return self._get(
+           ^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
+    return self._internal_call("GET", url, payload, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 307, in _internal_call
+    raise SpotifyException(
+spotipy.exceptions.SpotifyException: http status: 429, code:-1 - /v1/search?q=artist%3Adobr%C3%A9&limit=1&offset=0&type=artist&market=DE:
+ Max Retries, reason: too many 502 error responses
+|CREATE_Log                                                         260512-22_04_13|
 |Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
 |Running script: theatron_functions.py                                             |
-  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 134019.18it/s]
-  0%|          | 0/108 [00:00<?, ?it/s] 98%|█████████▊| 106/108 [00:05<00:00, 20.47it/s]
-Traceback (most recent call last):
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 466, in _make_request
-    six.raise_from(e, None)
-  File "<string>", line 3, in raise_from
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 461, in _make_request
-    httplib_response = conn.getresponse()
-                       ^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 1378, in getresponse
-    response.begin()
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 318, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/http/client.py", line 279, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/socket.py", line 706, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/ssl.py", line 1311, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/ssl.py", line 1167, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
-    resp = conn.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 798, in urlopen
-    retries = retries.increment(
-              ^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 550, in increment
-    raise six.reraise(type(error), error, _stacktrace)
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/packages/six.py", line 770, in reraise
-    raise value
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 714, in urlopen
-    httplib_response = self._make_request(
-                       ^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 468, in _make_request
-    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 357, in _raise_timeout
-    raise ReadTimeoutError(
-urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/a163/GitRepo/musikfrosch_mc/theatron_main.py", line 18, in <module>
-    theatron.addTracksOfArtist('FroschData_Theatron_03', 'FroschData_Theatron_06')
-  File "/home/a163/GitRepo/musikfrosch_mc/theatron_functions.py", line 204, in addTracksOfArtist
-    search_response = (SP_a163.sp.artist_top_tracks(dict_artist['id'], country='GE')['tracks'])
-                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 436, in artist_top_tracks
-    return self._get("artists/" + trid + "/top-tracks", country=country)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
-    return self._internal_call("GET", url, payload, kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 266, in _internal_call
-    response = self._session.request(
-               ^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
-    resp = self.send(prep, **send_kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
-    r = adapter.send(request, **kwargs)
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 532, in send
-    raise ReadTimeout(e, request=request)
-requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 149253.65it/s]
+  0%|          | 0/108 [00:00<?, ?it/s] 99%|█████████▉| 107/108 [00:02<00:00, 40.14it/s]100%|██████████| 108/108 [00:02<00:00, 40.51it/s]
+  0%|          | 0/108 [00:00<?, ?it/s]100%|██████████| 108/108 [00:00<00:00, 2205.75it/s]
