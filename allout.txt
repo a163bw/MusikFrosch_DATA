@@ -4,286 +4,103 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Do 16. Jul 10:56:46 CEST 2026
+Current date and time: Di 21. Jul 23:54:09 CEST 2026
 Current folder: /
 
-|CREATE_Log                                                         260716-10_58_05|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:03<00:19,  3.31s/it]scrapSide:  29%|██▊       | 2/7 [00:04<00:10,  2.04s/it]scrapSide:  43%|████▎     | 3/7 [00:08<00:12,  3.06s/it]scrapSide:  57%|█████▋    | 4/7 [00:11<00:08,  2.77s/it]scrapSide:  71%|███████▏  | 5/7 [00:12<00:04,  2.23s/it]scrapSide:  86%|████████▌ | 6/7 [00:14<00:02,  2.20s/it]scrapSide: 100%|██████████| 7/7 [00:18<00:00,  2.65s/it]scrapSide: 100%|██████████| 7/7 [00:18<00:00,  2.58s/it]
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:02<00:12,  2.13s/it]scrapSide:  29%|██▊       | 2/7 [00:03<00:07,  1.47s/it]scrapSide:  43%|████▎     | 3/7 [00:06<00:09,  2.26s/it]scrapSide:  57%|█████▋    | 4/7 [00:08<00:06,  2.20s/it]scrapSide:  71%|███████▏  | 5/7 [00:09<00:03,  1.80s/it]scrapSide:  86%|████████▌ | 6/7 [00:11<00:01,  1.91s/it]scrapSide: 100%|██████████| 7/7 [00:14<00:00,  2.16s/it]scrapSide: 100%|██████████| 7/7 [00:14<00:00,  2.05s/it]
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-scrapEvent:   0%|          | 0/517 [00:00<?, ?it/s]scrapEvent:   0%|          | 1/517 [00:00<05:57,  1.44it/s]scrapEvent:   0%|          | 2/517 [00:01<05:20,  1.61it/s]scrapEvent:   1%|          | 3/517 [00:02<06:16,  1.37it/s]scrapEvent:   1%|          | 4/517 [00:02<05:55,  1.44it/s]scrapEvent:   1%|          | 5/517 [00:03<06:18,  1.35it/s]scrapEvent:   1%|          | 6/517 [00:04<05:58,  1.42it/s]scrapEvent:   1%|▏         | 7/517 [00:04<05:43,  1.48it/s]scrapEvent:   2%|▏         | 8/517 [00:05<05:26,  1.56it/s]scrapEvent:   2%|▏         | 9/517 [00:05<05:17,  1.60it/s]scrapEvent:   2%|▏         | 10/517 [00:06<05:54,  1.43it/s]scrapEvent:   2%|▏         | 11/517 [00:07<06:02,  1.40it/s]scrapEvent:   2%|▏         | 12/517 [00:08<05:42,  1.47it/s]scrapEvent:   3%|▎         | 13/517 [00:08<05:52,  1.43it/s]scrapEvent:   3%|▎         | 14/517 [00:12<12:27,  1.49s/it]scrapEvent:   3%|▎         | 15/517 [00:15<17:01,  2.04s/it]scrapEvent:   3%|▎         | 16/517 [00:17<17:18,  2.07s/it]scrapEvent:   3%|▎         | 17/517 [00:18<13:32,  1.63s/it]scrapEvent:   3%|▎         | 18/517 [00:18<11:06,  1.34s/it]scrapEvent:   4%|▎         | 19/517 [00:19<09:44,  1.17s/it]scrapEvent:   4%|▍         | 20/517 [00:20<08:50,  1.07s/it]scrapEvent:   4%|▍         | 21/517 [00:22<10:20,  1.25s/it]scrapEvent:   4%|▍         | 22/517 [00:23<09:05,  1.10s/it]scrapEvent:   4%|▍         | 23/517 [00:23<08:26,  1.03s/it]scrapEvent:   5%|▍         | 24/517 [00:27<14:56,  1.82s/it]scrapEvent:   5%|▍         | 25/517 [00:28<11:59,  1.46s/it]scrapEvent:   5%|▌         | 26/517 [00:28<09:54,  1.21s/it]scrapEvent:   5%|▌         | 27/517 [00:29<08:23,  1.03s/it]scrapEvent:   5%|▌         | 28/517 [00:29<07:21,  1.11it/s]scrapEvent:   6%|▌         | 29/517 [00:30<07:11,  1.13it/s]scrapEvent:   6%|▌         | 30/517 [00:32<08:36,  1.06s/it]scrapEvent:   6%|▌         | 31/517 [00:33<07:53,  1.03it/s]scrapEvent:   6%|▌         | 32/517 [00:33<07:29,  1.08it/s]scrapEvent:   6%|▋         | 33/517 [00:34<06:45,  1.19it/s]scrapEvent:   7%|▋         | 34/517 [00:35<06:24,  1.26it/s]scrapEvent:   7%|▋         | 35/517 [00:52<46:30,  5.79s/it]scrapEvent:   7%|▋         | 36/517 [00:53<34:25,  4.30s/it]scrapEvent:   7%|▋         | 37/517 [00:54<25:26,  3.18s/it]scrapEvent:   7%|▋         | 38/517 [00:54<19:36,  2.46s/it]scrapEvent:   8%|▊         | 39/517 [00:55<15:01,  1.89s/it]scrapEvent:   8%|▊         | 40/517 [00:55<11:44,  1.48s/it]scrapEvent:   8%|▊         | 41/517 [00:56<09:29,  1.20s/it]scrapEvent:   8%|▊         | 42/517 [00:57<07:57,  1.01s/it]scrapEvent:   8%|▊         | 43/517 [00:57<07:23,  1.07it/s]scrapEvent:   9%|▊         | 44/517 [00:59<08:56,  1.13s/it]scrapEvent:   9%|▊         | 45/517 [00:59<07:41,  1.02it/s]scrapEvent:   9%|▉         | 46/517 [01:00<06:40,  1.17it/s]scrapEvent:   9%|▉         | 47/517 [01:02<09:12,  1.18s/it]scrapEvent:   9%|▉         | 48/517 [01:03<07:43,  1.01it/s]scrapEvent:   9%|▉         | 49/517 [01:03<07:11,  1.09it/s]scrapEvent:  10%|▉         | 50/517 [01:04<06:14,  1.25it/s]scrapEvent:  10%|▉         | 51/517 [01:07<11:40,  1.50s/it]scrapEvent:  10%|█         | 52/517 [01:08<09:51,  1.27s/it]scrapEvent:  10%|█         | 53/517 [01:08<08:06,  1.05s/it]scrapEvent:  10%|█         | 54/517 [01:09<08:33,  1.11s/it]scrapEvent:  11%|█         | 55/517 [01:10<07:12,  1.07it/s]scrapEvent:  11%|█         | 56/517 [01:11<07:06,  1.08it/s]scrapEvent:  11%|█         | 57/517 [01:12<06:31,  1.17it/s]scrapEvent:  11%|█         | 58/517 [01:12<05:46,  1.33it/s]scrapEvent:  11%|█▏        | 59/517 [01:13<05:38,  1.35it/s]scrapEvent:  12%|█▏        | 60/517 [01:13<05:09,  1.48it/s]scrapEvent:  12%|█▏        | 61/517 [01:14<04:48,  1.58it/s]scrapEvent:  12%|█▏        | 62/517 [01:15<06:49,  1.11it/s]scrapEvent:  12%|█▏        | 63/517 [01:16<05:59,  1.26it/s]scrapEvent:  12%|█▏        | 64/517 [01:16<05:23,  1.40it/s]scrapEvent:  13%|█▎        | 65/517 [01:17<04:57,  1.52it/s]scrapEvent:  13%|█▎        | 66/517 [01:18<04:40,  1.61it/s]scrapEvent:  13%|█▎        | 67/517 [01:18<05:04,  1.48it/s]scrapEvent:  13%|█▎        | 68/517 [01:19<04:43,  1.58it/s]scrapEvent:  13%|█▎        | 69/517 [01:19<04:35,  1.62it/s]scrapEvent:  14%|█▎        | 70/517 [01:21<06:54,  1.08it/s]scrapEvent:  14%|█▎        | 71/517 [01:22<06:05,  1.22it/s]scrapEvent:  14%|█▍        | 72/517 [01:23<07:45,  1.05s/it]scrapEvent:  14%|█▍        | 73/517 [01:28<16:10,  2.19s/it]scrapEvent:  14%|█▍        | 74/517 [01:29<12:35,  1.71s/it]scrapEvent:  15%|█▍        | 75/517 [01:29<10:35,  1.44s/it]scrapEvent:  15%|█▍        | 76/517 [01:30<08:41,  1.18s/it]scrapEvent:  15%|█▍        | 77/517 [01:31<07:13,  1.01it/s]scrapEvent:  15%|█▌        | 78/517 [01:31<06:15,  1.17it/s]scrapEvent:  15%|█▌        | 79/517 [01:32<05:36,  1.30it/s]scrapEvent:  15%|█▌        | 80/517 [01:32<05:06,  1.43it/s]scrapEvent:  16%|█▌        | 81/517 [01:33<05:06,  1.42it/s]scrapEvent:  16%|█▌        | 82/517 [01:34<04:46,  1.52it/s]scrapEvent:  16%|█▌        | 83/517 [01:35<05:30,  1.31it/s]scrapEvent:  16%|█▌        | 84/517 [01:38<11:15,  1.56s/it]scrapEvent:  16%|█▋        | 85/517 [01:39<11:03,  1.53s/it]scrapEvent:  17%|█▋        | 86/517 [01:40<09:18,  1.29s/it]scrapEvent:  17%|█▋        | 87/517 [01:41<08:13,  1.15s/it]scrapEvent:  17%|█▋        | 88/517 [01:42<07:32,  1.06s/it]scrapEvent:  17%|█▋        | 89/517 [01:43<07:28,  1.05s/it]scrapEvent:  17%|█▋        | 90/517 [01:44<06:40,  1.07it/s]scrapEvent:  18%|█▊        | 91/517 [01:44<05:48,  1.22it/s]scrapEvent:  18%|█▊        | 92/517 [01:45<05:10,  1.37it/s]scrapEvent:  18%|█▊        | 93/517 [01:45<04:45,  1.49it/s]scrapEvent:  18%|█▊        | 94/517 [01:47<06:46,  1.04it/s]scrapEvent:  18%|█▊        | 95/517 [01:50<11:46,  1.67s/it]scrapEvent:  19%|█▊        | 96/517 [01:51<09:49,  1.40s/it]scrapEvent:  19%|█▉        | 97/517 [01:53<10:50,  1.55s/it]scrapEvent:  19%|█▉        | 98/517 [01:53<08:53,  1.27s/it]scrapEvent:  19%|█▉        | 99/517 [01:54<07:54,  1.13s/it]scrapEvent:  19%|█▉        | 100/517 [01:55<06:45,  1.03it/s]scrapEvent:  20%|█▉        | 101/517 [01:55<05:59,  1.16it/s]scrapEvent:  20%|█▉        | 102/517 [01:59<11:01,  1.59s/it]scrapEvent:  20%|█▉        | 103/517 [01:59<08:52,  1.29s/it]scrapEvent:  20%|██        | 104/517 [02:01<09:26,  1.37s/it]scrapEvent:  20%|██        | 105/517 [02:01<07:39,  1.12s/it]scrapEvent:  21%|██        | 106/517 [02:03<08:44,  1.28s/it]scrapEvent:  21%|██        | 107/517 [02:04<07:14,  1.06s/it]scrapEvent:  21%|██        | 108/517 [02:05<08:58,  1.32s/it]scrapEvent:  21%|██        | 109/517 [02:06<07:53,  1.16s/it]
-https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG
-|time data 'February 19, 2027 - 20:00' does not match format '%d. %B %Y - %H:%M'   |
-https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/heppels-pop-up-chor-mimi-munchen-8C71QY
-https://www.feierwerk.de/konzert-kulturprogramm/detail/12-08-2026_theatron-udo-west-lauraine
-https://import-export.cc/event/futaci-volkmann-xylouris-kontou/
-https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-ZNBDMJ
-https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/fur-immer-dich-rio-munchen-009I2G
-https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-wollen-nur-spielen-munchen-2SXEM8
-https://www.feierwerk.de/konzert-kulturprogramm/detail/18-07-2026_morecore-alle-infos
-https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/ozge-inan-dichterin-munchen-TD30CR
-addArtist:   0%|          | 0/517 [00:00<?, ?it/s]addArtist:  80%|███████▉  | 413/517 [00:00<00:00, 527.26it/s]addArtist:  80%|███████▉  | 413/517 [00:11<00:00, 527.26it/s]addArtist:  81%|████████  | 418/517 [00:11<00:03, 26.75it/s] addArtist:  81%|████████  | 419/517 [00:12<00:04, 23.01it/s]addArtist:  81%|████████  | 419/517 [00:31<00:04, 23.01it/s]addArtist:  83%|████████▎ | 431/517 [00:33<00:14,  5.81it/s]addArtist:  84%|████████▎ | 432/517 [00:34<00:15,  5.59it/s]addArtist:  86%|████████▌ | 444/517 [00:45<00:20,  3.61it/s]addArtist:  86%|████████▋ | 446/517 [00:46<00:20,  3.47it/s]addArtist:  86%|████████▋ | 446/517 [01:01<00:20,  3.47it/s]addArtist:  87%|████████▋ | 452/517 [01:07<00:43,  1.49it/s]addArtist:  88%|████████▊ | 454/517 [01:08<00:41,  1.52it/s]addArtist:  89%|████████▉ | 459/517 [01:16<00:46,  1.26it/s]addArtist:  90%|████████▉ | 463/517 [01:18<00:41,  1.30it/s]addArtist:  90%|█████████ | 466/517 [01:19<00:36,  1.39it/s]addArtist:  91%|█████████ | 468/517 [01:22<00:38,  1.26it/s]addArtist:  91%|█████████ | 470/517 [01:32<01:04,  1.38s/it]addArtist:  91%|█████████ | 471/517 [01:33<01:03,  1.37s/it]addArtist:  91%|█████████▏| 473/517 [01:34<00:54,  1.23s/it]addArtist:  92%|█████████▏| 474/517 [01:35<00:51,  1.20s/it]addArtist:  92%|█████████▏| 475/517 [01:37<00:52,  1.24s/it]addArtist:  92%|█████████▏| 476/517 [01:38<00:49,  1.20s/it]addArtist:  92%|█████████▏| 477/517 [01:42<01:10,  1.76s/it]addArtist:  92%|█████████▏| 478/517 [01:43<01:04,  1.66s/it]addArtist:  93%|█████████▎| 479/517 [01:45<01:00,  1.58s/it]addArtist:  93%|█████████▎| 480/517 [01:45<00:52,  1.41s/it]addArtist:  93%|█████████▎| 481/517 [01:47<00:49,  1.39s/it]addArtist:  93%|█████████▎| 482/517 [01:48<00:48,  1.37s/it]addArtist:  93%|█████████▎| 483/517 [01:49<00:46,  1.36s/it]addArtist:  94%|█████████▎| 484/517 [01:50<00:39,  1.20s/it]addArtist:  94%|█████████▍| 485/517 [01:53<00:50,  1.57s/it]addArtist:  94%|█████████▍| 486/517 [01:53<00:40,  1.32s/it]addArtist:  94%|█████████▍| 487/517 [01:55<00:39,  1.32s/it]addArtist:  94%|█████████▍| 488/517 [01:56<00:34,  1.17s/it]addArtist:  95%|█████████▍| 489/517 [01:56<00:29,  1.07s/it]addArtist:  95%|█████████▍| 490/517 [01:57<00:26,  1.01it/s]addArtist:  95%|█████████▌| 492/517 [01:58<00:17,  1.43it/s]addArtist:  96%|█████████▌| 494/517 [01:59<00:13,  1.71it/s]addArtist:  96%|█████████▌| 495/517 [01:59<00:13,  1.62it/s]addArtist:  96%|█████████▌| 496/517 [02:00<00:14,  1.40it/s]addArtist:  96%|█████████▌| 497/517 [02:02<00:20,  1.03s/it]addArtist:  96%|█████████▋| 498/517 [02:03<00:16,  1.13it/s]addArtist:  97%|█████████▋| 499/517 [02:04<00:15,  1.19it/s]addArtist:  97%|█████████▋| 500/517 [02:04<00:14,  1.20it/s]addArtist:  97%|█████████▋| 502/517 [02:06<00:11,  1.36it/s]addArtist:  97%|█████████▋| 503/517 [02:07<00:11,  1.17it/s]addArtist:  97%|█████████▋| 504/517 [02:08<00:11,  1.18it/s]addArtist:  98%|█████████▊| 505/517 [02:09<00:10,  1.15it/s]addArtist:  98%|█████████▊| 506/517 [02:09<00:09,  1.21it/s]addArtist:  98%|█████████▊| 507/517 [02:10<00:07,  1.26it/s]addArtist:  98%|█████████▊| 508/517 [02:11<00:07,  1.25it/s]addArtist:  98%|█████████▊| 509/517 [02:12<00:07,  1.08it/s]addArtist:  99%|█████████▊| 510/517 [02:13<00:06,  1.12it/s]addArtist:  99%|█████████▉| 511/517 [02:14<00:05,  1.15it/s]addArtist:  99%|█████████▉| 512/517 [02:15<00:04,  1.21it/s]addArtist:  99%|█████████▉| 513/517 [02:15<00:03,  1.21it/s]addArtist:  99%|█████████▉| 514/517 [02:16<00:02,  1.21it/s]addArtist: 100%|█████████▉| 515/517 [02:17<00:01,  1.03it/s]addArtist: 100%|█████████▉| 516/517 [02:18<00:00,  1.11it/s]addArtist: 100%|██████████| 517/517 [02:19<00:00,  1.14it/s]addArtist: 100%|██████████| 517/517 [02:19<00:00,  3.71it/s]
-addTracksOfArtist:   0%|          | 0/517 [00:00<?, ?it/s]addTracksOfArtist:  80%|████████  | 414/517 [00:01<00:00, 318.56it/s]addTracksOfArtist:  80%|████████  | 414/517 [00:11<00:00, 318.56it/s]addTracksOfArtist:  84%|████████▎ | 432/517 [00:11<00:03, 27.63it/s] addTracksOfArtist:  84%|████████▍ | 433/517 [00:12<00:03, 25.73it/s]addTracksOfArtist:  86%|████████▋ | 447/517 [00:18<00:05, 13.76it/s]addTracksOfArtist:  88%|████████▊ | 455/517 [00:27<00:08,  7.23it/s]addTracksOfArtist:  89%|████████▉ | 460/517 [00:28<00:08,  6.58it/s]addTracksOfArtist:  90%|████████▉ | 463/517 [00:30<00:08,  6.12it/s]addTracksOfArtist:  90%|█████████ | 466/517 [00:30<00:08,  6.02it/s]addTracksOfArtist:  91%|█████████ | 468/517 [00:31<00:09,  5.34it/s]addTracksOfArtist:  91%|█████████ | 470/517 [00:35<00:14,  3.26it/s]addTracksOfArtist:  91%|█████████ | 471/517 [00:36<00:14,  3.12it/s]addTracksOfArtist:  91%|█████████▏| 473/517 [00:36<00:13,  3.20it/s]addTracksOfArtist:  92%|█████████▏| 474/517 [00:37<00:14,  3.05it/s]addTracksOfArtist:  92%|█████████▏| 475/517 [00:37<00:15,  2.79it/s]addTracksOfArtist:  92%|█████████▏| 476/517 [00:38<00:16,  2.55it/s]addTracksOfArtist:  92%|█████████▏| 477/517 [00:40<00:23,  1.70it/s]addTracksOfArtist:  92%|█████████▏| 478/517 [00:40<00:22,  1.70it/s]addTracksOfArtist:  93%|█████████▎| 479/517 [00:41<00:22,  1.68it/s]addTracksOfArtist:  93%|█████████▎| 480/517 [00:41<00:22,  1.66it/s]addTracksOfArtist:  93%|█████████▎| 481/517 [00:42<00:20,  1.72it/s]addTracksOfArtist:  93%|█████████▎| 482/517 [00:43<00:20,  1.71it/s]addTracksOfArtist:  93%|█████████▎| 483/517 [00:43<00:20,  1.69it/s]addTracksOfArtist:  94%|█████████▎| 484/517 [00:44<00:19,  1.67it/s]addTracksOfArtist:  94%|█████████▍| 485/517 [00:45<00:23,  1.34it/s]addTracksOfArtist:  94%|█████████▍| 486/517 [00:46<00:21,  1.41it/s]addTracksOfArtist:  94%|█████████▍| 487/517 [00:46<00:20,  1.46it/s]addTracksOfArtist:  94%|█████████▍| 488/517 [00:47<00:19,  1.51it/s]addTracksOfArtist:  95%|█████████▍| 489/517 [00:47<00:17,  1.62it/s]addTracksOfArtist:  95%|█████████▍| 490/517 [00:48<00:16,  1.62it/s]addTracksOfArtist:  95%|█████████▌| 492/517 [00:49<00:11,  2.11it/s]addTracksOfArtist:  96%|█████████▌| 494/517 [00:49<00:09,  2.40it/s]addTracksOfArtist:  96%|█████████▌| 495/517 [00:50<00:09,  2.28it/s]addTracksOfArtist:  96%|█████████▌| 496/517 [00:50<00:09,  2.13it/s]addTracksOfArtist:  96%|█████████▌| 497/517 [00:51<00:09,  2.10it/s]addTracksOfArtist:  97%|█████████▋| 499/517 [00:51<00:07,  2.45it/s]addTracksOfArtist:  97%|█████████▋| 500/517 [00:52<00:07,  2.19it/s]addTracksOfArtist:  97%|█████████▋| 502/517 [00:53<00:05,  2.64it/s]addTracksOfArtist:  97%|█████████▋| 503/517 [00:53<00:05,  2.34it/s]addTracksOfArtist:  97%|█████████▋| 504/517 [00:54<00:06,  2.11it/s]addTracksOfArtist:  98%|█████████▊| 505/517 [00:54<00:06,  1.96it/s]addTracksOfArtist:  98%|█████████▊| 506/517 [00:55<00:05,  1.86it/s]addTracksOfArtist:  98%|█████████▊| 507/517 [00:55<00:05,  1.90it/s]addTracksOfArtist:  98%|█████████▊| 508/517 [00:56<00:04,  1.92it/s]addTracksOfArtist:  98%|█████████▊| 509/517 [00:56<00:04,  1.93it/s]addTracksOfArtist:  99%|█████████▊| 510/517 [00:57<00:03,  1.92it/s]addTracksOfArtist:  99%|█████████▉| 511/517 [00:58<00:03,  1.93it/s]addTracksOfArtist:  99%|█████████▉| 512/517 [00:58<00:02,  1.94it/s]addTracksOfArtist:  99%|█████████▉| 513/517 [00:59<00:02,  1.90it/s]addTracksOfArtist:  99%|█████████▉| 514/517 [00:59<00:01,  1.91it/s]addTracksOfArtist: 100%|█████████▉| 515/517 [01:00<00:01,  1.92it/s]addTracksOfArtist: 100%|█████████▉| 516/517 [01:00<00:00,  1.86it/s]addTracksOfArtist: 100%|██████████| 517/517 [01:01<00:00,  1.79it/s]addTracksOfArtist: 100%|██████████| 517/517 [01:01<00:00,  8.43it/s]
-addTrackListOfEvents:   0%|          | 0/517 [00:00<?, ?it/s]addTrackListOfEvents:  89%|████████▉ | 461/517 [00:00<00:00, 4601.11it/s]addTrackListOfEvents: 100%|██████████| 517/517 [00:00<00:00, 3427.97it/s]
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 588, in refresh_access_token
+    response.raise_for_status()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://accounts.spotify.com/api/token
 
+During handling of the above exception, another exception occurred:
 
-|CREATE_Log                                                         260716-10_58_05|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-|https://backstage.eu/veranstaltungen/live.html AttributeError("'NoneType' object h|
-|time data 'February 19, 2027 - 20:00' does not match format '%d. %B %Y - %H:%M'   |
-|'NoneType' object has no attribute 'text'                                         |
-|'event' object has no attribute 'find'                                            |
-|'NoneType' object has no attribute 'find'                                         |
-|'NoneType' object has no attribute 'text'                                         |
-|'NoneType' object has no attribute 'text'                                         |
-|'NoneType' object has no attribute 'text'                                         |
-|'event' object has no attribute 'find'                                            |
-|'NoneType' object has no attribute 'text'                                         |
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-|weekend | MusikFrosch_MUC updated                   | rm:   16|add:    0|sta: DONE|
-|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-|early bird | MusikFrosch_MUC updated                | rm:   18|add:   23|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:   10|add:    4|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:   10|add:    4|sta: DONE|
-|finished                                                      |len:  517|sta: DONE|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage next year!  Last update:                                        2026/07/16, 11:04:07
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2026/07/16, 11:04:12
-|weekend | MusikFrosch_MUC updated                   | rm:   16|add:    0|sta: DONE|
-Ready to make the weekend epic? Check out the live gigs in Munich.  Last update:                                        2026/07/16, 11:04:18
-|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/07/16, 11:04:23
-|early bird | MusikFrosch_MUC updated                | rm:   18|add:   23|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/07/16, 11:04:29
-|MusikFrosch_MC_test updated                         | rm:   10|add:    4|sta: DONE|
-test_palylist  Last update:                                        2026/07/16, 11:04:37
-|MusikFrosch_MUC updated                             | rm:   10|add:    4|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/07/16, 11:04:45
-|finished                                                      |len:  517|sta: DONE|
-/home/a163/GitRepo/musikfrosch_mc/LOG/260716-10_58_05_root_log.txt
-|CREATE_Log                                                         260716-11_04_53|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: theatron_functions.py                                             |
-|CREATE_Log                                                         260716-11_04_53|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: theatron_functions.py                                             |
-  0%|          | 0/163 [00:00<?, ?it/s]100%|██████████| 163/163 [00:00<00:00, 149862.24it/s]
-  0%|          | 0/163 [00:00<?, ?it/s] 66%|██████▌   | 107/163 [00:00<00:00, 171.14it/s] 88%|████████▊ | 144/163 [00:01<00:00, 82.68it/s] 100%|██████████| 163/163 [00:01<00:00, 105.74it/s]
-  0%|          | 0/163 [00:00<?, ?it/s]100%|██████████| 163/163 [00:00<00:00, 16960.35it/s]
-|Theatron MusikSommer tomorrow | MusikFrosch_MUC upda| rm:    0|add:    0|sta: DONE|
-Who's rocking the stage tomorrow at SommerFest 2026 - Theatron?   Last update:                                        2026/07/16, 11:05:36
-|Theatron MusikSommer today | MusikFrosch_MUC updated| rm:    0|add:    0|sta: DONE|
-On the stage today!   Last update:                                        2026/07/16, 11:05:42
-|Theatron MusikSommer 26 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2026 - Theatron!   Last update:                                        2026/07/16, 11:05:48
-|Theatron MusikSommer 26 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2026 - Theatron!   Last update:                                        2026/07/16, 11:05:54
-|Theatron MusikSommer 26 | MusikFrosch_MUC updated   | rm:    0|add:    0|sta: DONE|
-The whole line-up of SommerFest 2026 - Theatron!   Last update:                                        2026/07/16, 11:06:00
-|CREATE_Log                                                         260716-11_06_08|
-|Work directory: /home/a163/GitRepo/musikfrosch_mc                                 |
-|Running script: inota_functions.py                                                |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dvx-nvx            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/eszeveszett        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/fllozz             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/yibai-x-fausto-merc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/adistu-ro          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/anni-kinnunen-fi   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cape-sante-it      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/forgach-emma       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/istvan-dukai       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lightform          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lukas-truniger-bruc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/maotik-fr          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/radiante-light-art-|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/soviet-monday      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sven-sauer-de      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/timaeus-nl         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/weiler-peter       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/ben-klock-de       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/marr-n-nl          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/quelza-fr          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sandwell-district-g|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/eva                |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/james-k-us         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/kasper-marott-dk   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/d-dan-us-kr        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/alarico-it         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/loscil-ca          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/kalte-liebe-de     |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/isu-sikztah        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/uberkikz-future-666|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/killatk-br         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/buzz-kull          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/maramba-br         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/technokool-akac    |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lenkke             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cormac-gb          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/alpha-tracks-dina-a|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/extrawelt-de       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/feral-it           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sadsvit-ua         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/acidpach-fr        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/farseer-aus        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/woody92-nl         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/nova-gravity       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dorota-akos-v      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/makrohang          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/tele-port          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/slym-szoliver      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dvx-nvx            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/eszeveszett        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/fllozz             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/yibai-x-fausto-merc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/rollator           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/rozalina-subotage  |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/pneumatix-ro       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/erro               |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/tekno-elharitasi-ko|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/baco               |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/mateosz-tb         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/swanasa            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/reti-virag         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/mob                |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/krudy-c            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/girlhood           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/laka-lkts-z        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/neux-ge            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/zavogaa-auerbach   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/anya-romokban-3000 |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/varazslo           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/gaston-fiore-ar    |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/irgum-burgum       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dokin-ben-elfed    |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/nautis             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/jaky-chen-mkls     |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dj-reload          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/vava-live          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/kiuz-arash-ete     |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cvrdwell           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/gingershot-klpflrtp|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/adistu-ro          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/anni-kinnunen-fi   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cape-sante-it      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/forgach-emma       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/istvan-dukai       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lightform          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lukas-truniger-bruc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/maotik-fr          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/radiante-light-art-|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/soviet-monday      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sven-sauer-de      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/timaeus-nl         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/weiler-peter       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dvx-nvx            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/eszeveszett        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/fllozz             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/yibai-x-fausto-merc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/adistu-ro          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/anni-kinnunen-fi   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cape-sante-it      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/forgach-emma       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/istvan-dukai       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lightform          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lukas-truniger-bruc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/maotik-fr          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/radiante-light-art-|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/soviet-monday      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sven-sauer-de      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/timaeus-nl         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/weiler-peter       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/ben-klock-de       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/marr-n-nl          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/quelza-fr          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sandwell-district-g|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/eva                |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/james-k-us         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/kasper-marott-dk   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/d-dan-us-kr        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/alarico-it         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/loscil-ca          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/kalte-liebe-de     |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/isu-sikztah        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/uberkikz-future-666|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/killatk-br         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/buzz-kull          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/maramba-br         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/technokool-akac    |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lenkke             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cormac-gb          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/alpha-tracks-dina-a|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/extrawelt-de       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/feral-it           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sadsvit-ua         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/acidpach-fr        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/farseer-aus        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/woody92-nl         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/nova-gravity       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dorota-akos-v      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/makrohang          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/tele-port          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/slym-szoliver      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dvx-nvx            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/eszeveszett        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/fllozz             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/yibai-x-fausto-merc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/rollator           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/rozalina-subotage  |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/pneumatix-ro       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/erro               |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/tekno-elharitasi-ko|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/baco               |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/mateosz-tb         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/swanasa            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/reti-virag         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/mob                |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/krudy-c            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/girlhood           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/laka-lkts-z        |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/neux-ge            |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/zavogaa-auerbach   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/anya-romokban-3000 |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/varazslo           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/gaston-fiore-ar    |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/irgum-burgum       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dokin-ben-elfed    |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/nautis             |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/jaky-chen-mkls     |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/dj-reload          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/vava-live          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/kiuz-arash-ete     |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cvrdwell           |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/gingershot-klpflrtp|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/adistu-ro          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/anni-kinnunen-fi   |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/cape-sante-it      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/forgach-emma       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/istvan-dukai       |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lightform          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/lukas-truniger-bruc|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/maotik-fr          |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/radiante-light-art-|
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/soviet-monday      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/sven-sauer-de      |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/timaeus-nl         |
-|Skip Inota card, no datetime: https://inotafestival.hu/artists/weiler-peter       |
-  0%|          | 0/58 [00:00<?, ?it/s]100%|██████████| 58/58 [00:00<00:00, 129882.34it/s]
-  0%|          | 0/58 [00:00<?, ?it/s]100%|██████████| 58/58 [00:00<00:00, 141189.57it/s]
-  0%|          | 0/58 [00:00<?, ?it/s]100%|██████████| 58/58 [00:00<00:00, 108312.39it/s]
-|INOTA 2026 Full | MusikFrosch_MUC updated           | rm:    0|add:    0|sta: DONE|
-Inota full festival line-up (2026-08-27 to 2026-08-30).  Last update:                                        2026/07/16, 11:06:46
-|INOTA 2026 Day 3 | MusikFrosch_MUC updated          | rm:    0|add:    0|sta: DONE|
-Inota 2026 Day 3 line-up (2026-08-29).  Last update:                                        2026/07/16, 11:06:52
-|INOTA 2026 Day 2 | MusikFrosch_MUC updated          | rm:    0|add:    0|sta: DONE|
-Inota 2026 Day 2 line-up (2026-08-28).  Last update:                                        2026/07/16, 11:06:58
-|INOTA 2026 Day 1 | MusikFrosch_MUC updated          | rm:    0|add:    0|sta: DONE|
-Inota 2026 Day 1 line-up (2026-08-27).  Last update:                                        2026/07/16, 11:07:04
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/_main_.py", line 25, in <module>
+    import scrapers as s
+  File "/home/a163/GitRepo/musikfrosch_mc/scrapers.py", line 18, in <module>
+    import class_dictionary as cd
+  File "/home/a163/GitRepo/musikfrosch_mc/class_dictionary.py", line 23, in <module>
+    SP_a163 = spot.spotfy_class(a163_LOGIN, SCOPE)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/GitRepo/musikfrosch_mc/spotypys.py", line 54, in __init__
+    token = util.prompt_for_user_token(username=SP_LOGIN[0],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/util.py", line 96, in prompt_for_user_token
+    token_info = sp_oauth.validate_token(sp_oauth.cache_handler.get_cached_token())
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 380, in validate_token
+    token_info = self.refresh_access_token(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 596, in refresh_access_token
+    self._handle_oauth_error(http_error)
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 146, in _handle_oauth_error
+    raise SpotifyOauthError(
+spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refresh token expired
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 588, in refresh_access_token
+    response.raise_for_status()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://accounts.spotify.com/api/token
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/theatron_main.py", line 8, in <module>
+    import theatron_functions as theatron
+  File "/home/a163/GitRepo/musikfrosch_mc/theatron_functions.py", line 27, in <module>
+    import scrapers as s
+  File "/home/a163/GitRepo/musikfrosch_mc/scrapers.py", line 18, in <module>
+    import class_dictionary as cd
+  File "/home/a163/GitRepo/musikfrosch_mc/class_dictionary.py", line 23, in <module>
+    SP_a163 = spot.spotfy_class(a163_LOGIN, SCOPE)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/GitRepo/musikfrosch_mc/spotypys.py", line 54, in __init__
+    token = util.prompt_for_user_token(username=SP_LOGIN[0],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/util.py", line 96, in prompt_for_user_token
+    token_info = sp_oauth.validate_token(sp_oauth.cache_handler.get_cached_token())
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 380, in validate_token
+    token_info = self.refresh_access_token(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 596, in refresh_access_token
+    self._handle_oauth_error(http_error)
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 146, in _handle_oauth_error
+    raise SpotifyOauthError(
+spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refresh token revoked
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 588, in refresh_access_token
+    response.raise_for_status()
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://accounts.spotify.com/api/token
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch_mc/inota_main.py", line 8, in <module>
+    import inota_functions as inota
+  File "/home/a163/GitRepo/musikfrosch_mc/inota_functions.py", line 32, in <module>
+    import scrapers as s
+  File "/home/a163/GitRepo/musikfrosch_mc/scrapers.py", line 18, in <module>
+    import class_dictionary as cd
+  File "/home/a163/GitRepo/musikfrosch_mc/class_dictionary.py", line 23, in <module>
+    SP_a163 = spot.spotfy_class(a163_LOGIN, SCOPE)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/GitRepo/musikfrosch_mc/spotypys.py", line 54, in __init__
+    token = util.prompt_for_user_token(username=SP_LOGIN[0],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/util.py", line 96, in prompt_for_user_token
+    token_info = sp_oauth.validate_token(sp_oauth.cache_handler.get_cached_token())
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 380, in validate_token
+    token_info = self.refresh_access_token(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 596, in refresh_access_token
+    self._handle_oauth_error(http_error)
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 146, in _handle_oauth_error
+    raise SpotifyOauthError(
+spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refresh token revoked
