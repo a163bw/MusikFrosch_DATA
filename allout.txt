@@ -4,7 +4,7 @@
   ██║╚██╔╝██║██║   ██║╚════██║██║██║     ██╔══╝  ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██║╚██╔╝██║██║     
   ██║ ╚═╝ ██║╚██████╔╝███████║██║╚██████╗██║     ██║  ██║╚██████╔╝███████║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╗
   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝
-Current date and time: Di 21. Jul 23:54:09 CEST 2026
+Current date and time: Mi 22. Jul 00:07:05 CEST 2026
 Current folder: /
 
 Traceback (most recent call last):
@@ -37,7 +37,7 @@ Traceback (most recent call last):
     self._handle_oauth_error(http_error)
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 146, in _handle_oauth_error
     raise SpotifyOauthError(
-spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refresh token expired
+spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refresh token revoked
 Traceback (most recent call last):
   File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/oauth2.py", line 588, in refresh_access_token
     response.raise_for_status()
