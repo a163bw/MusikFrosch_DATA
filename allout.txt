@@ -1531,3 +1531,92 @@ spotipy.oauth2.SpotifyOauthError: error: invalid_grant, error_description: Refre
 |MusikFrosch_MC_test updated                         | rm:   22|add:   20|sta: DONE|
 |MusikFrosch_MUC updated                             | rm:   22|add:   20|sta: DONE|
 |finished                                                      |len:   98|sta: DONE|
+
+
+|CREATE_Log                                                         260820-16_50_08|
+|Work directory: d:\Documents\GitRepos\musikfrosch                                 |
+|Running script: _main_.py                                                         |
+|Spotify token                                                 |nam:Musik|typ: user|
+|                                                                                  |
+|scrapEvent summary by domain                                                      |
+|                                                                                  |
+|domain                  |fnd:found|att:  att|suc:  suc|fal: fail|rat: rate%       |
+|eventim                 |fnd:    1|att:    0|suc:    0|fal:    0|rat:   0.0%      |
+|eventim_light           |fnd:    7|att:    7|suc:    7|fal:    0|rat: 100.0%      |
+|feierwerk               |fnd:    8|att:    8|suc:    8|fal:    0|rat: 100.0%      |
+|import_export           |fnd:   10|att:   10|suc:   10|fal:    0|rat: 100.0%      |
+|loveyourartist          |fnd:    4|att:    4|suc:    0|fal:    4|rat:   0.0%      |
+|milla_club              |fnd:   31|att:    2|suc:    2|fal:    0|rat: 100.0%      |
+|muffatwerk              |fnd:   52|att:   52|suc:   52|fal:    0|rat: 100.0%      |
+|shop                    |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
+|strom_muc               |fnd:   14|att:   14|suc:   14|fal:    0|rat: 100.0%      |
+|yesticket               |fnd:    7|att:    7|suc:    6|fal:    1|rat:  85.7%      |
+|TOTAL                   |fnd:  135|att:  105|suc:  100|fal:    5|rat:  95.2%      |
+|                                                                                  |
+|MILLA rows suc=2 fail=0 attempts=2 skip_cap=0 skip_cd=29 prot_streak=0 quarantine=|
+|fail reasons: loveyourartist (n=4)                                                |
+|   4 100.0% Could not find loveyourartist event title                             |
+|failed links:                                                                     |
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-U76959|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/fur-immer-dich-rio-munchen-009I2G|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/lyhre-dead-concept-munchen-JHLJRG|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/paul-holland-munchen-9HLVMY|
+|fail reasons: yesticket (n=1)                                                     |
+|   1 100.0% Could not find yesticket info node                                    |
+|failed links:                                                                     |
+|https://www.yesticket.org/events/en/dynamic-duos-munich-improv-duos/|
+|Feierwerk | MusikFrosch_MUC updated                 | rm:    4|add:    9|sta: DONE|
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    6|sta: DONE|
+|weekend | MusikFrosch_MUC updated                   | rm:    0|add:   20|sta: DONE|
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
+|early bird | MusikFrosch_MUC updated                | rm:   46|add:   39|sta: DONE|
+|MusikFrosch_MC_test updated                         | rm:   16|add:   20|sta: DONE|
+|MusikFrosch_MUC updated                             | rm:   16|add:   20|sta: DONE|
+|finished                                                      |len:   95|sta: DONE|
+
+
+|CREATE_Log                                                         260820-17_01_41|
+|Work directory: d:\Documents\GitRepos\musikfrosch                                 |
+|Running script: _main_.py                                                         |
+|Spotify token                                                 |nam:Musik|typ: user|
+|                                                                                  |
+|scrapEvent summary by domain                                                      |
+|                                                                                  |
+|domain                  |fnd:found|att:  att|suc:  suc|fal: fail|rat: rate%       |
+|buytickets              |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
+|christinastrasser       |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
+|eventim                 |fnd:    1|att:    0|suc:    0|fal:    0|rat:   0.0%      |
+|eventim_light           |fnd:    7|att:    7|suc:    7|fal:    0|rat: 100.0%      |
+|feierwerk               |fnd:    5|att:    5|suc:    5|fal:    0|rat: 100.0%      |
+|import_export           |fnd:    7|att:    7|suc:    6|fal:    1|rat:  85.7%      |
+|loveyourartist          |fnd:    7|att:    7|suc:    0|fal:    7|rat:   0.0%      |
+|milla_club              |fnd:   26|att:    1|suc:    1|fal:    0|rat: 100.0%      |
+|muffatwerk              |fnd:   65|att:   65|suc:   65|fal:    0|rat: 100.0%      |
+|strom_muc               |fnd:    8|att:    8|suc:    8|fal:    0|rat: 100.0%      |
+|yesticket               |fnd:    6|att:    6|suc:    6|fal:    0|rat: 100.0%      |
+|TOTAL                   |fnd:  134|att:  108|suc:  100|fal:    8|rat:  92.6%      |
+|                                                                                  |
+|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=25 prot_streak=0 quarantine=|
+|fail reasons: import_export (n=1)                                                 |
+|   1 100.0% Could not find import_export event contain                            |
+|failed links:                                                                     |
+|https://import-export.cc/event/taxi-salon-fujita-amina-hocine-mazen-kerbaj/|
+|fail reasons: loveyourartist (n=7)                                                |
+|   6  85.7% Could not find loveyourartist event title                             |
+|   1  14.3% Could not parse loveyourartist datetime fr                            |
+|failed links:                                                                     |
+|https://bit.ly/45DhwCO|
+|https://loveyourartist.com/de/events/josepha-walter-crashout-munchen-WP5JWY|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-ZNBDMJ|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-letzten-nachte-munchen-ZKS8FN|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/fur-immer-dich-rio-munchen-009I2G|
+|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/ozge-inan-dichterin-munchen-TD30CR|
+|https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY|
+|Feierwerk | MusikFrosch_MUC updated                 | rm:   13|add:    2|sta: DONE|
+|M<3 | MusikFrosch_MUC updated                       | rm:    6|add:    3|sta: DONE|
+|weekend | MusikFrosch_MUC updated                   | rm:   10|add:    0|sta: DONE|
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
+|early bird | MusikFrosch_MUC updated                | rm:   32|add:   48|sta: DONE|
+|MusikFrosch_MC_test updated                         | rm:   22|add:   24|sta: DONE|
+|MusikFrosch_MUC updated                             | rm:   22|add:   24|sta: DONE|
+|finished                                                      |len:   97|sta: DONE|
