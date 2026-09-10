@@ -1,7 +1,7 @@
 
 ===== MusikFrosch =====
-Run ID:             2026-09-10_15-03-12
-Current date/time:  Do 10. Sep 15:03:12 CEST 2026
+Run ID:             2026-09-10_19-01-12
+Current date/time:  Do 10. Sep 19:01:12 CEST 2026
 Host:               a163-edge
 User:               a163
 Project:            /home/a163/GitRepo/musikfrosch
@@ -9,12 +9,12 @@ Data:               /home/a163/GitRepo/MusikFrosch_DATA
 Python:             /home/a163/anaconda3/envs/musikfrosch/bin/python
 
 ===== Running _main_.py =====
-|CREATE_Log                                                         260910-15_03_24|
+|CREATE_Log                                                         260910-19_01_23|
 |Work directory: /home/a163/GitRepo/musikfrosch                                    |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:04,  1.23it/s]scrapSide:  29%|██▊       | 2/7 [00:02<00:06,  1.29s/it]scrapSide:  43%|████▎     | 3/7 [00:06<00:09,  2.35s/it]scrapSide:  57%|█████▋    | 4/7 [00:09<00:07,  2.62s/it]scrapSide:  71%|███████▏  | 5/7 [00:12<00:05,  2.80s/it]scrapSide:  86%|████████▌ | 6/7 [00:14<00:02,  2.55s/it]scrapSide: 100%|██████████| 7/7 [00:16<00:00,  2.48s/it]scrapSide: 100%|██████████| 7/7 [00:16<00:00,  2.37s/it]
-scrapEvent:   0%|          | 0/589 [00:00<?, ?it/s]scrapEvent:   1%|          | 5/589 [00:00<01:01,  9.43it/s]scrapEvent:   1%|          | 6/589 [00:02<04:09,  2.34it/s]scrapEvent:   2%|▏         | 10/589 [00:02<02:52,  3.35it/s]scrapEvent:   2%|▏         | 12/589 [00:03<03:02,  3.17it/s]scrapEvent:   4%|▍         | 26/589 [00:04<00:59,  9.47it/s]scrapEvent:   6%|▋         | 38/589 [00:05<01:12,  7.56it/s]scrapEvent:   8%|▊         | 49/589 [00:07<01:07,  8.04it/s]scrapEvent:   9%|▊         | 51/589 [00:07<01:13,  7.30it/s]scrapEvent:  10%|▉         | 57/589 [00:08<01:04,  8.24it/s]scrapEvent:  10%|▉         | 58/589 [00:09<01:38,  5.41it/s]scrapEvent:  10%|█         | 61/589 [00:10<02:17,  3.83it/s]scrapEvent:  13%|█▎        | 74/589 [00:11<01:07,  7.68it/s]scrapEvent:  13%|█▎        | 78/589 [00:12<01:27,  5.83it/s]scrapEvent:  14%|█▎        | 80/589 [00:13<01:30,  5.65it/s]scrapEvent:  14%|█▍        | 85/589 [00:13<01:15,  6.64it/s]scrapEvent:  15%|█▌        | 90/589 [00:14<01:06,  7.49it/s]scrapEvent:  16%|█▋        | 96/589 [00:15<01:19,  6.17it/s]scrapEvent:  17%|█▋        | 103/589 [00:15<01:01,  7.89it/s]scrapEvent:  20%|█▉        | 116/589 [00:16<00:37, 12.68it/s]scrapEvent:  21%|██        | 123/589 [00:19<01:27,  5.30it/s]scrapEvent:  22%|██▏       | 127/589 [00:20<01:20,  5.76it/s]scrapEvent:  23%|██▎       | 136/589 [00:21<01:12,  6.26it/s]scrapEvent:  24%|██▎       | 139/589 [00:22<01:26,  5.21it/s]scrapEvent:  24%|██▍       | 141/589 [00:23<01:34,  4.72it/s]scrapEvent:  27%|██▋       | 157/589 [00:23<00:44,  9.75it/s]scrapEvent:  28%|██▊       | 163/589 [00:23<00:40, 10.54it/s]scrapEvent:  28%|██▊       | 165/589 [00:24<00:51,  8.29it/s]scrapEvent:  31%|███       | 181/589 [00:25<00:30, 13.56it/s]scrapEvent:  34%|███▎      | 198/589 [00:26<00:27, 14.28it/s]scrapEvent:  35%|███▍      | 206/589 [00:28<00:41,  9.32it/s]scrapEvent:  35%|███▌      | 208/589 [00:29<00:58,  6.48it/s]scrapEvent:  36%|███▌      | 213/589 [00:30<01:00,  6.22it/s]scrapEvent:  37%|███▋      | 220/589 [00:31<00:51,  7.12it/s]scrapEvent:  39%|███▊      | 227/589 [00:31<00:42,  8.46it/s]scrapEvent:  39%|███▉      | 229/589 [00:31<00:46,  7.79it/s]scrapEvent:  41%|████      | 240/589 [00:33<00:43,  8.03it/s]scrapEvent:  42%|████▏     | 246/589 [00:33<00:37,  9.22it/s]scrapEvent:  45%|████▍     | 264/589 [00:34<00:20, 16.08it/s]scrapEvent:  48%|████▊     | 280/589 [00:34<00:17, 17.84it/s]scrapEvent:  51%|█████▏    | 303/589 [00:35<00:11, 24.37it/s]scrapEvent:  52%|█████▏    | 308/589 [00:36<00:18, 15.05it/s]scrapEvent:  53%|█████▎    | 311/589 [00:37<00:24, 11.32it/s]scrapEvent:  55%|█████▌    | 324/589 [00:38<00:20, 13.18it/s]scrapEvent:  56%|█████▌    | 327/589 [00:38<00:21, 12.27it/s]scrapEvent:  57%|█████▋    | 337/589 [00:39<00:18, 13.99it/s]scrapEvent:  58%|█████▊    | 339/589 [00:40<00:35,  7.11it/s]scrapEvent:  61%|██████    | 359/589 [00:42<00:24,  9.28it/s]scrapEvent:  61%|██████▏   | 361/589 [00:42<00:26,  8.68it/s]scrapEvent:  62%|██████▏   | 366/589 [00:43<00:24,  9.07it/s]scrapEvent:  62%|██████▏   | 367/589 [00:44<00:44,  5.03it/s]scrapEvent:  63%|██████▎   | 370/589 [00:45<00:46,  4.73it/s]scrapEvent:  64%|██████▍   | 379/589 [00:46<00:29,  7.23it/s]scrapEvent:  65%|██████▌   | 384/589 [00:47<00:36,  5.55it/s]scrapEvent:  65%|██████▌   | 385/589 [00:48<00:46,  4.43it/s]scrapEvent:  67%|██████▋   | 392/589 [00:49<00:39,  4.98it/s]scrapEvent:  70%|███████   | 414/589 [00:50<00:15, 11.50it/s]scrapEvent:  71%|███████   | 419/589 [00:50<00:15, 10.63it/s]scrapEvent:  71%|███████▏  | 421/589 [00:51<00:18,  9.17it/s]scrapEvent:  72%|███████▏  | 423/589 [00:51<00:21,  7.85it/s]scrapEvent:  72%|███████▏  | 424/589 [00:53<00:37,  4.44it/s]scrapEvent:  76%|███████▌  | 445/589 [00:53<00:11, 12.16it/s]scrapEvent:  76%|███████▌  | 447/589 [00:55<00:20,  7.05it/s]scrapEvent:  76%|███████▌  | 449/589 [00:56<00:22,  6.13it/s]scrapEvent:  77%|███████▋  | 453/589 [00:56<00:21,  6.39it/s]scrapEvent:  77%|███████▋  | 456/589 [00:57<00:26,  4.94it/s]scrapEvent:  79%|███████▉  | 466/589 [00:58<00:16,  7.66it/s]scrapEvent:  79%|███████▉  | 468/589 [00:59<00:24,  4.86it/s]scrapEvent:  81%|████████  | 477/589 [01:01<00:20,  5.57it/s]scrapEvent:  81%|████████▏ | 480/589 [01:01<00:20,  5.29it/s]scrapEvent:  82%|████████▏ | 484/589 [01:02<00:19,  5.51it/s]scrapEvent:  83%|████████▎ | 486/589 [01:02<00:20,  5.01it/s]scrapEvent:  83%|████████▎ | 488/589 [01:04<00:31,  3.21it/s]scrapEvent:  84%|████████▎ | 493/589 [01:05<00:22,  4.31it/s]scrapEvent:  84%|████████▍ | 495/589 [01:05<00:24,  3.86it/s]scrapEvent:  84%|████████▍ | 497/589 [01:07<00:29,  3.08it/s]scrapEvent:  85%|████████▌ | 502/589 [01:07<00:21,  4.07it/s]scrapEvent:  86%|████████▌ | 504/589 [01:09<00:29,  2.86it/s]scrapEvent:  86%|████████▌ | 507/589 [01:09<00:23,  3.46it/s]scrapEvent:  92%|█████████▏| 541/589 [01:11<00:04, 11.15it/s]scrapEvent:  93%|█████████▎| 548/589 [01:12<00:04,  8.71it/s]scrapEvent:  94%|█████████▎| 551/589 [01:13<00:04,  8.58it/s]scrapEvent:  94%|█████████▍| 554/589 [01:14<00:05,  6.23it/s]scrapEvent:  94%|█████████▍| 555/589 [01:15<00:05,  5.68it/s]scrapEvent:  96%|█████████▌| 563/589 [01:15<00:03,  7.39it/s]scrapEvent:  96%|█████████▌| 565/589 [01:16<00:03,  6.44it/s]scrapEvent:  97%|█████████▋| 570/589 [01:17<00:03,  6.33it/s]scrapEvent:  98%|█████████▊| 576/589 [01:17<00:01,  7.91it/s]scrapEvent:  98%|█████████▊| 578/589 [01:17<00:01,  7.19it/s]scrapEvent: 100%|██████████| 589/589 [01:17<00:00,  7.56it/s]
+scrapSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapSide:  14%|█▍        | 1/7 [00:00<00:05,  1.12it/s]scrapSide:  29%|██▊       | 2/7 [00:02<00:06,  1.24s/it]scrapSide:  43%|████▎     | 3/7 [00:09<00:16,  4.07s/it]scrapSide:  57%|█████▋    | 4/7 [00:11<00:09,  3.21s/it]scrapSide:  71%|███████▏  | 5/7 [00:12<00:04,  2.41s/it]scrapSide:  86%|████████▌ | 6/7 [00:14<00:02,  2.34s/it]scrapSide: 100%|██████████| 7/7 [00:16<00:00,  2.22s/it]scrapSide: 100%|██████████| 7/7 [00:16<00:00,  2.41s/it]
+scrapEvent:   0%|          | 0/591 [00:00<?, ?it/s]scrapEvent:   0%|          | 1/591 [00:00<05:08,  1.91it/s]scrapEvent:   1%|          | 3/591 [00:00<02:48,  3.48it/s]scrapEvent:   1%|          | 7/591 [00:01<02:04,  4.70it/s]scrapEvent:   1%|▏         | 8/591 [00:02<03:59,  2.44it/s]scrapEvent:   5%|▍         | 28/591 [00:03<00:45, 12.32it/s]scrapEvent:   6%|▋         | 37/591 [00:03<00:41, 13.47it/s]scrapEvent:   8%|▊         | 45/591 [00:04<00:39, 13.92it/s]scrapEvent:  10%|▉         | 57/591 [00:04<00:29, 17.88it/s]scrapEvent:  10%|█         | 60/591 [00:06<00:56,  9.33it/s]scrapEvent:  10%|█         | 62/591 [00:06<01:12,  7.29it/s]scrapEvent:  11%|█         | 64/591 [00:07<01:16,  6.91it/s]scrapEvent:  12%|█▏        | 70/591 [00:07<01:00,  8.67it/s]scrapEvent:  12%|█▏        | 72/591 [00:08<01:06,  7.83it/s]scrapEvent:  12%|█▏        | 73/591 [00:08<01:18,  6.58it/s]scrapEvent:  14%|█▍        | 84/591 [00:09<00:45, 11.11it/s]scrapEvent:  15%|█▌        | 89/591 [00:10<01:15,  6.62it/s]scrapEvent:  16%|█▌        | 92/591 [00:11<01:26,  5.80it/s]scrapEvent:  17%|█▋        | 101/591 [00:12<01:14,  6.57it/s]scrapEvent:  17%|█▋        | 102/591 [00:14<02:06,  3.86it/s]scrapEvent:  18%|█▊        | 104/591 [00:15<02:34,  3.16it/s]scrapEvent:  19%|█▊        | 110/591 [00:16<02:10,  3.69it/s]scrapEvent:  20%|█▉        | 118/591 [00:18<01:49,  4.32it/s]scrapEvent:  21%|██        | 123/591 [00:19<01:57,  3.97it/s]scrapEvent:  21%|██        | 124/591 [00:20<02:09,  3.60it/s]scrapEvent:  21%|██▏       | 126/591 [00:20<02:06,  3.67it/s]scrapEvent:  23%|██▎       | 133/591 [00:21<01:21,  5.65it/s]scrapEvent:  24%|██▎       | 139/591 [00:21<01:05,  6.95it/s]scrapEvent:  25%|██▌       | 148/591 [00:22<00:56,  7.84it/s]scrapEvent:  25%|██▌       | 150/591 [00:24<01:34,  4.68it/s]scrapEvent:  26%|██▌       | 152/591 [00:24<01:39,  4.43it/s]scrapEvent:  26%|██▌       | 154/591 [00:25<01:37,  4.48it/s]scrapEvent:  27%|██▋       | 157/591 [00:27<02:16,  3.19it/s]scrapEvent:  28%|██▊       | 163/591 [00:27<01:27,  4.88it/s]scrapEvent:  31%|███       | 181/591 [00:28<00:40, 10.13it/s]scrapEvent:  31%|███▏      | 185/591 [00:28<00:40, 10.08it/s]scrapEvent:  32%|███▏      | 189/591 [00:29<00:43,  9.25it/s]scrapEvent:  32%|███▏      | 191/591 [00:29<00:54,  7.27it/s]scrapEvent:  35%|███▍      | 205/591 [00:31<00:49,  7.84it/s]scrapEvent:  36%|███▌      | 212/591 [00:33<01:03,  5.99it/s]scrapEvent:  36%|███▋      | 215/591 [00:35<01:25,  4.42it/s]scrapEvent:  37%|███▋      | 217/591 [00:40<03:23,  1.84it/s]scrapEvent:  37%|███▋      | 218/591 [00:41<03:22,  1.84it/s]scrapEvent:  37%|███▋      | 221/591 [00:41<02:45,  2.23it/s]scrapEvent:  39%|███▉      | 232/591 [00:42<01:19,  4.54it/s]scrapEvent:  41%|████      | 242/591 [00:44<01:10,  4.93it/s]scrapEvent:  45%|████▌     | 267/591 [00:44<00:29, 11.12it/s]scrapEvent:  46%|████▌     | 270/591 [00:45<00:31, 10.25it/s]scrapEvent:  47%|████▋     | 277/591 [00:46<00:42,  7.46it/s]scrapEvent:  47%|████▋     | 279/591 [00:47<00:43,  7.16it/s]scrapEvent:  48%|████▊     | 283/591 [00:49<01:02,  4.93it/s]scrapEvent:  48%|████▊     | 285/591 [00:50<01:16,  3.98it/s]scrapEvent:  49%|████▉     | 292/591 [00:50<00:52,  5.68it/s]scrapEvent:  50%|█████     | 296/591 [00:51<00:46,  6.33it/s]scrapEvent:  53%|█████▎    | 315/591 [00:51<00:21, 12.99it/s]scrapEvent:  54%|█████▎    | 317/591 [00:52<00:36,  7.59it/s]scrapEvent:  54%|█████▍    | 322/591 [00:53<00:37,  7.27it/s]scrapEvent:  55%|█████▍    | 324/591 [00:54<00:45,  5.90it/s]scrapEvent:  55%|█████▍    | 325/591 [00:54<00:49,  5.38it/s]scrapEvent:  55%|█████▌    | 326/591 [00:55<00:58,  4.54it/s]scrapEvent:  56%|█████▋    | 333/591 [00:55<00:35,  7.24it/s]scrapEvent:  57%|█████▋    | 336/591 [00:57<01:05,  3.90it/s]scrapEvent:  57%|█████▋    | 339/591 [00:59<01:24,  2.98it/s]scrapEvent:  58%|█████▊    | 343/591 [01:00<01:12,  3.44it/s]scrapEvent:  60%|██████    | 357/591 [01:01<00:41,  5.69it/s]scrapEvent:  61%|██████    | 360/591 [01:03<00:50,  4.57it/s]scrapEvent:  63%|██████▎   | 371/591 [01:03<00:29,  7.35it/s]scrapEvent:  63%|██████▎   | 375/591 [01:04<00:38,  5.59it/s]scrapEvent:  66%|██████▌   | 389/591 [01:06<00:29,  6.91it/s]scrapEvent:  67%|██████▋   | 394/591 [01:06<00:25,  7.62it/s]scrapEvent:  69%|██████▉   | 408/591 [01:07<00:16, 11.04it/s]scrapEvent:  70%|██████▉   | 413/591 [01:08<00:22,  7.94it/s]scrapEvent:  72%|███████▏  | 424/591 [01:09<00:15, 10.81it/s]scrapEvent:  72%|███████▏  | 428/591 [01:10<00:18,  9.03it/s]scrapEvent:  73%|███████▎  | 430/591 [01:10<00:20,  7.92it/s]scrapEvent:  74%|███████▍  | 439/591 [01:10<00:14, 10.69it/s]scrapEvent:  76%|███████▋  | 451/591 [01:12<00:12, 11.00it/s]scrapEvent:  78%|███████▊  | 459/591 [01:12<00:11, 11.98it/s]scrapEvent:  80%|███████▉  | 472/591 [01:14<00:11, 10.30it/s]scrapEvent:  81%|████████  | 478/591 [01:14<00:10, 10.41it/s]scrapEvent:  81%|████████  | 480/591 [01:15<00:13,  8.54it/s]scrapEvent:  82%|████████▏ | 483/591 [01:16<00:18,  5.86it/s]scrapEvent:  82%|████████▏ | 487/591 [01:17<00:15,  6.52it/s]scrapEvent:  84%|████████▎ | 494/591 [01:18<00:16,  5.90it/s]scrapEvent:  89%|████████▊ | 524/591 [01:21<00:08,  7.82it/s]scrapEvent:  90%|█████████ | 534/591 [01:23<00:07,  7.47it/s]scrapEvent:  91%|█████████ | 537/591 [01:23<00:07,  6.82it/s]scrapEvent:  94%|█████████▍| 557/591 [01:24<00:03, 10.72it/s]scrapEvent:  95%|█████████▍| 559/591 [01:25<00:03,  9.95it/s]scrapEvent:  98%|█████████▊| 577/591 [01:25<00:00, 14.35it/s]scrapEvent:  99%|█████████▉| 587/591 [01:26<00:00, 15.30it/s]scrapEvent: 100%|█████████▉| 589/591 [01:27<00:00,  8.89it/s]scrapEvent: 100%|██████████| 591/591 [01:27<00:00,  6.74it/s]
 
 |                                                                                  |
 |scrapEvent summary by domain                                                      |
@@ -43,8 +43,8 @@ Python:             /home/a163/anaconda3/envs/musikfrosch/bin/python
 |jerryvsan               |fnd:    2|att:    2|suc:    2|fal:    0|rat: 100.0%      |
 |loveyourartist          |fnd:   21|att:   21|suc:    0|fal:   21|rat:   0.0%      |
 |loveyourartist          |fnd:   21|att:   21|suc:    0|fal:   21|rat:   0.0%      |
-|milla_club              |fnd:  123|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|milla_club              |fnd:  123|att:    1|suc:    1|fal:    0|rat: 100.0%      |
+|milla_club              |fnd:  123|att:    2|suc:    1|fal:    1|rat:  50.0%      |
+|milla_club              |fnd:  123|att:    2|suc:    1|fal:    1|rat:  50.0%      |
 |muffatwerk              |fnd:  239|att:   13|suc:   13|fal:    0|rat: 100.0%      |
 |muffatwerk              |fnd:  239|att:   13|suc:   13|fal:    0|rat: 100.0%      |
 |shop                    |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
@@ -55,14 +55,14 @@ Python:             /home/a163/anaconda3/envs/musikfrosch/bin/python
 |strom_muc               |fnd:   67|att:    8|suc:    8|fal:    0|rat: 100.0%      |
 |universe                |fnd:    1|att:    1|suc:    0|fal:    1|rat:   0.0%      |
 |universe                |fnd:    1|att:    1|suc:    0|fal:    1|rat:   0.0%      |
-|yesticket               |fnd:   19|att:    1|suc:    0|fal:    1|rat:   0.0%      |
-|yesticket               |fnd:   19|att:    1|suc:    0|fal:    1|rat:   0.0%      |
-|TOTAL                   |fnd:  589|att:   88|suc:   63|fal:   25|rat:  71.6%      |
-|TOTAL                   |fnd:  589|att:   88|suc:   63|fal:   25|rat:  71.6%      |
+|yesticket               |fnd:   21|att:    3|suc:    2|fal:    1|rat:  66.7%      |
+|yesticket               |fnd:   21|att:    3|suc:    2|fal:    1|rat:  66.7%      |
+|TOTAL                   |fnd:  591|att:   91|suc:   65|fal:   26|rat:  71.4%      |
+|TOTAL                   |fnd:  591|att:   91|suc:   65|fal:   26|rat:  71.4%      |
 
 |                                                                                  |
-MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=93 prot_streak=0 quarantine=0 breaker=0
-|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=93 prot_streak=0 quarantine=|
+MILLA rows suc=1 fail=1 attempts=2 skip_cap=0 skip_cd=91 prot_streak=1 quarantine=0 breaker=0
+|MILLA rows suc=1 fail=1 attempts=2 skip_cap=0 skip_cd=91 prot_streak=1 quarantine=|
 fail reasons: clubzwei (n=1)
 |fail reasons: clubzwei (n=1)                                                      |
    1 100.0% 'event' object has no attribute 'clubzwei'
@@ -130,6 +130,14 @@ https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauerm
 |https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY|
 https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG
 |https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG|
+fail reasons: milla_club (n=1)
+|fail reasons: milla_club (n=1)                                                    |
+   1 100.0% Milla Club suspicious date: parsed event d
+|   1 100.0% Milla Club suspicious date: parsed event d                            |
+failed links:
+|failed links:                                                                     |
+https://milla-club.de/lemony-rug/
+|https://milla-club.de/lemony-rug/|
 fail reasons: universe (n=1)
 |fail reasons: universe (n=1)                                                      |
    1 100.0% 'event' object has no attribute 'universe'
@@ -145,108 +153,66 @@ failed links:
 |failed links:                                                                     |
 https://www.yesticket.org/events/de/dynamic-duos-munich-improv-duos/
 |https://www.yesticket.org/events/de/dynamic-duos-munich-improv-duos/|
-addArtist:   0%|          | 0/460 [00:00<?, ?it/s]addArtist:   0%|          | 1/460 [00:00<05:15,  1.46it/s]addArtist:  10%|▉         | 45/460 [00:01<00:09, 42.05it/s]addArtist:  17%|█▋        | 79/460 [00:01<00:07, 51.76it/s]addArtist:  19%|█▉        | 87/460 [00:02<00:11, 33.69it/s]addArtist:  33%|███▎      | 150/460 [00:03<00:05, 61.63it/s]addArtist:  41%|████      | 187/460 [00:03<00:04, 57.91it/s]addArtist:  42%|████▏     | 194/460 [00:04<00:06, 40.78it/s]addArtist:  45%|████▌     | 207/460 [00:05<00:07, 34.83it/s]addArtist:  59%|█████▉    | 272/460 [00:05<00:03, 59.92it/s]addArtist:  67%|██████▋   | 307/460 [00:07<00:03, 39.77it/s]addArtist:  68%|██████▊   | 313/460 [00:07<00:04, 31.54it/s]addArtist:  71%|███████   | 325/460 [00:08<00:04, 29.94it/s]addArtist:  72%|███████▏  | 329/460 [00:08<00:05, 23.64it/s]addArtist:  82%|████████▏ | 378/460 [00:09<00:02, 39.05it/s]addArtist:  85%|████████▍ | 390/460 [00:10<00:01, 35.49it/s]addArtist:  92%|█████████▏| 421/460 [00:10<00:00, 39.63it/s]addArtist: 100%|██████████| 460/460 [00:10<00:00, 43.03it/s]
-addTracksOfArtist:   0%|          | 0/460 [00:00<?, ?it/s]addTracksOfArtist:   1%|▏         | 6/460 [00:00<00:46,  9.79it/s]addTracksOfArtist:   3%|▎         | 13/460 [00:01<00:35, 12.67it/s]addTracksOfArtist:  10%|█         | 48/460 [00:02<00:15, 26.55it/s]addTracksOfArtist:  13%|█▎        | 58/460 [00:02<00:16, 24.43it/s]addTracksOfArtist:  18%|█▊        | 82/460 [00:03<00:14, 25.29it/s]addTracksOfArtist:  20%|█▉        | 90/460 [00:03<00:15, 23.31it/s]addTracksOfArtist:  20%|██        | 93/460 [00:04<00:19, 19.11it/s]addTracksOfArtist:  27%|██▋       | 123/460 [00:05<00:14, 23.09it/s]addTracksOfArtist:  34%|███▍      | 158/460 [00:06<00:10, 28.49it/s]addTracksOfArtist:  36%|███▋      | 167/460 [00:06<00:10, 26.68it/s]addTracksOfArtist:  40%|████      | 186/460 [00:07<00:09, 30.13it/s]addTracksOfArtist:  45%|████▍     | 205/460 [00:07<00:07, 33.06it/s]addTracksOfArtist:  67%|██████▋   | 307/460 [00:08<00:02, 61.64it/s]addTracksOfArtist:  73%|███████▎  | 334/460 [00:09<00:02, 60.83it/s]addTracksOfArtist:  76%|███████▌  | 350/460 [00:09<00:02, 54.90it/s]addTracksOfArtist: 100%|██████████| 460/460 [00:09<00:00, 47.30it/s]
-addTrackListOfEvents:   0%|          | 0/460 [00:00<?, ?it/s]addTrackListOfEvents: 100%|██████████| 460/460 [00:00<00:00, 5356.23it/s]
+addArtist:   0%|          | 0/464 [00:00<?, ?it/s]addArtist:   0%|          | 1/464 [00:03<25:28,  3.30s/it]Max Retries reached
+addArtist:   0%|          | 1/464 [00:05<44:50,  5.81s/it]
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 889, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 889, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 889, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/connectionpool.py", line 879, in urlopen
+    retries = retries.increment(method, url, response=response, _pool=self)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/search?q=artist%3Adevon+allman+blues+summit+%0D%0Afeat.+jimmy+hall%2C+claudette+king%2C+bernard+allison&limit=1&offset=0&type=artist&market=DE (Caused by ResponseError('too many 502 error responses'))
 
+During handling of the above exception, another exception occurred:
 
-|CREATE_Log                                                         260910-15_03_24|
-|Work directory: /home/a163/GitRepo/musikfrosch                                    |
-|Running script: _main_.py                                                         |
-|Spotify token                                                 |nam:Musik|typ: user|
-|                                                                                  |
-|scrapEvent summary by domain                                                      |
-|                                                                                  |
-|domain                  |fnd:found|att:  att|suc:  suc|fal: fail|rat: rate%       |
-|buytickets              |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|christinastrasser       |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|clubzwei                |fnd:    1|att:    1|suc:    0|fal:    1|rat:   0.0%      |
-|eventim                 |fnd:    3|att:    0|suc:    0|fal:    0|rat:   0.0%      |
-|eventim_light           |fnd:   21|att:   21|suc:   21|fal:    0|rat: 100.0%      |
-|feierwerk               |fnd:   24|att:    3|suc:    2|fal:    1|rat:  66.7%      |
-|heppel_ettlich          |fnd:   11|att:   11|suc:   11|fal:    0|rat: 100.0%      |
-|import_export           |fnd:   53|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|jerryvsan               |fnd:    2|att:    2|suc:    2|fal:    0|rat: 100.0%      |
-|loveyourartist          |fnd:   21|att:   21|suc:    0|fal:   21|rat:   0.0%      |
-|milla_club              |fnd:  123|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|muffatwerk              |fnd:  239|att:   13|suc:   13|fal:    0|rat: 100.0%      |
-|shop                    |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|standup_republic        |fnd:    1|att:    1|suc:    1|fal:    0|rat: 100.0%      |
-|strom_muc               |fnd:   67|att:    8|suc:    8|fal:    0|rat: 100.0%      |
-|universe                |fnd:    1|att:    1|suc:    0|fal:    1|rat:   0.0%      |
-|yesticket               |fnd:   19|att:    1|suc:    0|fal:    1|rat:   0.0%      |
-|TOTAL                   |fnd:  589|att:   88|suc:   63|fal:   25|rat:  71.6%      |
-|                                                                                  |
-|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=93 prot_streak=0 quarantine=|
-|fail reasons: clubzwei (n=1)                                                      |
-|   1 100.0% 'event' object has no attribute 'clubzwei'                            |
-|failed links:                                                                     |
-|https://clubzwei.reservix.de/p/reservix/group/550628|
-|fail reasons: feierwerk (n=1)                                                     |
-|   1 100.0% time data '24:09' does not match format '%                            |
-|failed links:                                                                     |
-|https://www.feierwerk.de/konzert-kulturprogramm/detail/24-09-2026_brkn|
-|fail reasons: loveyourartist (n=21)                                               |
-|  19  90.5% Could not find loveyourartist event title                             |
-|   1   4.8% Could not parse loveyourartist datetime fr                            |
-|   1   4.8% Could not parse loveyourartist datetime fr                            |
-|failed links:                                                                     |
-|https://loveyourartist.com/de/events/josepha-walter-crashout-munchen-WP5JWY|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-U76959|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-ZNBDMJ|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-letzten-nachte-munchen-BH3F6B|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-letzten-nachte-munchen-GN9DX3|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-letzten-nachte-munchen-ZKS8FN|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-wollen-nur-spielen-munchen-2SXEM8|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/die-wollen-nur-spielen-munchen-MERE81|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/fur-immer-dich-rio-munchen-009I2G|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/happchen-sekt-berni-munchen-YXBUUR|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/heppels-pop-up-chor-mimi-munchen-8C71QY|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/heppels-pop-up-chor-mimi-munchen-8W9364|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/hi-freaks-podcast-munchen-KBOVTI|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/keils-literaturrausch-munchen-BGD8G8|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/lindermeier-fuckboys-munchen-ALQ0OQ|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/michelle-david-true-munchen-5Q7MN9|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/ozge-inan-dichterin-munchen-TD30CR|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/paul-holland-munchen-9HLVMY|
-|https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/philip-bradatsch-ich-bin-munchen-BKC9C3|
-|https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY|
-|https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG|
-|fail reasons: universe (n=1)                                                      |
-|   1 100.0% 'event' object has no attribute 'universe'                            |
-|failed links:                                                                     |
-|https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1|
-|fail reasons: yesticket (n=1)                                                     |
-|   1 100.0% Could not find yesticket info node                                    |
-|failed links:                                                                     |
-|https://www.yesticket.org/events/de/dynamic-duos-munich-improv-duos/|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    3|sta: DONE|
-|weekend | MusikFrosch_MUC updated                   | rm:    0|add:    0|sta: DONE|
-|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-|early bird | MusikFrosch_MUC updated                | rm:    0|add:    3|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
-|finished                                                      |len:  460|sta: DONE|
-|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage in the next 3 months. Don't miss out!  Last update:                                        2026/09/10, 15:05:21
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    3|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2026/09/10, 15:05:27
-|weekend | MusikFrosch_MUC updated                   | rm:    0|add:    0|sta: DONE|
-Ready to make the weekend epic? Check out the live gigs in Munich.  Last update:                                        2026/09/10, 15:05:33
-|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/09/10, 15:05:39
-|early bird | MusikFrosch_MUC updated                | rm:    0|add:    3|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/09/10, 15:05:46
-|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
-test_palylist  Last update:                                        2026/09/10, 15:05:53
-|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/09/10, 15:06:00
-|finished                                                      |len:  460|sta: DONE|
-/home/a163/GitRepo/musikfrosch/LOG/260910-15_03_24_a163_log.txt
-Run completed successfully.
-2026-09-10 15:06:05+0200 Current time:      Do 10. Sep 15:06:05 CEST 2026
-2026-09-10 15:06:05+0200 Selected window:   provided wake-up timestamp
-2026-09-10 15:06:05+0200 Next wake-up time: Do 10. Sep 18:55:00 CEST 2026
-rtcwake: wakeup using /dev/rtc0 at Thu Sep 10 16:55:00 2026
-2026-09-10 15:06:06+0200 rtcwake completed successfully.
+Traceback (most recent call last):
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 266, in _internal_call
+    response = self._session.request(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/requests/adapters.py", line 510, in send
+    raise RetryError(e, request=request)
+requests.exceptions.RetryError: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/search?q=artist%3Adevon+allman+blues+summit+%0D%0Afeat.+jimmy+hall%2C+claudette+king%2C+bernard+allison&limit=1&offset=0&type=artist&market=DE (Caused by ResponseError('too many 502 error responses'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/a163/GitRepo/musikfrosch/_main_.py", line 67, in <module>
+    cd.addArtist('FroschData_02', 'FroschData_03')
+  File "/home/a163/GitRepo/musikfrosch/class_dictionary.py", line 401, in addArtist
+    search_response = SP_a163.sp.search(q=f"artist:{artist}", limit=1, type='artist', market='DE')
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 587, in search
+    return self._get(
+           ^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 323, in _get
+    return self._internal_call("GET", url, payload, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/a163/anaconda3/envs/musikfrosch/lib/python3.11/site-packages/spotipy/client.py", line 307, in _internal_call
+    raise SpotifyException(
+spotipy.exceptions.SpotifyException: http status: 429, code:-1 - /v1/search?q=artist%3Adevon+allman+blues+summit+%0D%0Afeat.+jimmy+hall%2C+claudette+king%2C+bernard+allison&limit=1&offset=0&type=artist&market=DE:
+ Max Retries, reason: too many 502 error responses
+ERROR: _main_.py failed with exit code 1; continuing with next Python job.
+Run completed with one or more errors.
+2026-09-10 19:03:15+0200 Current time:      Do 10. Sep 19:03:15 CEST 2026
+2026-09-10 19:03:15+0200 Selected window:   provided wake-up timestamp
+2026-09-10 19:03:15+0200 Next wake-up time: Do 10. Sep 21:55:00 CEST 2026
+rtcwake: wakeup using /dev/rtc0 at Thu Sep 10 19:55:00 2026
+2026-09-10 19:03:15+0200 rtcwake completed successfully.
