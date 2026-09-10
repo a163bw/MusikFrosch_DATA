@@ -3345,3 +3345,282 @@ Testing rtcwake with wake-up timestamp 1789030260...
 rtcwake: wakeup using /dev/rtc0 at Thu Sep 10 08:51:00 2026
 2026-09-09 22:04:01+0200 rtcwake completed successfully.
 Publishing MusikFrosch data...
+[main 7d1c980] Automated run at 2026-09-09 22:04:02 +0200
+ 7 files changed, 33133 insertions(+), 32531 deletions(-)
+To github.com:a163bw/MusikFrosch_DATA.git
+   49587ef..7d1c980  main -> main
+ERROR: Workflow completed with one or more errors.
+/home/a163/GitRepo/musikfrosch/run_musikfrosch.sh: line 44: /dev/console: Permission denied
+Running final rtcwake off...
+2026-09-09 22:04:06+0200 Current time:      Mi 9. Sep 22:04:06 CEST 2026
+2026-09-09 22:04:06+0200 Selected window:   provided wake-up timestamp
+2026-09-09 22:04:06+0200 Next wake-up time: Do 10. Sep 10:51:00 CEST 2026
+2026-09-09 22:04:06+0200 Waiting 1 minutes before shutdown.
+rtcwake: wakeup from "off" using /dev/rtc0 at Thu Sep 10 08:51:00 2026
+2026-09-09 22:05:07+0200 rtcwake completed successfully.
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/sziget_main.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/project_paths.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/_main_.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/spotify_token_generator.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/testEventScraper.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/spotypys.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/inota_main.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/sziget_functions.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/README.md': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.gitmodules': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/__pycache__/playlist_manager.cpython-311.pyc': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/__pycache__/spotypys.cpython-311.pyc': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/__pycache__/class_dictionary.cpython-311.pyc': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/__pycache__/scrapers.cpython-311.pyc': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/__pycache__/project_paths.cpython-311.pyc': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/inota_functions.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/sh/publish_data.sh': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/sh/reset_main_branch.sh': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/sh/run_python_jobs.sh': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/theatron_functions.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/theatron_main.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/a0': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/a0/813a9ddc1640ff05cb851b8ef1d80ccab0229e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/12': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/12/9979096c5e8e4d01b943608b7e7c612e325222': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/fd': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/fd/27813884956770bd5eec7a4da294ae2664e87f': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/c9': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/c9/dd793278e4c8a983d53f6de368e8e4ca2063cf': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/e2': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/e2/2139ad20fba1c941e07bec667b1138ef034944': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/99': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/99/91f92de7985e49ef41b16777c86f9d68917569': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/d2': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/d2/64dc346c2979f9523f5db13fbee8b9a552af75': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/0a/054199ad39707920083ca3b61ba5ac99d87cda': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/52': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.git/objects/52/c7b09047e2e717221a57b0b01fbdd435a72c07': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/playlist_manager.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260906-19_17_46_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260821-02_27_46_a163_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-23_30_30_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260905-21_52_41_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-18_31_48_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260906-19_12_09_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-18_38_23_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-18_45_56_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260908-01_37_16_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260905-17_36_15_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260906-14_23_13_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260905-21_52_07_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-22_28_35_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260906-14_28_59_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260820-17_37_29_a163_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260905-17_36_50_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260905-21_46_52_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-15_00_02_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260821-02_47_36_a163_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260905-17_31_35_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-15_40_35_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260906-19_17_09_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260906-14_28_21_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/LOG/260907-19_16_35_root_log.txt': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/scrapers.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/workspace.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/codestyle.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/encoding.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/defaults/defaults-vcs-0.2.0.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/defaults/defaults-encoding-0.2.0.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/defaults/defaults-codestyle-0.2.0.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/defaults/defaults-workspace-0.2.0.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/.spyproject/config/vcs.ini': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/class_dictionary.py': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/musikfrosch/run_musikfrosch.sh': Operation not permitted
+WARNING: chmod on MusikFrosch failed; continuing.
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/FroschData_10fin.json': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/ORIG_HEAD': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/37': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/37/fdf06d9857bdd78313b49e8db32775a77d9432': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/fb': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/fb/b8c17f9f92949e197e5e0076b2fbd59674d4b9': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ab': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ab/e355beff4126d5ea070acae6524be686fc9237': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/5c': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/5c/bc37964070307f602d08ad60507e8d3d2d9418': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/81': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/81/c6ce6195728af146326a1b0c5b0ac46257be16': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/07': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/07/07200dc443620e25c67e1932e9e4c1372e0bae': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/33': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/33/ab75594a4c6593fa352e4a2928ef08f6e33788': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/33/dc970011d859a7e82d855518854395187746ad': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/33/0d00972fa0a6f33fb53f8e34eed164aeeecf6a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/85': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/85/b64c9721857d4348cf8ce77d36eabc3405b01d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/85/57ceadd326b250a63e2d59d5e1e730a932fc51': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/85/0a5a1215786e19f616021e2ae0e58a937eed2d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/f5': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/f5/bdd43bec082bf450cacf1191ea23d5854e3228': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/f5/e8a1d17bd7555c94493bfe8787f9e9741f824c': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/f5/66c94b65bd8676bd95868f55eacc79fa61f529': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/b7': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/b7/837ef72704cff78a7bc140a57320a20e4be6a0': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/2e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/2e/9db50ebaad2cab1fd5f504ef04650ca07efe5a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/b6': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/b6/76c15f420ef0db154ce0f51f45c4f572f08a70': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/b6/87ee419b0d5eb19d1fbe510c998a32497a60a2': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d8': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d8/6eb94d5ae41af62536b66e0dade74ead6749e2': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/04': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/04/72c1526902d106df2aaa841680120934263506': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/4a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/4a/b24d4894c032c02966f517efe5f0be2a3bd477': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/42': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/42/15f27bcb8454ad79aec3be749168e760fd7d3e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/1a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/1a/a759dd8d40963937cb3c30b45d3f0534cd772a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/bb': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/bb/900d0e898a69ee6f556c021da0c0089074d1e9': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/bb/ee67bc957f4e681658b789dfb7d6361c4aebe7': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/a1/7429efae6e5e760446fef0c0c8d2412ba3f93b': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c9': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c9/a33a23873b0905583684e4fbcad8aa6eb19704': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c8': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c8/816c4c2800012df7003f53f93c7ddb7255f18e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/09': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/09/f667aaf39f6a0ba16594b68cd4fd410e1587f6': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/09/2a3acec161e30ded619239c0da1c701281c8bf': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/35': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/35/6a57c5ace860062137e2322d9093fb5cb23b90': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/94/b52ee647b6a5c7cdab0415336c0e96cbd8045e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/26': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/26/119017fd0572058b6ec996cb4236b3b1c3a7ca': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/7c': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/7c/4796e62c9ef36941c9cee4238a17990c4692c4': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/70': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/70/c8a99ea791eaa3376719bb2d3b4f08e4fd859e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/e9': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/e9/ff4e31115a5167e94d6c30f6308b821edee4bf': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/99': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/99/b1afbc3a90fd9a6a647d3611bb5a84d9ab9cdd': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/99/863edb9c987ca64c2ed5c6173a1aa5df53a9f7': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/78': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/78/2108cab900e3404fd5d9c6145353f793d29998': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3f': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3f/5b7c0ea4c1c235ee7a0ac062ce13b592785b23': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3f/6cab5c5684ac01039f9d7a20393bb1ad02a79a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3f/af4ca460a285d73f6658ab4a9c4a32a0d91f67': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/e4': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/e4/c5de112125e36842ea00ff27952920d28a1643': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/6d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/6d/c2ada38d575e6b42be51b48fd86cb02ce6e875': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/f6': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/f6/7853d6131ddbaa3270de14e0f8ddcde3f3bb31': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/2d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/2d/c713d1525e35439242b0b46afebd07adcd2c57': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/17': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/17/d706d78a27ff243e8e47d6dbb02c1fde908a1b': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ef': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ef/dd5c08d99ef7a1972eea2084068671f2e03258': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/16': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/16/54a8213d090d20e93b2087f6ff8a47fda6503b': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d6': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d6/4d83bd883309cf4c09141735cebc4a158ee7f3': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/72': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/72/c6ddb66ae6f6e476485a46a1f274604d4da857': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/0a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/0a/fee7537cdfc81a4e36ae39b0454db609bf52e2': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/39': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/39/c4a6aa82570376795b9eda0fa238e0f9da6200': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c2': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c2/cab9bebef83a10709a34dfeb85d1b2040db935': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/61': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/61/9badf44b1e8c942ff15358e94f522742c0d7d9': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3e/be5d74987b654bcede6530808d5a3fe8409bcb': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/be': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/be/171ef3785c3212ad1e41e1a3b9306c492363d8': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/69': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/69/9b708ce5fa6c5d2ded7975523adc9ba26e28fa': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/30': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/30/51500173cec6ec0868285719cb2dd8676612e8': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/54': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/54/8cef0535b58b2d980fd9aa75d0c92a91e7236b': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/54/6dddc020d6cba90cb45fd7cc8ce9c0bfbd2186': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/7d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/7d/cb73a6578e5547d4ad63f7ec695bf8cbab364d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ad': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ad/a4668c97661b25c0aca6632d12475c133f1a7d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/4d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/4d/6c59e7240a62d6b8e57742bcc3259ff61b5617': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/aa': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/aa/f5ba292d65e949712784827638daa28679c05e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ac': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ac/c8b16a233005a93f0148011589a998c84e40e3': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c0': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/c0/c4b24844f1247a4d31e8988a88dff478a31345': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/96': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/96/656ae2cda8c8edf26e1d28a2a371fe030c7038': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/e5': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/e5/eb758c2a65e9d189cd72721b5cc2625c275cd8': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d1': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d1/b2da307a7ba10e66f373dcdeba2116994cffb7': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/13': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/13/f670914e08c1ea2bfd633aea099bda252dd151': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/13/74f867e0a822a6c6f3f3dbcd056b5985f5cfc6': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/1d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/1d/b720d7e2625a52466b9c0e5a45372b49a0c5fd': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/10': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/10/06afc7d83a8b1cfdca3418784de742a7e9ef61': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ff': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ff/75d4017ef6effe5c64fd555dd9b9ff7c324d1a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/5d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/5d/1ada4eb15e63ce37411e5a54546ba53945f116': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/14': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/14/82150d23ce186c90ab7283ea3d71ef5ba2d062': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/b0/e5fc998852e68551636cc8aad102ab93ad4727': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/76': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/76/bc38356c0edff29dd210cb0a7f3cc86848f639': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/24': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/24/1d1580fe75151bbfc84a82d0008cc802527811': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/24/673cc10fafa2aa82158bcb4fba55cc7967af91': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/24/09bb848f671f0b376879c656dcb5d254655fab': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3d/c1804e8e5c3641d73e19e4f3417a7d8e2ac86d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d7': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/d7/4a0fc47749d61954c4b0c7578d2361b9e4fc38': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ec': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/ec/e23cbc9989004bb31385049078597d6566086c': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/11': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/11/d78467babf79f6cda5dd8d69e1fa300b6dea6b': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/8f': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/8f/b885b339449f3a7fc0e10c35eb07029fa7cdbe': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/cc': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/cc/d383998b5a4ebe5757cab740ae8f2409ede9af': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/51': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/51/f746ed8360115ad52df4ea0064c0116784f354': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/57': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/57/a0366f12aa8224fabd492a115ac3eba42e308d': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3a': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3a/e0248eac39f76042988733542a585c71245409': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/3a/a55311282e78be26352c736448a53a13fe5a97': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/a8': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/a8/99e57cd5a3a5e75557f72fe294fa97c6f94608': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/5e': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/objects/5e/6e7fe1fc2797c42257c89dbc8f123074e67968': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/.git/HEAD': Operation not permitted
+chmod: changing permissions of '/home/a163/GitRepo/MusikFrosch_DATA/allout.txt': Operation not permitted
+WARNING: chmod on MusikFrosch_DATA failed; continuing.
+Updating MusikFrosch...
+Fetching origin for /home/a163/GitRepo/musikfrosch...
+Resetting /home/a163/GitRepo/musikfrosch to origin/main...
+Already on 'main'
+Your branch is up-to-date with 'origin/main'.
+HEAD is now at 648bd05 normal crontab
+Running MusikFrosch...
+Determining next wake-up time...
+Next wake-up timestamp: 1789045020
+Testing rtcwake with wake-up timestamp 1789045020...
+2026-09-10 11:00:21+0200 Current time:      Do 10. Sep 11:00:21 CEST 2026
+2026-09-10 11:00:21+0200 Selected window:   provided wake-up timestamp
+2026-09-10 11:00:21+0200 Next wake-up time: Do 10. Sep 14:57:00 CEST 2026
+rtcwake: wakeup using /dev/rtc0 at Thu Sep 10 12:57:00 2026
+2026-09-10 11:00:21+0200 rtcwake completed successfully.
+Publishing MusikFrosch data...
