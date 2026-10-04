@@ -1,7 +1,7 @@
 
 ===== MusikFrosch =====
-Run ID:             2026-10-04_18-17-11
-Current date/time:  Sun  4 Oct 18:17:11 CEST 2026
+Run ID:             2026-10-04_22-06-07
+Current date/time:  Sun  4 Oct 22:06:07 CEST 2026
 Host:               edge13-1
 User:               a163
 Project:            /home/a163/Repositories/musikfrosch
@@ -9,12 +9,12 @@ Data:               /home/a163/Repositories/MusikFrosch_DATA
 Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 
 ===== Running _main_.py =====
-|CREATE_Log                                                         261004-18_17_14|
+|CREATE_Log                                                         261004-22_06_09|
 |Work directory: /home/a163/Repositories/musikfrosch                               |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:02<00:12,  2.12s/it]scrapeSide:  29%|██▊       | 2/7 [00:02<00:06,  1.30s/it]scrapeSide:  43%|████▎     | 3/7 [00:07<00:10,  2.67s/it]scrapeSide:  57%|█████▋    | 4/7 [00:09<00:07,  2.51s/it]scrapeSide:  71%|███████▏  | 5/7 [00:10<00:04,  2.04s/it]scrapeSide:  86%|████████▌ | 6/7 [00:12<00:02,  2.15s/it]scrapeSide: 100%|██████████| 7/7 [00:14<00:00,  1.85s/it]scrapeSide: 100%|██████████| 7/7 [00:14<00:00,  2.03s/it]
-scrapeEvent:   0%|          | 0/667 [00:00<?, ?it/s]scrapeEvent:   0%|          | 3/667 [00:01<06:00,  1.84it/s]scrapeEvent:   2%|▏         | 14/667 [00:01<01:06,  9.76it/s]scrapeEvent:   7%|▋         | 48/667 [00:02<00:24, 25.10it/s]scrapeEvent:  24%|██▍       | 163/667 [00:02<00:04, 102.92it/s]scrapeEvent:  28%|██▊       | 188/667 [00:03<00:06, 79.65it/s] scrapeEvent:  31%|███       | 205/667 [00:04<00:07, 61.61it/s]scrapeEvent:  33%|███▎      | 218/667 [00:04<00:08, 54.28it/s]scrapeEvent:  35%|███▌      | 236/667 [00:04<00:07, 59.62it/s]scrapeEvent:  40%|████      | 270/667 [00:04<00:05, 79.05it/s]scrapeEvent:  42%|████▏     | 282/667 [00:05<00:06, 62.49it/s]scrapeEvent:  44%|████▎     | 291/667 [00:05<00:06, 59.05it/s]scrapeEvent:  45%|████▌     | 303/667 [00:05<00:06, 59.18it/s]scrapeEvent:  47%|████▋     | 312/667 [00:05<00:06, 55.77it/s]scrapeEvent:  48%|████▊     | 319/667 [00:07<00:16, 21.03it/s]scrapeEvent:  49%|████▊     | 324/667 [00:07<00:15, 21.53it/s]scrapeEvent:  49%|████▉     | 330/667 [00:07<00:14, 22.85it/s]scrapeEvent:  51%|█████     | 339/667 [00:07<00:12, 26.87it/s]scrapeEvent:  58%|█████▊    | 389/667 [00:07<00:03, 72.79it/s]scrapeEvent:  61%|██████    | 405/667 [00:08<00:03, 74.31it/s]scrapeEvent:  68%|██████▊   | 456/667 [00:08<00:01, 118.09it/s]scrapeEvent:  71%|███████   | 471/667 [00:08<00:01, 106.77it/s]scrapeEvent:  73%|███████▎  | 484/667 [00:08<00:01, 95.36it/s] scrapeEvent:  74%|███████▍  | 495/667 [00:08<00:02, 84.03it/s]scrapeEvent:  76%|███████▌  | 504/667 [00:09<00:02, 72.85it/s]scrapeEvent:  77%|███████▋  | 512/667 [00:09<00:03, 49.15it/s]scrapeEvent:  78%|███████▊  | 518/667 [00:09<00:04, 35.81it/s]scrapeEvent:  87%|████████▋ | 578/667 [00:10<00:00, 92.87it/s]scrapeEvent:  89%|████████▊ | 591/667 [00:10<00:01, 69.70it/s]scrapeEvent:  90%|█████████ | 601/667 [00:10<00:01, 65.40it/s]scrapeEvent:  97%|█████████▋| 646/667 [00:10<00:00, 102.39it/s]scrapeEvent:  99%|█████████▉| 659/667 [00:11<00:00, 74.34it/s] scrapeEvent: 100%|██████████| 667/667 [00:11<00:00, 58.62it/s]
+scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:00<00:05,  1.07it/s]scrapeSide:  29%|██▊       | 2/7 [00:01<00:04,  1.24it/s]scrapeSide:  43%|████▎     | 3/7 [00:06<00:10,  2.51s/it]scrapeSide:  57%|█████▋    | 4/7 [00:08<00:07,  2.44s/it]scrapeSide:  71%|███████▏  | 5/7 [00:09<00:03,  1.94s/it]scrapeSide:  86%|████████▌ | 6/7 [00:11<00:02,  2.09s/it]scrapeSide: 100%|██████████| 7/7 [00:13<00:00,  1.79s/it]scrapeSide: 100%|██████████| 7/7 [00:13<00:00,  1.87s/it]
+scrapeEvent:   0%|          | 0/667 [00:00<?, ?it/s]scrapeEvent:   1%|▏         | 9/667 [00:00<00:14, 44.83it/s]scrapeEvent:   2%|▏         | 14/667 [00:00<00:19, 33.11it/s]scrapeEvent:   6%|▌         | 37/667 [00:00<00:08, 70.14it/s]scrapeEvent:   8%|▊         | 51/667 [00:00<00:08, 69.91it/s]scrapeEvent:   9%|▊         | 58/667 [00:01<00:10, 57.29it/s]scrapeEvent:  12%|█▏        | 80/667 [00:01<00:07, 74.92it/s]scrapeEvent:  16%|█▌        | 104/667 [00:01<00:06, 89.32it/s]scrapeEvent:  17%|█▋        | 113/667 [00:01<00:07, 75.17it/s]scrapeEvent:  19%|█▊        | 124/667 [00:02<00:20, 26.47it/s]scrapeEvent:  21%|██        | 141/667 [00:03<00:15, 34.97it/s]scrapeEvent:  24%|██▍       | 162/667 [00:03<00:10, 46.97it/s]scrapeEvent:  25%|██▌       | 170/667 [00:03<00:10, 45.56it/s]scrapeEvent:  27%|██▋       | 177/667 [00:03<00:11, 43.20it/s]scrapeEvent:  28%|██▊       | 186/667 [00:03<00:11, 43.57it/s]scrapeEvent:  29%|██▉       | 192/667 [00:04<00:20, 22.65it/s]scrapeEvent:  29%|██▉       | 196/667 [00:04<00:21, 22.18it/s]scrapeEvent:  31%|███       | 206/667 [00:05<00:16, 27.59it/s]scrapeEvent:  33%|███▎      | 222/667 [00:05<00:11, 38.95it/s]scrapeEvent:  37%|███▋      | 246/667 [00:05<00:07, 58.04it/s]scrapeEvent:  38%|███▊      | 254/667 [00:05<00:07, 53.42it/s]scrapeEvent:  40%|███▉      | 266/667 [00:05<00:07, 55.08it/s]scrapeEvent:  41%|████▏     | 276/667 [00:06<00:07, 53.61it/s]scrapeEvent:  45%|████▍     | 300/667 [00:06<00:05, 72.09it/s]scrapeEvent:  46%|████▌     | 308/667 [00:06<00:08, 39.96it/s]scrapeEvent:  48%|████▊     | 317/667 [00:07<00:08, 40.96it/s]scrapeEvent:  51%|█████     | 337/667 [00:07<00:06, 54.27it/s]scrapeEvent:  52%|█████▏    | 344/667 [00:07<00:06, 49.50it/s]scrapeEvent:  53%|█████▎    | 353/667 [00:07<00:06, 48.27it/s]scrapeEvent:  54%|█████▍    | 362/667 [00:07<00:06, 47.32it/s]scrapeEvent:  55%|█████▌    | 370/667 [00:08<00:06, 45.22it/s]scrapeEvent:  58%|█████▊    | 384/667 [00:08<00:05, 52.15it/s]scrapeEvent:  66%|██████▌   | 437/667 [00:08<00:02, 112.89it/s]scrapeEvent:  67%|██████▋   | 449/667 [00:09<00:05, 39.09it/s] scrapeEvent:  71%|███████▏  | 476/667 [00:09<00:03, 52.70it/s]scrapeEvent:  73%|███████▎  | 486/667 [00:10<00:03, 52.19it/s]scrapeEvent:  74%|███████▍  | 496/667 [00:10<00:03, 51.72it/s]scrapeEvent:  82%|████████▏ | 550/667 [00:10<00:01, 98.74it/s]scrapeEvent:  88%|████████▊ | 587/667 [00:10<00:00, 118.74it/s]scrapeEvent:  91%|█████████ | 605/667 [00:10<00:00, 111.30it/s]scrapeEvent:  98%|█████████▊| 655/667 [00:11<00:00, 147.28it/s]scrapeEvent: 100%|██████████| 667/667 [00:11<00:00, 59.97it/s] 
 |Event result report                                                               |
 | Domain                         | Event pages | Successful | Failed | Ratio |
 | ------------------------------ | ----------- | ---------- | ------ | ----- |
@@ -27,7 +27,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | import-export.cc               | 88          | 88         | 0      | 1.00  |
 | jerryvsan.shop                 | 1           | 0          | 1      | 0.00  |
 | loveyourartist.com             | 17          | 15         | 2      | 0.88  |
-| milla-club.de                  | 135         | 132        | 3      | 0.98  |
+| milla-club.de                  | 135         | 133        | 2      | 0.99  |
 | muffatwerk.de                  | 259         | 259        | 0      | 1.00  |
 | rausgegangen.de                | 1           | 0          | 1      | 0.00  |
 | schoneberg.de                  | 1           | 0          | 1      | 0.00  |
@@ -37,7 +37,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | tickettailor.com               | 2           | 0          | 2      | 0.00  |
 | universe.com                   | 1           | 0          | 1      | 0.00  |
 | yesticket.org                  | 20          | 20         | 0      | 1.00  |
-| Total                          | 667         | 620        | 47     | 0.93  |
+| Total                          | 667         | 621        | 46     | 0.93  |
 |EventPageScraper function report (failed / calls)                                 |
 | Domain                         | Event pages | _artist_items | artist | date  | event | location | type  | _info | _info_lines | _root |
 | ------------------------------ | ----------- | ------------- | ------ | ----- | ----- | -------- | ----- | ----- | ----------- | ----- |
@@ -75,7 +75,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php                                                        | EventPageScraper.__init__ |
 | https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY                        | date, type                |
 | https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG                     | date, type                |
-| https://milla-club.de/filmstammtisch-15/                                                                                        | location                  |
+| https://milla-club.de/john-garner-3/                                                                                            | location                  |
 | https://rausgegangen.de/events/aliens-host-a-cabaret-4/                                                                         | EventPageScraper.__init__ |
 | https://shop.lebensnah-bestattungen.de/catalog/tickets/96261-tickets-eric-wrede-fee-vogel-heppel-ettlich-muenchen-am-26-11-2026 | EventPageScraper.__init__ |
 | https://standup-republic.de/events/dicke-luft-live-die-stand-up-and-podcast-tour_6207                                           | EventPageScraper.__init__ |
@@ -107,7 +107,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | https://www.tickettailor.com/events/improvstarone/2437030                                                                       | EventPageScraper.__init__ |
 | https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1                                                    | EventPageScraper.__init__ |
 |                                                                                  |
-|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=3 prot_streak=0 quarantine=0|
+|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=2 prot_streak=0 quarantine=0|
 |fail reasons: clubzwei (n=1)                                                      |
 |   1 100.0% No event scraper configured for domain: cl                            |
 |failed links:                                                                     |
@@ -180,12 +180,12 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 |   1 100.0% No event scraper configured for domain: un                            |
 |failed links:                                                                     |
 |https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1|
-addArtist:   0%|          | 0/620 [00:00<?, ?it/s]addArtist:  28%|██▊       | 174/620 [00:00<00:01, 235.52it/s]addArtist: 100%|██████████| 620/620 [00:00<00:00, 835.01it/s]
-addTracksOfArtist:   0%|          | 0/620 [00:00<?, ?it/s]addTracksOfArtist:   2%|▏         | 10/620 [00:00<00:38, 16.04it/s]addTracksOfArtist:   2%|▏         | 15/620 [00:01<00:47, 12.70it/s]addTracksOfArtist:   8%|▊         | 50/620 [00:01<00:14, 38.02it/s]addTracksOfArtist:  11%|█▏        | 70/620 [00:02<00:20, 26.94it/s]addTracksOfArtist:  13%|█▎        | 80/620 [00:03<00:21, 25.63it/s]addTracksOfArtist:  14%|█▎        | 84/620 [00:03<00:29, 18.22it/s]addTracksOfArtist:  20%|██        | 127/620 [00:04<00:17, 28.94it/s]addTracksOfArtist:  27%|██▋       | 170/620 [00:05<00:10, 43.09it/s]addTracksOfArtist:  31%|███       | 190/620 [00:06<00:13, 32.78it/s]addTracksOfArtist:  33%|███▎      | 204/620 [00:07<00:14, 29.55it/s]addTracksOfArtist:  36%|███▌      | 224/620 [00:07<00:12, 32.45it/s]addTracksOfArtist:  41%|████▏     | 257/620 [00:08<00:09, 40.32it/s]addTracksOfArtist:  71%|███████▏  | 443/620 [00:08<00:01, 127.67it/s]addTracksOfArtist:  76%|███████▌  | 470/620 [00:08<00:01, 110.06it/s]addTracksOfArtist:  79%|███████▊  | 487/620 [00:09<00:01, 77.84it/s] addTracksOfArtist:  86%|████████▌ | 533/620 [00:10<00:01, 83.50it/s]addTracksOfArtist:  91%|█████████ | 564/620 [00:10<00:00, 78.25it/s]addTracksOfArtist: 100%|██████████| 620/620 [00:10<00:00, 58.28it/s]
-addTrackListOfEvents:   0%|          | 0/620 [00:00<?, ?it/s]addTrackListOfEvents: 100%|██████████| 620/620 [00:00<00:00, 13133.35it/s]
+addArtist:   0%|          | 0/621 [00:00<?, ?it/s]addArtist:  29%|██▉       | 183/621 [00:00<00:02, 208.45it/s]addArtist: 100%|██████████| 621/621 [00:00<00:00, 704.55it/s]
+addTracksOfArtist:   0%|          | 0/621 [00:00<?, ?it/s]addTracksOfArtist:   2%|▏         | 10/621 [00:00<00:41, 14.55it/s]addTracksOfArtist:   2%|▏         | 15/621 [00:01<00:49, 12.24it/s]addTracksOfArtist:   8%|▊         | 49/621 [00:01<00:15, 37.14it/s]addTracksOfArtist:  11%|█         | 69/621 [00:02<00:19, 28.23it/s]addTracksOfArtist:  13%|█▎        | 81/621 [00:03<00:19, 27.85it/s]addTracksOfArtist:  14%|█▎        | 85/621 [00:03<00:26, 20.55it/s]addTracksOfArtist:  20%|██        | 126/621 [00:04<00:16, 30.07it/s]addTracksOfArtist:  28%|██▊       | 171/621 [00:05<00:09, 45.41it/s]addTracksOfArtist:  29%|██▉       | 183/621 [00:05<00:10, 39.87it/s]addTracksOfArtist:  31%|███       | 191/621 [00:06<00:15, 27.35it/s]addTracksOfArtist:  33%|███▎      | 206/621 [00:06<00:14, 28.59it/s]addTracksOfArtist:  36%|███▋      | 226/621 [00:07<00:12, 32.33it/s]addTracksOfArtist:  42%|████▏     | 258/621 [00:07<00:08, 42.07it/s]addTracksOfArtist:  71%|███████▏  | 444/621 [00:08<00:01, 140.88it/s]addTracksOfArtist:  76%|███████▌  | 471/621 [00:08<00:01, 116.02it/s]addTracksOfArtist:  79%|███████▊  | 488/621 [00:09<00:01, 93.94it/s] addTracksOfArtist:  86%|████████▌ | 534/621 [00:09<00:00, 95.94it/s]addTracksOfArtist:  91%|█████████ | 565/621 [00:10<00:00, 87.53it/s]addTracksOfArtist: 100%|██████████| 621/621 [00:10<00:00, 61.01it/s]
+addTrackListOfEvents:   0%|          | 0/621 [00:00<?, ?it/s]addTrackListOfEvents: 100%|██████████| 621/621 [00:00<00:00, 12639.64it/s]
 
 
-|CREATE_Log                                                         261004-18_17_14|
+|CREATE_Log                                                         261004-22_06_09|
 |Work directory: /home/a163/Repositories/musikfrosch                               |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
@@ -201,7 +201,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | import-export.cc               | 88          | 88         | 0      | 1.00  |
 | jerryvsan.shop                 | 1           | 0          | 1      | 0.00  |
 | loveyourartist.com             | 17          | 15         | 2      | 0.88  |
-| milla-club.de                  | 135         | 132        | 3      | 0.98  |
+| milla-club.de                  | 135         | 133        | 2      | 0.99  |
 | muffatwerk.de                  | 259         | 259        | 0      | 1.00  |
 | rausgegangen.de                | 1           | 0          | 1      | 0.00  |
 | schoneberg.de                  | 1           | 0          | 1      | 0.00  |
@@ -211,7 +211,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | tickettailor.com               | 2           | 0          | 2      | 0.00  |
 | universe.com                   | 1           | 0          | 1      | 0.00  |
 | yesticket.org                  | 20          | 20         | 0      | 1.00  |
-| Total                          | 667         | 620        | 47     | 0.93  |
+| Total                          | 667         | 621        | 46     | 0.93  |
 |EventPageScraper function report (failed / calls)                                 |
 | Domain                         | Event pages | _artist_items | artist | date  | event | location | type  | _info | _info_lines | _root |
 | ------------------------------ | ----------- | ------------- | ------ | ----- | ----- | -------- | ----- | ----- | ----------- | ----- |
@@ -249,7 +249,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php                                                        | EventPageScraper.__init__ |
 | https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY                        | date, type                |
 | https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG                     | date, type                |
-| https://milla-club.de/filmstammtisch-15/                                                                                        | location                  |
+| https://milla-club.de/john-garner-3/                                                                                            | location                  |
 | https://rausgegangen.de/events/aliens-host-a-cabaret-4/                                                                         | EventPageScraper.__init__ |
 | https://shop.lebensnah-bestattungen.de/catalog/tickets/96261-tickets-eric-wrede-fee-vogel-heppel-ettlich-muenchen-am-26-11-2026 | EventPageScraper.__init__ |
 | https://standup-republic.de/events/dicke-luft-live-die-stand-up-and-podcast-tour_6207                                           | EventPageScraper.__init__ |
@@ -281,7 +281,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | https://www.tickettailor.com/events/improvstarone/2437030                                                                       | EventPageScraper.__init__ |
 | https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1                                                    | EventPageScraper.__init__ |
 |                                                                                  |
-|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=3 prot_streak=0 quarantine=0|
+|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=2 prot_streak=0 quarantine=0|
 |fail reasons: clubzwei (n=1)                                                      |
 |   1 100.0% No event scraper configured for domain: cl                            |
 |failed links:                                                                     |
@@ -355,30 +355,30 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 |failed links:                                                                     |
 |https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1|
 |Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    3|sta: DONE|
 |last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
 |early bird | MusikFrosch_MUC updated                | rm:    0|add:    0|sta: DONE|
-|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
-|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
-|finished                                                      |len:  620|sta: DONE|
+|MusikFrosch_MC_test updated                         | rm:    0|add:    3|sta: DONE|
+|MusikFrosch_MUC updated                             | rm:    0|add:    3|sta: DONE|
+|finished                                                      |len:  621|sta: DONE|
 |Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-The MusikFrosch is saying that some legends will be hitting the feierwerk stage in the next 3 months. Don't miss out!  Last update:                                        2026/10/04, 18:17:53
-|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
-Who's rocking the stage next at Milla Club?  Last update:                                        2026/10/04, 18:17:59
+The MusikFrosch is saying that some legends will be hitting the feierwerk stage in the next 3 months. Don't miss out!  Last update:                                        2026/10/04, 22:06:47
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    3|sta: DONE|
+Who's rocking the stage next at Milla Club?  Last update:                                        2026/10/04, 22:06:53
 |last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
-Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/10/04, 18:18:05
+Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/10/04, 22:06:59
 |early bird | MusikFrosch_MUC updated                | rm:    0|add:    0|sta: DONE|
-Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/10/04, 18:18:12
-|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
-test_palylist  Last update:                                        2026/10/04, 18:18:19
-|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
-Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/10/04, 18:18:26
-|finished                                                      |len:  620|sta: DONE|
-/home/a163/Repositories/musikfrosch/LOG/261004-18_17_14_a163_log.txt
+Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/10/04, 22:07:06
+|MusikFrosch_MC_test updated                         | rm:    0|add:    3|sta: DONE|
+test_palylist  Last update:                                        2026/10/04, 22:07:13
+|MusikFrosch_MUC updated                             | rm:    0|add:    3|sta: DONE|
+Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/10/04, 22:07:20
+|finished                                                      |len:  621|sta: DONE|
+/home/a163/Repositories/musikfrosch/LOG/261004-22_06_09_a163_log.txt
 Run completed successfully.
-2026-10-04 18:18:32+0200 Current time:      Sun  4 Oct 18:18:32 CEST 2026
-2026-10-04 18:18:32+0200 Selected window:   provided wake-up timestamp
-2026-10-04 18:18:32+0200 Next wake-up time: Sun  4 Oct 21:55:00 CEST 2026
+2026-10-04 22:07:26+0200 Current time:      Sun  4 Oct 22:07:26 CEST 2026
+2026-10-04 22:07:26+0200 Selected window:   provided wake-up timestamp
+2026-10-04 22:07:26+0200 Next wake-up time: Mon  5 Oct 11:25:00 CEST 2026
 rtcwake: assuming RTC uses UTC ...
-rtcwake: wakeup using /dev/rtc0 at Sun Oct  4 19:55:00 2026
-2026-10-04 18:18:32+0200 rtcwake completed successfully.
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  5 09:25:00 2026
+2026-10-04 22:07:26+0200 rtcwake completed successfully.
