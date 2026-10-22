@@ -1,7 +1,7 @@
 
 ===== MusikFrosch =====
-Run ID:             2026-10-22_14-16-08
-Current date/time:  Thu 22 Oct 14:16:08 CEST 2026
+Run ID:             2026-10-22_19-00-19
+Current date/time:  Thu 22 Oct 19:00:19 CEST 2026
 Host:               edge13-1
 User:               a163
 Project:            /home/a163/Repositories/musikfrosch
@@ -9,26 +9,26 @@ Data:               /home/a163/Repositories/MusikFrosch_DATA
 Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 
 ===== Running _main_.py =====
-|CREATE_Log                                                         261022-14_16_10|
+|CREATE_Log                                                         261022-19_00_21|
 |Work directory: /home/a163/Repositories/musikfrosch                               |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:06<00:40,  6.82s/it]scrapeSide:  29%|██▊       | 2/7 [00:07<00:16,  3.22s/it]scrapeSide:  43%|████▎     | 3/7 [00:11<00:15,  3.79s/it]scrapeSide:  57%|█████▋    | 4/7 [00:14<00:09,  3.31s/it]scrapeSide:  71%|███████▏  | 5/7 [00:15<00:05,  2.58s/it]scrapeSide:  86%|████████▌ | 6/7 [00:18<00:02,  2.49s/it]scrapeSide: 100%|██████████| 7/7 [00:19<00:00,  2.04s/it]scrapeSide: 100%|██████████| 7/7 [00:19<00:00,  2.76s/it]
-scrapeEvent:   0%|          | 0/784 [00:00<?, ?it/s]scrapeEvent:   1%|          | 9/784 [00:00<01:02, 12.44it/s]scrapeEvent:   2%|▏         | 16/784 [00:00<00:40, 18.80it/s]scrapeEvent:   3%|▎         | 23/784 [00:01<00:32, 23.43it/s]scrapeEvent:   4%|▍         | 34/784 [00:01<00:23, 32.56it/s]scrapeEvent:   6%|▋         | 49/784 [00:01<00:16, 44.91it/s]scrapeEvent:   7%|▋         | 57/784 [00:02<00:29, 24.30it/s]scrapeEvent:   8%|▊         | 64/784 [00:02<00:27, 26.32it/s]scrapeEvent:   9%|▊         | 68/784 [00:03<00:46, 15.52it/s]scrapeEvent:   9%|▉         | 74/784 [00:03<00:39, 17.82it/s]scrapeEvent:  11%|█         | 85/784 [00:03<00:28, 24.69it/s]scrapeEvent:  13%|█▎        | 104/784 [00:04<00:23, 28.49it/s]scrapeEvent:  16%|█▌        | 124/784 [00:04<00:16, 41.14it/s]scrapeEvent:  17%|█▋        | 130/784 [00:04<00:16, 38.85it/s]scrapeEvent:  17%|█▋        | 135/784 [00:04<00:18, 35.72it/s]scrapeEvent:  20%|█▉        | 156/784 [00:07<00:41, 15.03it/s]scrapeEvent:  22%|██▏       | 171/784 [00:08<00:42, 14.26it/s]scrapeEvent:  26%|██▋       | 206/784 [00:08<00:24, 23.29it/s]scrapeEvent:  27%|██▋       | 210/784 [00:09<00:24, 22.99it/s]scrapeEvent:  31%|███       | 242/784 [00:09<00:14, 38.64it/s]scrapeEvent:  33%|███▎      | 262/784 [00:09<00:14, 36.06it/s]scrapeEvent:  34%|███▍      | 268/784 [00:10<00:20, 25.01it/s]scrapeEvent:  40%|███▉      | 312/784 [00:10<00:09, 48.06it/s]scrapeEvent:  41%|████      | 322/784 [00:11<00:09, 48.30it/s]scrapeEvent:  44%|████▍     | 343/784 [00:11<00:07, 57.93it/s]scrapeEvent:  46%|████▌     | 361/784 [00:11<00:09, 45.55it/s]scrapeEvent:  47%|████▋     | 369/784 [00:12<00:10, 38.24it/s]scrapeEvent:  48%|████▊     | 375/784 [00:12<00:15, 26.79it/s]scrapeEvent:  49%|████▉     | 384/784 [00:13<00:13, 29.48it/s]scrapeEvent:  50%|████▉     | 389/784 [00:13<00:13, 28.68it/s]scrapeEvent:  51%|█████     | 400/784 [00:13<00:11, 33.92it/s]scrapeEvent:  55%|█████▌    | 435/784 [00:14<00:07, 44.00it/s]scrapeEvent:  56%|█████▌    | 440/784 [00:14<00:08, 40.62it/s]scrapeEvent:  59%|█████▉    | 462/784 [00:14<00:05, 54.48it/s]scrapeEvent:  66%|██████▋   | 521/784 [00:15<00:03, 67.15it/s]scrapeEvent:  69%|██████▉   | 542/784 [00:15<00:03, 73.29it/s]scrapeEvent:  72%|███████▏  | 568/784 [00:16<00:03, 59.64it/s]scrapeEvent:  77%|███████▋  | 601/784 [00:16<00:02, 76.55it/s]scrapeEvent:  79%|███████▉  | 618/784 [00:16<00:02, 78.03it/s]scrapeEvent:  81%|████████▏ | 638/784 [00:16<00:01, 82.53it/s]scrapeEvent:  84%|████████▍ | 661/784 [00:17<00:02, 59.64it/s]scrapeEvent:  89%|████████▉ | 700/784 [00:17<00:01, 83.75it/s]scrapeEvent:  91%|█████████ | 712/784 [00:18<00:01, 57.87it/s]scrapeEvent:  93%|█████████▎| 727/784 [00:18<00:00, 60.81it/s]scrapeEvent:  94%|█████████▍| 736/784 [00:18<00:00, 57.58it/s]scrapeEvent:  95%|█████████▍| 744/784 [00:18<00:00, 53.61it/s]scrapeEvent:  97%|█████████▋| 760/784 [00:19<00:00, 59.86it/s]scrapeEvent:  98%|█████████▊| 771/784 [00:19<00:00, 58.52it/s]scrapeEvent: 100%|█████████▉| 781/784 [00:19<00:00, 35.97it/s]scrapeEvent: 100%|██████████| 784/784 [00:19<00:00, 39.50it/s]
+scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:01<00:06,  1.13s/it]scrapeSide:  29%|██▊       | 2/7 [00:01<00:04,  1.14it/s]scrapeSide:  43%|████▎     | 3/7 [00:06<00:09,  2.48s/it]scrapeSide:  57%|█████▋    | 4/7 [00:08<00:07,  2.41s/it]scrapeSide:  71%|███████▏  | 5/7 [00:09<00:04,  2.06s/it]scrapeSide:  86%|████████▌ | 6/7 [00:12<00:02,  2.19s/it]scrapeSide: 100%|██████████| 7/7 [00:13<00:00,  1.83s/it]scrapeSide: 100%|██████████| 7/7 [00:13<00:00,  1.93s/it]
+scrapeEvent:   0%|          | 0/787 [00:00<?, ?it/s]scrapeEvent:   1%|▏         | 10/787 [00:00<00:59, 13.05it/s]scrapeEvent:   3%|▎         | 22/787 [00:00<00:29, 25.76it/s]scrapeEvent:   6%|▌         | 44/787 [00:01<00:15, 49.17it/s]scrapeEvent:   7%|▋         | 54/787 [00:01<00:14, 49.33it/s]scrapeEvent:   8%|▊         | 65/787 [00:01<00:14, 50.89it/s]scrapeEvent:  11%|█         | 84/787 [00:02<00:18, 39.04it/s]scrapeEvent:  17%|█▋        | 135/787 [00:02<00:07, 82.67it/s]scrapeEvent:  19%|█▊        | 147/787 [00:02<00:08, 77.48it/s]scrapeEvent:  22%|██▏       | 171/787 [00:02<00:07, 87.61it/s]scrapeEvent:  23%|██▎       | 182/787 [00:03<00:07, 79.11it/s]scrapeEvent:  27%|██▋       | 210/787 [00:03<00:06, 95.18it/s]scrapeEvent:  29%|██▊       | 226/787 [00:03<00:09, 57.57it/s]scrapeEvent:  33%|███▎      | 260/787 [00:04<00:09, 53.08it/s]scrapeEvent:  35%|███▍      | 275/787 [00:04<00:09, 56.51it/s]scrapeEvent:  37%|███▋      | 291/787 [00:04<00:08, 60.78it/s]scrapeEvent:  43%|████▎     | 341/787 [00:05<00:06, 65.13it/s]scrapeEvent:  44%|████▍     | 349/787 [00:06<00:08, 52.48it/s]scrapeEvent:  46%|████▌     | 360/787 [00:06<00:11, 36.46it/s]scrapeEvent:  50%|████▉     | 392/787 [00:07<00:07, 53.74it/s]scrapeEvent:  51%|█████     | 400/787 [00:07<00:08, 44.04it/s]scrapeEvent:  56%|█████▌    | 439/787 [00:07<00:06, 53.36it/s]scrapeEvent:  57%|█████▋    | 446/787 [00:09<00:12, 26.68it/s]scrapeEvent:  58%|█████▊    | 453/787 [00:09<00:14, 22.73it/s]scrapeEvent:  62%|██████▏   | 490/787 [00:11<00:11, 24.93it/s]scrapeEvent:  63%|██████▎   | 496/787 [00:11<00:11, 25.36it/s]scrapeEvent:  65%|██████▌   | 513/787 [00:12<00:11, 24.21it/s]scrapeEvent:  70%|███████   | 552/787 [00:12<00:06, 35.66it/s]scrapeEvent:  72%|███████▏  | 564/787 [00:12<00:05, 38.41it/s]scrapeEvent:  74%|███████▍  | 581/787 [00:13<00:05, 34.60it/s]scrapeEvent:  75%|███████▌  | 592/787 [00:14<00:06, 29.21it/s]scrapeEvent:  76%|███████▌  | 598/787 [00:14<00:08, 22.95it/s]scrapeEvent:  77%|███████▋  | 603/787 [00:15<00:10, 17.47it/s]scrapeEvent:  77%|███████▋  | 609/787 [00:15<00:09, 18.96it/s]scrapeEvent:  81%|████████  | 634/787 [00:15<00:04, 34.43it/s]scrapeEvent:  81%|████████▏ | 640/787 [00:16<00:05, 24.72it/s]scrapeEvent:  82%|████████▏ | 645/787 [00:16<00:05, 24.74it/s]scrapeEvent:  83%|████████▎ | 650/787 [00:17<00:05, 24.77it/s]scrapeEvent:  83%|████████▎ | 654/787 [00:17<00:06, 19.75it/s]scrapeEvent:  84%|████████▎ | 658/787 [00:18<00:09, 13.73it/s]scrapeEvent:  84%|████████▍ | 662/787 [00:18<00:08, 14.73it/s]scrapeEvent:  87%|████████▋ | 681/787 [00:18<00:03, 29.74it/s]scrapeEvent:  89%|████████▉ | 700/787 [00:18<00:02, 43.44it/s]scrapeEvent:  90%|█████████ | 712/787 [00:18<00:01, 47.20it/s]scrapeEvent:  92%|█████████▏| 726/787 [00:19<00:01, 52.77it/s]scrapeEvent:  96%|█████████▌| 754/787 [00:19<00:00, 75.37it/s]scrapeEvent:  97%|█████████▋| 763/787 [00:19<00:00, 67.03it/s]scrapeEvent:  98%|█████████▊| 771/787 [00:19<00:00, 46.45it/s]scrapeEvent: 100%|█████████▉| 784/787 [00:20<00:00, 35.29it/s]scrapeEvent: 100%|██████████| 787/787 [00:20<00:00, 38.49it/s]
 |Event result report                                                               |
 | Domain                         | Event pages | Successful | Failed | Ratio |
 | ------------------------------ | ----------- | ---------- | ------ | ----- |
 | clubzwei.reservix.de           | 1           | 0          | 1      | 0.00  |
 | eventim-light.com              | 15          | 0          | 15     | 0.00  |
 | eventim.de                     | 4           | 0          | 4      | 0.00  |
-| feierwerk.de                   | 75          | 63         | 12     | 0.84  |
+| feierwerk.de                   | 76          | 64         | 12     | 0.84  |
 | heppel-ettlich.de              | 9           | 0          | 9      | 0.00  |
 | import-export.cc               | 94          | 94         | 0      | 1.00  |
 | instagram.com                  | 1           | 0          | 1      | 0.00  |
 | jerryvsan.shop                 | 1           | 0          | 1      | 0.00  |
 | loveyourartist.com             | 32          | 30         | 2      | 0.94  |
 | milla-club.de                  | 149         | 146        | 3      | 0.98  |
-| muffatwerk.de                  | 289         | 289        | 0      | 1.00  |
+| muffatwerk.de                  | 291         | 291        | 0      | 1.00  |
 | schoneberg.de                  | 1           | 0          | 1      | 0.00  |
 | shop.lebensnah-bestattungen.de | 1           | 0          | 1      | 0.00  |
 | standup-republic.de            | 1           | 0          | 1      | 0.00  |
@@ -36,21 +36,21 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | tickettailor.com               | 2           | 0          | 2      | 0.00  |
 | universe.com                   | 1           | 0          | 1      | 0.00  |
 | yesticket.org                  | 21          | 20         | 1      | 0.95  |
-| Total                          | 784         | 729        | 55     | 0.93  |
+| Total                          | 787         | 732        | 55     | 0.93  |
 |EventPageScraper function report (failed / calls)                                 |
 | Domain                         | Event pages | _artist_items | artist | date    | event  | location | type   | _info | _info_lines | _root |
 | ------------------------------ | ----------- | ------------- | ------ | ------- | ------ | -------- | ------ | ----- | ----------- | ----- |
 | clubzwei.reservix.de           | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | eventim.de                     | 4           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | eventim-light.com              | 15          | -             | -      | -       | -      | -        | -      | -     | -           | -     |
-| feierwerk.de                   | 75          | 0 / 12        | 2 / 12 | 12 / 12 | 5 / 12 | 0 / 12   | 0 / 12 | -     | -           | -     |
+| feierwerk.de                   | 76          | 0 / 13        | 3 / 13 | 12 / 13 | 5 / 13 | 0 / 13   | 0 / 13 | -     | -           | -     |
 | heppel-ettlich.de              | 9           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | import-export.cc               | 94          | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0  | 0 / 0    | 0 / 0  | 0 / 0 | -           | 0 / 0 |
 | instagram.com                  | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | jerryvsan.shop                 | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | loveyourartist.com             | 32          | 0 / 0         | 0 / 0  | 2 / 2   | 0 / 4  | 0 / 2    | 2 / 2  | -     | -           | -     |
 | milla-club.de                  | 149         | 0 / 1         | 0 / 1  | 1 / 1   | 0 / 2  | 1 / 1    | 0 / 1  | -     | -           | -     |
-| muffatwerk.de                  | 289         | 0 / 0         | 0 / 0  | 0 / 1   | 0 / 1  | 0 / 1    | 0 / 1  | -     | 0 / 2       | -     |
+| muffatwerk.de                  | 291         | 0 / 1         | 0 / 1  | 0 / 2   | 0 / 3  | 0 / 2    | 0 / 2  | -     | 0 / 4       | -     |
 | schoneberg.de                  | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | shop.lebensnah-bestattungen.de | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | standup-republic.de            | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
@@ -58,7 +58,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | tickettailor.com               | 2           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | universe.com                   | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
 | yesticket.org                  | 21          | 0 / 0         | 0 / 0  | 1 / 1   | 2 / 2  | 1 / 1    | 1 / 1  | 2 / 2 | -           | -     |
-| Total                          | 784         | 0 / 13        | 2 / 13 | 16 / 17 | 7 / 21 | 2 / 17   | 3 / 17 | 2 / 2 | 0 / 2       | 0 / 0 |
+| Total                          | 787         | 0 / 15        | 3 / 15 | 16 / 19 | 7 / 24 | 2 / 19   | 3 / 19 | 2 / 2 | 0 / 4       | 0 / 0 |
 |Failed event URLs and functions                                                   |
 | Event URL                                                                                                               | Failed functions                   |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -93,6 +93,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd095                                  | EventPageScraper.__init__          |
 | https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0f7                                  | EventPageScraper.__init__          |
 | https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0fe                                  | EventPageScraper.__init__          |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/23-10-2026_prosecci-kollektiv                                    | artist                             |
 | https://www.feierwerk.de/konzert-kulturprogramm/detail/24-10-2026_devado                                                | date                               |
 | https://www.feierwerk.de/konzert-kulturprogramm/detail/24-10-2026_mittelstufenparty-alle-infos                          | artist, date, event                |
 | https://www.feierwerk.de/konzert-kulturprogramm/detail/25-10-2026_nofx-film                                             | artist, date, event                |
@@ -181,86 +182,210 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 |   1 100.0% No event scraper configured for domain: un                            |
 |failed links:                                                                     |
 |https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1|
-addArtist:   0%|          | 0/729 [00:00<?, ?it/s]addArtist: 100%|██████████| 729/729 [00:00<00:00, 153983.36it/s]
-addTracksOfArtist:   0%|          | 0/729 [00:00<?, ?it/s]addTracksOfArtist:   1%|▏         | 10/729 [00:00<00:45, 15.70it/s]addTracksOfArtist:   2%|▏         | 15/729 [00:01<01:10, 10.20it/s]addTracksOfArtist:   7%|▋         | 50/729 [00:01<00:20, 33.70it/s]addTracksOfArtist:   9%|▉         | 69/729 [00:02<00:25, 25.62it/s]addTracksOfArtist:  11%|█         | 79/729 [00:03<00:26, 24.44it/s]addTracksOfArtist:  12%|█▏        | 84/729 [00:04<00:36, 17.78it/s]addTracksOfArtist:  17%|█▋        | 127/729 [00:05<00:22, 27.18it/s]addTracksOfArtist:  23%|██▎       | 171/729 [00:05<00:13, 41.46it/s]addTracksOfArtist:  25%|██▍       | 182/729 [00:06<00:15, 35.01it/s]addTracksOfArtist:  26%|██▌       | 191/729 [00:06<00:17, 31.29it/s]addTracksOfArtist:  28%|██▊       | 204/729 [00:07<00:22, 23.86it/s]addTracksOfArtist:  30%|███       | 222/729 [00:08<00:18, 26.92it/s]addTracksOfArtist:  35%|███▍      | 254/729 [00:08<00:12, 37.17it/s]addTracksOfArtist:  40%|███▉      | 288/729 [00:09<00:09, 46.22it/s]addTracksOfArtist:  40%|████      | 294/729 [00:09<00:11, 37.33it/s]addTracksOfArtist:  67%|██████▋   | 489/729 [00:10<00:01, 143.20it/s]addTracksOfArtist:  69%|██████▉   | 505/729 [00:10<00:02, 96.31it/s] addTracksOfArtist:  72%|███████▏  | 524/729 [00:11<00:02, 75.75it/s]addTracksOfArtist:  75%|███████▌  | 549/729 [00:11<00:02, 64.88it/s]addTracksOfArtist:  83%|████████▎ | 604/729 [00:12<00:01, 77.56it/s]addTracksOfArtist:  88%|████████▊ | 643/729 [00:12<00:01, 79.69it/s]addTracksOfArtist: 100%|██████████| 729/729 [00:12<00:00, 56.48it/s]
-addTrackListOfEvents:   0%|          | 0/729 [00:00<?, ?it/s]addTrackListOfEvents: 100%|██████████| 729/729 [00:00<00:00, 14747.88it/s]
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Max Retries reached
+addArtist:   0%|          | 0/732 [00:00<?, ?it/s]addArtist:  57%|█████▋    | 417/732 [00:00<00:00, 554.28it/s]addArtist: 100%|██████████| 732/732 [00:00<00:00, 969.80it/s]
+addTracksOfArtist:   0%|          | 0/732 [00:00<?, ?it/s]addTracksOfArtist:   1%|▏         | 10/732 [00:00<00:43, 16.45it/s]addTracksOfArtist:   2%|▏         | 15/732 [00:01<01:12,  9.89it/s]addTracksOfArtist:   7%|▋         | 50/732 [00:01<00:21, 32.17it/s]addTracksOfArtist:  10%|▉         | 70/732 [00:02<00:24, 26.59it/s]addTracksOfArtist:  11%|█         | 81/732 [00:03<00:25, 25.51it/s]addTracksOfArtist:  11%|█▏        | 84/732 [00:03<00:32, 20.21it/s]addTracksOfArtist:  17%|█▋        | 127/732 [00:05<00:27, 21.81it/s]addTracksOfArtist:  23%|██▎       | 170/732 [00:06<00:16, 33.51it/s]addTracksOfArtist:  25%|██▌       | 183/732 [00:07<00:19, 28.29it/s]addTracksOfArtist:  26%|██▌       | 190/732 [00:07<00:20, 25.84it/s]addTracksOfArtist:  28%|██▊       | 204/732 [00:08<00:26, 19.93it/s]addTracksOfArtist:  30%|███       | 221/732 [00:09<00:22, 23.12it/s]addTracksOfArtist:  35%|███▍      | 254/732 [00:09<00:15, 30.56it/s]addTracksOfArtist:  39%|███▉      | 289/732 [00:10<00:11, 40.19it/s]addTracksOfArtist:  40%|████      | 294/732 [00:10<00:14, 30.28it/s]addTracksOfArtist:  67%|██████▋   | 490/732 [00:11<00:01, 123.38it/s]addTracksOfArtist:  69%|██████▉   | 506/732 [00:11<00:02, 98.98it/s] addTracksOfArtist:  72%|███████▏  | 525/732 [00:12<00:02, 84.44it/s]addTracksOfArtist:  75%|███████▌  | 551/732 [00:12<00:02, 76.15it/s]addTracksOfArtist:  83%|████████▎ | 606/732 [00:13<00:01, 77.86it/s]addTracksOfArtist:  88%|████████▊ | 645/732 [00:14<00:01, 73.30it/s]addTracksOfArtist: 100%|██████████| 732/732 [00:14<00:00, 51.94it/s]
+addTrackListOfEvents:   0%|          | 0/732 [00:00<?, ?it/s]addTrackListOfEvents: 100%|██████████| 732/732 [00:00<00:00, 14474.30it/s]
+
+
+|CREATE_Log                                                         261022-19_00_21|
+|Work directory: /home/a163/Repositories/musikfrosch                               |
+|Running script: _main_.py                                                         |
+|Spotify token                                                 |nam:Musik|typ: user|
+|Event result report                                                               |
+| Domain                         | Event pages | Successful | Failed | Ratio |
+| ------------------------------ | ----------- | ---------- | ------ | ----- |
+| clubzwei.reservix.de           | 1           | 0          | 1      | 0.00  |
+| eventim-light.com              | 15          | 0          | 15     | 0.00  |
+| eventim.de                     | 4           | 0          | 4      | 0.00  |
+| feierwerk.de                   | 76          | 64         | 12     | 0.84  |
+| heppel-ettlich.de              | 9           | 0          | 9      | 0.00  |
+| import-export.cc               | 94          | 94         | 0      | 1.00  |
+| instagram.com                  | 1           | 0          | 1      | 0.00  |
+| jerryvsan.shop                 | 1           | 0          | 1      | 0.00  |
+| loveyourartist.com             | 32          | 30         | 2      | 0.94  |
+| milla-club.de                  | 149         | 146        | 3      | 0.98  |
+| muffatwerk.de                  | 291         | 291        | 0      | 1.00  |
+| schoneberg.de                  | 1           | 0          | 1      | 0.00  |
+| shop.lebensnah-bestattungen.de | 1           | 0          | 1      | 0.00  |
+| standup-republic.de            | 1           | 0          | 1      | 0.00  |
+| strom-muc.de                   | 87          | 87         | 0      | 1.00  |
+| tickettailor.com               | 2           | 0          | 2      | 0.00  |
+| universe.com                   | 1           | 0          | 1      | 0.00  |
+| yesticket.org                  | 21          | 20         | 1      | 0.95  |
+| Total                          | 787         | 732        | 55     | 0.93  |
+|EventPageScraper function report (failed / calls)                                 |
+| Domain                         | Event pages | _artist_items | artist | date    | event  | location | type   | _info | _info_lines | _root |
+| ------------------------------ | ----------- | ------------- | ------ | ------- | ------ | -------- | ------ | ----- | ----------- | ----- |
+| clubzwei.reservix.de           | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| eventim.de                     | 4           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| eventim-light.com              | 15          | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| feierwerk.de                   | 76          | 0 / 13        | 3 / 13 | 12 / 13 | 5 / 13 | 0 / 13   | 0 / 13 | -     | -           | -     |
+| heppel-ettlich.de              | 9           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| import-export.cc               | 94          | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0  | 0 / 0    | 0 / 0  | 0 / 0 | -           | 0 / 0 |
+| instagram.com                  | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| jerryvsan.shop                 | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| loveyourartist.com             | 32          | 0 / 0         | 0 / 0  | 2 / 2   | 0 / 4  | 0 / 2    | 2 / 2  | -     | -           | -     |
+| milla-club.de                  | 149         | 0 / 1         | 0 / 1  | 1 / 1   | 0 / 2  | 1 / 1    | 0 / 1  | -     | -           | -     |
+| muffatwerk.de                  | 291         | 0 / 1         | 0 / 1  | 0 / 2   | 0 / 3  | 0 / 2    | 0 / 2  | -     | 0 / 4       | -     |
+| schoneberg.de                  | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| shop.lebensnah-bestattungen.de | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| standup-republic.de            | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| strom-muc.de                   | 87          | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0  | 0 / 0    | 0 / 0  | -     | -           | 0 / 0 |
+| tickettailor.com               | 2           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| universe.com                   | 1           | -             | -      | -       | -      | -        | -      | -     | -           | -     |
+| yesticket.org                  | 21          | 0 / 0         | 0 / 0  | 1 / 1   | 2 / 2  | 1 / 1    | 1 / 1  | 2 / 2 | -           | -     |
+| Total                          | 787         | 0 / 15        | 3 / 15 | 16 / 19 | 7 / 24 | 2 / 19   | 3 / 19 | 2 / 2 | 0 / 4       | 0 / 0 |
+|Failed event URLs and functions                                                   |
+| Event URL                                                                                                               | Failed functions                   |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| https://clubzwei.reservix.de/p/reservix/group/550628                                                                    | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/Lyhre                                                                               | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/duo                                                                                 | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/egb8                                                                                | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/ep5w                                                                                | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/nprk                                                                                | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/osjh                                                                                | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/pfr0                                                                                | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/index.php/w736                                                                                | EventPageScraper.__init__          |
+| https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php                                                | EventPageScraper.__init__          |
+| https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY                | date, type                         |
+| https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG             | date, type                         |
+| https://milla-club.de/munich-garage-fest/                                                                               | date, location                     |
+| https://shop.lebensnah-bestattungen.de/catalog/tickets/96261-tickets-eric-wrede-fee-vogel-heppel-ettlich-muenchen-am-26 | EventPageScraper.__init__          |
+| -11-2026                                                                                                                |                                    |
+| https://standup-republic.de/events/dicke-luft-live-die-stand-up-and-podcast-tour_6207                                   | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd059                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd05e                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd063                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd068                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd06d                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd072                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd077                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd07c                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd081                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd086                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd08b                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd090                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd095                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0f7                                  | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0fe                                  | EventPageScraper.__init__          |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/23-10-2026_prosecci-kollektiv                                    | artist                             |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/24-10-2026_devado                                                | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/24-10-2026_mittelstufenparty-alle-infos                          | artist, date, event                |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/25-10-2026_nofx-film                                             | artist, date, event                |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/26-10-2026_krallice                                              | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/26-10-2026_the-clockworks                                        | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/27-10-2026_eleine                                                | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/27-10-2026_walking-on-rivers                                     | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-10-2026_the-cloverhearts                                      | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-10-2026_threshold                                             | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-10-2026_wyngs                                                 | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/29-10-2026_acres-wayside-what-lies-below-lifespark               | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/29-10-2026_philipp-lumpp                                         | date                               |
+| https://www.instagram.com/thenonessentials.ev/                                                                          | EventPageScraper.__init__          |
+| https://www.jerryvsan.shop/raffle                                                                                       | EventPageScraper.__init__          |
+| https://www.schoneberg.de/veranstaltung/anna-erhard-24-03-27-muenchen-heppel-ettlich/                                   | EventPageScraper.__init__          |
+| https://www.tickettailor.com/events/improvstarone/2434286                                                               | EventPageScraper.__init__          |
+| https://www.tickettailor.com/events/improvstarone/2437030                                                               | EventPageScraper.__init__          |
+| https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1                                            | EventPageScraper.__init__          |
+| https://www.yesticket.org/events/de/dynamic-duos-munich-improv-duos/                                                    | _info, date, event, location, type |
+|                                                                                  |
+|MILLA rows suc=0 fail=1 attempts=1 skip_cap=0 skip_cd=2 prot_streak=1 quarantine=0|
+|fail reasons: clubzwei (n=1)                                                      |
+|   1 100.0% No event scraper configured for domain: cl                            |
+|failed links:                                                                     |
+|https://clubzwei.reservix.de/p/reservix/group/550628|
+|fail reasons: eventim_light (n=15)                                                |
+|  15 100.0% No event scraper configured for domain: ev                            |
+|failed links:                                                                     |
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd059|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd05e|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd063|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd068|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd06d|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd072|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd077|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd07c|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd081|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd086|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd08b|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd090|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd095|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0f7|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0fe|
+|fail reasons: heppel_ettlich (n=9)                                                |
+|   9 100.0% No event scraper configured for domain: he                            |
+|failed links:                                                                     |
+|https://heppel-ettlich.de/index.php/Lyhre|
+|https://heppel-ettlich.de/index.php/duo|
+|https://heppel-ettlich.de/index.php/egb8|
+|https://heppel-ettlich.de/index.php/ep5w|
+|https://heppel-ettlich.de/index.php/nprk|
+|https://heppel-ettlich.de/index.php/osjh|
+|https://heppel-ettlich.de/index.php/pfr0|
+|https://heppel-ettlich.de/index.php/w736|
+|https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php|
+|fail reasons: instagram (n=1)                                                     |
+|   1 100.0% No event scraper configured for domain: in                            |
+|failed links:                                                                     |
+|https://www.instagram.com/thenonessentials.ev/|
+|fail reasons: jerryvsan (n=1)                                                     |
+|   1 100.0% No event scraper configured for domain: je                            |
+|failed links:                                                                     |
+|https://www.jerryvsan.shop/raffle|
+|fail reasons: milla_club (n=1)                                                    |
+|   1 100.0% Milla Club suspicious date: parsed event d                            |
+|failed links:                                                                     |
+|https://milla-club.de/munich-garage-fest/|
+|fail reasons: schoneberg (n=1)                                                    |
+|   1 100.0% No event scraper configured for domain: sc                            |
+|failed links:                                                                     |
+|https://www.schoneberg.de/veranstaltung/anna-erhard-24-03-27-muenchen-heppel-ettlich/|
+|fail reasons: shop (n=1)                                                          |
+|   1 100.0% No event scraper configured for domain: sh                            |
+|failed links:                                                                     |
+|https://shop.lebensnah-bestattungen.de/catalog/tickets/96261-tickets-eric-wrede-fee-vogel-heppel-ettlich-muenchen-am-26-11-2026|
+|fail reasons: standup_republic (n=1)                                              |
+|   1 100.0% No event scraper configured for domain: st                            |
+|failed links:                                                                     |
+|https://standup-republic.de/events/dicke-luft-live-die-stand-up-and-podcast-tour_6207|
+|fail reasons: tickettailor (n=2)                                                  |
+|   2 100.0% No event scraper configured for domain: ti                            |
+|failed links:                                                                     |
+|https://www.tickettailor.com/events/improvstarone/2434286|
+|https://www.tickettailor.com/events/improvstarone/2437030|
+|fail reasons: universe (n=1)                                                      |
+|   1 100.0% No event scraper configured for domain: un                            |
+|failed links:                                                                     |
+|https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1|
 |Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
-urllib3.exceptions.ResponseError: too many 502 error responses
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/adapters.py", line 696, in send
-    resp = conn.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 974, in urlopen
-    return self.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 974, in urlopen
-    return self.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 974, in urlopen
-    return self.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 964, in urlopen
-    retries = retries.increment(method, url, response=response, _pool=self)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/util.py", line 180, in increment
-    return super().increment(method,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 555, in increment
-    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/playlists/7DEvQMLjJRdoLIHeTtPdTt (Caused by ResponseError('too many 502 error responses'))
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 266, in _internal_call
-    response = self._session.request(
-               ^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/sessions.py", line 651, in request
-    resp = self.send(prep, **send_kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/sessions.py", line 784, in send
-    r = adapter.send(request, **kwargs)
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/adapters.py", line 720, in send
-    raise RetryError(e, request=request)
-requests.exceptions.RetryError: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/playlists/7DEvQMLjJRdoLIHeTtPdTt (Caused by ResponseError('too many 502 error responses'))
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/a163/Repositories/musikfrosch/_main_.py", line 131, in <module>
-    pm.update_playlist(SP_a163, row_list)
-  File "/home/a163/Repositories/musikfrosch/playlist_manager.py", line 84, in update_playlist
-    SPOT.playlist_change_details(playlist = row_['PlaylistID'], description_ = str(row_['Description']))
-  File "/home/a163/Repositories/musikfrosch/spotypys.py", line 171, in playlist_change_details
-    self.sp.playlist_change_details(playlist, name=name_, public=public_, collaborative=collaborative_, description=f"{description_}  {str_1:<52s}{now_str}")
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 1146, in playlist_change_details
-    return self._put(
-           ^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 336, in _put
-    return self._internal_call("PUT", url, payload, kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 305, in _internal_call
-    raise SpotifyException(
-spotipy.exceptions.SpotifyException: http status: 429, code: -1 - /v1/playlists/7DEvQMLjJRdoLIHeTtPdTt:
- Max Retries, reason: too many 502 error responses
-ERROR: _main_.py failed with exit code 1; continuing with next Python job.
-Run completed with one or more errors.
-2026-10-22 14:17:20+0200 Current time:      Thu 22 Oct 14:17:20 CEST 2026
-2026-10-22 14:17:20+0200 Selected window:   provided wake-up timestamp
-2026-10-22 14:17:20+0200 Next wake-up time: Thu 22 Oct 18:49:00 CEST 2026
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
+|weekend | MusikFrosch_MUC updated                   | rm:    0|add:    0|sta: DONE|
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
+|early bird | MusikFrosch_MUC updated                | rm:    0|add:    0|sta: DONE|
+|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
+|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
+|finished                                                      |len:  732|sta: DONE|
+|Feierwerk | MusikFrosch_MUC updated                 | rm:    0|add:    0|sta: DONE|
+The MusikFrosch is saying that some legends will be hitting the feierwerk stage in the next 3 months. Don't miss out!  Last update:                                        2026/10/22, 19:01:12
+|M<3 | MusikFrosch_MUC updated                       | rm:    0|add:    0|sta: DONE|
+Who's rocking the stage next at Milla Club?  Last update:                                        2026/10/22, 19:01:19
+|weekend | MusikFrosch_MUC updated                   | rm:    0|add:    0|sta: DONE|
+Ready to make the weekend epic? Check out the live gigs in Munich.  Last update:                                        2026/10/22, 19:01:26
+|last minute | MusikFrosch_MUC updated               | rm:    0|add:    0|sta: DONE|
+Hunting for incredible music tonight? Dive into this collection of today’s and tomorrow’s live gigs in Munich.  Last update:                                        2026/10/22, 19:01:32
+|early bird | MusikFrosch_MUC updated                | rm:    0|add:    0|sta: DONE|
+Ensure you get your pre-sales for live acts in Munich! Here’s a collection of gigs happening two months from now.  Last update:                                        2026/10/22, 19:01:38
+|MusikFrosch_MC_test updated                         | rm:    0|add:    0|sta: DONE|
+test_palylist  Last update:                                        2026/10/22, 19:01:46
+|MusikFrosch_MUC updated                             | rm:    0|add:    0|sta: DONE|
+Get ready for the live gigs coming up in Munich throughout the month.  Last update:                                        2026/10/22, 19:01:53
+|finished                                                      |len:  732|sta: DONE|
+/home/a163/Repositories/musikfrosch/LOG/261022-19_00_21_a163_log.txt
+Run completed successfully.
+2026-10-22 19:01:59+0200 Current time:      Thu 22 Oct 19:01:59 CEST 2026
+2026-10-22 19:01:59+0200 Selected window:   provided wake-up timestamp
+2026-10-22 19:01:59+0200 Next wake-up time: Thu 22 Oct 21:55:00 CEST 2026
 rtcwake: assuming RTC uses UTC ...
-rtcwake: wakeup using /dev/rtc0 at Thu Oct 22 16:49:00 2026
-2026-10-22 14:17:20+0200 rtcwake completed successfully.
+rtcwake: wakeup using /dev/rtc0 at Thu Oct 22 19:55:00 2026
+2026-10-22 19:01:59+0200 rtcwake completed successfully.
