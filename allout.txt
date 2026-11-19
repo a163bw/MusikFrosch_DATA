@@ -1,7 +1,7 @@
 
 ===== MusikFrosch =====
-Run ID:             2026-11-19_19-49-13
-Current date/time:  Thu 19 Nov 19:49:13 CET 2026
+Run ID:             2026-11-19_22-06-10
+Current date/time:  Thu 19 Nov 22:06:10 CET 2026
 Host:               edge13-1
 User:               a163
 Project:            /home/a163/Repositories/musikfrosch
@@ -9,12 +9,12 @@ Data:               /home/a163/Repositories/MusikFrosch_DATA
 Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 
 ===== Running _main_.py =====
-|CREATE_Log                                                         261119-19_49_15|
+|CREATE_Log                                                         261119-22_06_13|
 |Work directory: /home/a163/Repositories/musikfrosch                               |
 |Running script: _main_.py                                                         |
 |Spotify token                                                 |nam:Musik|typ: user|
-scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:00<00:05,  1.06it/s]scrapeSide:  29%|██▊       | 2/7 [00:01<00:03,  1.32it/s]scrapeSide:  43%|████▎     | 3/7 [00:06<00:10,  2.54s/it]scrapeSide:  57%|█████▋    | 4/7 [00:07<00:05,  1.95s/it]scrapeSide:  71%|███████▏  | 5/7 [00:08<00:03,  1.76s/it]scrapeSide:  86%|████████▌ | 6/7 [00:11<00:01,  1.99s/it]scrapeSide: 100%|██████████| 7/7 [00:12<00:00,  1.71s/it]scrapeSide: 100%|██████████| 7/7 [00:12<00:00,  1.75s/it]
-scrapeEvent:   0%|          | 0/924 [00:00<?, ?it/s]scrapeEvent:   0%|          | 1/924 [00:00<12:04,  1.27it/s]scrapeEvent:   1%|          | 5/924 [00:02<07:28,  2.05it/s]scrapeEvent:   2%|▏         | 21/924 [00:04<02:44,  5.50it/s]scrapeEvent:   3%|▎         | 30/924 [00:05<02:37,  5.67it/s]scrapeEvent:   4%|▍         | 37/924 [00:06<02:12,  6.68it/s]scrapeEvent:   5%|▌         | 47/924 [00:07<02:01,  7.25it/s]scrapeEvent:   6%|▌         | 55/924 [00:09<02:11,  6.60it/s]scrapeEvent:   8%|▊         | 72/924 [00:10<01:49,  7.80it/s]scrapeEvent:   8%|▊         | 78/924 [00:12<02:09,  6.53it/s]scrapeEvent:   9%|▉         | 84/924 [00:13<02:24,  5.80it/s]scrapeEvent:   9%|▉         | 87/924 [00:15<03:09,  4.41it/s]scrapeEvent:  12%|█▏        | 114/924 [00:16<01:19, 10.24it/s]scrapeEvent:  15%|█▍        | 136/924 [00:17<00:58, 13.45it/s]scrapeEvent:  16%|█▌        | 144/924 [00:17<00:58, 13.32it/s]scrapeEvent:  17%|█▋        | 161/924 [00:19<00:57, 13.28it/s]scrapeEvent:  18%|█▊        | 165/924 [00:19<01:03, 11.87it/s]scrapeEvent:  18%|█▊        | 169/924 [00:21<01:43,  7.27it/s]scrapeEvent:  21%|██        | 190/924 [00:22<01:01, 11.97it/s]scrapeEvent:  21%|██        | 192/924 [00:23<01:14,  9.78it/s]scrapeEvent:  23%|██▎       | 215/924 [00:23<00:46, 15.13it/s]scrapeEvent:  24%|██▎       | 219/924 [00:25<01:08, 10.31it/s]scrapeEvent:  25%|██▌       | 233/924 [00:25<00:52, 13.14it/s]scrapeEvent:  26%|██▌       | 236/924 [00:27<01:26,  7.99it/s]scrapeEvent:  27%|██▋       | 248/924 [00:29<01:29,  7.58it/s]scrapeEvent:  28%|██▊       | 256/924 [00:29<01:22,  8.11it/s]scrapeEvent:  28%|██▊       | 260/924 [00:30<01:14,  8.92it/s]scrapeEvent:  28%|██▊       | 262/924 [00:33<02:57,  3.72it/s]scrapeEvent:  32%|███▏      | 297/924 [00:34<00:54, 11.46it/s]scrapeEvent:  33%|███▎      | 304/924 [00:34<00:55, 11.21it/s]scrapeEvent:  34%|███▍      | 312/924 [00:35<00:54, 11.27it/s]scrapeEvent:  35%|███▌      | 327/924 [00:36<00:42, 14.04it/s]scrapeEvent:  36%|███▌      | 333/924 [00:36<00:48, 12.29it/s]scrapeEvent:  40%|████      | 370/924 [00:38<00:32, 17.15it/s]scrapeEvent:  40%|████      | 373/924 [00:38<00:34, 15.75it/s]scrapeEvent:  41%|████      | 375/924 [00:39<00:42, 12.96it/s]scrapeEvent:  41%|████      | 377/924 [00:40<00:54, 10.13it/s]scrapeEvent:  43%|████▎     | 398/924 [00:41<00:46, 11.38it/s]scrapeEvent:  44%|████▍     | 409/924 [00:43<00:57,  8.88it/s]scrapeEvent:  49%|████▊     | 450/924 [00:44<00:24, 19.36it/s]scrapeEvent:  49%|████▉     | 454/924 [00:45<00:33, 14.18it/s]scrapeEvent:  51%|█████     | 470/924 [00:47<00:36, 12.46it/s]scrapeEvent:  51%|█████     | 472/924 [00:47<00:44, 10.05it/s]scrapeEvent:  51%|█████▏    | 475/924 [00:49<01:01,  7.24it/s]scrapeEvent:  53%|█████▎    | 487/924 [00:50<00:50,  8.59it/s]scrapeEvent:  55%|█████▍    | 506/924 [00:51<00:34, 12.19it/s]scrapeEvent:  58%|█████▊    | 536/924 [00:51<00:20, 18.85it/s]scrapeEvent:  59%|█████▉    | 549/924 [00:52<00:17, 20.99it/s]scrapeEvent:  60%|██████    | 557/924 [00:53<00:28, 12.91it/s]scrapeEvent:  61%|██████▏   | 566/924 [00:54<00:29, 12.03it/s]scrapeEvent:  63%|██████▎   | 586/924 [00:55<00:19, 16.94it/s]scrapeEvent:  66%|██████▋   | 614/924 [00:56<00:14, 22.03it/s]scrapeEvent:  67%|██████▋   | 617/924 [00:57<00:21, 14.21it/s]scrapeEvent:  69%|██████▊   | 634/924 [00:58<00:17, 16.63it/s]scrapeEvent:  73%|███████▎  | 675/924 [00:59<00:12, 19.55it/s]scrapeEvent:  76%|███████▌  | 702/924 [01:00<00:08, 25.71it/s]scrapeEvent:  77%|███████▋  | 711/924 [01:01<00:10, 21.17it/s]scrapeEvent:  77%|███████▋  | 716/924 [01:01<00:10, 19.94it/s]scrapeEvent:  81%|████████▏ | 753/924 [01:03<00:08, 19.50it/s]scrapeEvent:  82%|████████▏ | 756/924 [01:04<00:10, 16.19it/s]scrapeEvent:  86%|████████▌ | 793/924 [01:04<00:05, 25.50it/s]scrapeEvent:  87%|████████▋ | 806/924 [01:05<00:05, 22.77it/s]scrapeEvent:  88%|████████▊ | 809/924 [01:06<00:07, 15.67it/s]scrapeEvent:  89%|████████▊ | 818/924 [01:07<00:06, 16.82it/s]scrapeEvent:  90%|█████████ | 833/924 [01:07<00:04, 18.80it/s]scrapeEvent:  91%|█████████ | 839/924 [01:08<00:05, 15.47it/s]scrapeEvent:  92%|█████████▏| 849/924 [01:08<00:04, 17.30it/s]scrapeEvent:  93%|█████████▎| 860/924 [01:09<00:03, 16.62it/s]scrapeEvent:  95%|█████████▍| 877/924 [01:10<00:02, 19.63it/s]scrapeEvent:  97%|█████████▋| 895/924 [01:10<00:01, 22.02it/s]scrapeEvent:  97%|█████████▋| 899/924 [01:12<00:01, 13.54it/s]scrapeEvent:  98%|█████████▊| 908/924 [01:13<00:01, 12.65it/s]scrapeEvent:  99%|█████████▉| 914/924 [01:13<00:00, 11.33it/s]scrapeEvent:  99%|█████████▉| 919/924 [01:14<00:00, 10.58it/s]scrapeEvent: 100%|██████████| 924/924 [01:14<00:00, 12.42it/s]
+scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:00<00:04,  1.27it/s]scrapeSide:  29%|██▊       | 2/7 [00:01<00:03,  1.41it/s]scrapeSide:  43%|████▎     | 3/7 [00:06<00:10,  2.51s/it]scrapeSide:  57%|█████▋    | 4/7 [00:07<00:06,  2.22s/it]scrapeSide:  71%|███████▏  | 5/7 [00:09<00:03,  1.90s/it]scrapeSide:  86%|████████▌ | 6/7 [00:11<00:02,  2.15s/it]scrapeSide: 100%|██████████| 7/7 [00:12<00:00,  1.83s/it]scrapeSide: 100%|██████████| 7/7 [00:13<00:00,  1.86s/it]
+scrapeEvent:   0%|          | 0/927 [00:00<?, ?it/s]scrapeEvent:   1%|▏         | 13/927 [00:01<02:03,  7.38it/s]scrapeEvent:   2%|▏         | 22/927 [00:03<02:10,  6.95it/s]scrapeEvent:   4%|▍         | 37/927 [00:03<01:23, 10.71it/s]scrapeEvent:   5%|▌         | 50/927 [00:04<01:11, 12.32it/s]scrapeEvent:  10%|▉         | 91/927 [00:05<00:40, 20.51it/s]scrapeEvent:  10%|█         | 95/927 [00:06<00:46, 17.81it/s]scrapeEvent:  11%|█▏        | 106/927 [00:07<00:46, 17.56it/s]scrapeEvent:  12%|█▏        | 110/927 [00:07<00:57, 14.24it/s]scrapeEvent:  13%|█▎        | 116/927 [00:08<00:56, 14.31it/s]scrapeEvent:  17%|█▋        | 158/927 [00:09<00:34, 22.13it/s]scrapeEvent:  18%|█▊        | 163/927 [00:10<00:40, 18.65it/s]scrapeEvent:  18%|█▊        | 167/927 [00:10<00:47, 15.84it/s]scrapeEvent:  19%|█▉        | 180/927 [00:11<00:46, 16.00it/s]scrapeEvent:  21%|██        | 194/927 [00:12<00:46, 15.69it/s]scrapeEvent:  24%|██▍       | 224/927 [00:14<00:42, 16.73it/s]scrapeEvent:  28%|██▊       | 255/927 [00:15<00:35, 19.04it/s]scrapeEvent:  29%|██▉       | 268/927 [00:16<00:41, 16.00it/s]scrapeEvent:  30%|██▉       | 274/927 [00:18<00:59, 10.96it/s]scrapeEvent:  31%|███       | 283/927 [00:20<01:12,  8.87it/s]scrapeEvent:  32%|███▏      | 296/927 [00:21<01:08,  9.16it/s]scrapeEvent:  32%|███▏      | 301/927 [00:22<01:05,  9.52it/s]scrapeEvent:  34%|███▎      | 312/927 [00:22<00:55, 11.15it/s]scrapeEvent:  34%|███▍      | 316/927 [00:23<00:55, 11.04it/s]scrapeEvent:  34%|███▍      | 318/927 [00:24<01:30,  6.70it/s]scrapeEvent:  36%|███▋      | 338/927 [00:25<00:50, 11.62it/s]scrapeEvent:  37%|███▋      | 345/927 [00:27<01:12,  8.05it/s]scrapeEvent:  40%|████      | 371/927 [00:28<00:50, 10.93it/s]scrapeEvent:  42%|████▏     | 387/927 [00:29<00:42, 12.84it/s]scrapeEvent:  43%|████▎     | 401/927 [00:30<00:33, 15.60it/s]scrapeEvent:  44%|████▎     | 405/927 [00:31<00:43, 12.13it/s]scrapeEvent:  44%|████▍     | 408/927 [00:31<00:50, 10.29it/s]scrapeEvent:  45%|████▍     | 417/927 [00:32<00:44, 11.42it/s]scrapeEvent:  46%|████▌     | 426/927 [00:34<01:00,  8.29it/s]scrapeEvent:  48%|████▊     | 445/927 [00:35<00:49,  9.76it/s]scrapeEvent:  49%|████▊     | 450/927 [00:36<00:50,  9.44it/s]scrapeEvent:  50%|█████     | 464/927 [00:36<00:35, 13.09it/s]scrapeEvent:  52%|█████▏    | 486/927 [00:37<00:21, 20.26it/s]scrapeEvent:  53%|█████▎    | 490/927 [00:37<00:27, 15.91it/s]scrapeEvent:  54%|█████▍    | 500/927 [00:39<00:42, 10.12it/s]scrapeEvent:  58%|█████▊    | 536/927 [00:40<00:20, 19.51it/s]scrapeEvent:  59%|█████▉    | 545/927 [00:40<00:20, 18.89it/s]scrapeEvent:  60%|█████▉    | 554/927 [00:41<00:22, 16.86it/s]scrapeEvent:  61%|██████    | 567/927 [00:43<00:27, 13.26it/s]scrapeEvent:  62%|██████▏   | 574/927 [00:43<00:28, 12.30it/s]scrapeEvent:  62%|██████▏   | 576/927 [00:45<00:42,  8.17it/s]scrapeEvent:  68%|██████▊   | 634/927 [00:45<00:11, 24.74it/s]scrapeEvent:  69%|██████▉   | 640/927 [00:46<00:13, 21.30it/s]scrapeEvent:  70%|██████▉   | 646/927 [00:47<00:14, 19.65it/s]scrapeEvent:  72%|███████▏  | 663/927 [00:48<00:16, 16.27it/s]scrapeEvent:  73%|███████▎  | 680/927 [00:48<00:11, 22.00it/s]scrapeEvent:  75%|███████▌  | 696/927 [00:49<00:10, 22.52it/s]scrapeEvent:  77%|███████▋  | 713/927 [00:50<00:11, 17.96it/s]scrapeEvent:  78%|███████▊  | 723/927 [00:51<00:11, 17.74it/s]scrapeEvent:  80%|████████  | 742/927 [00:51<00:08, 22.80it/s]scrapeEvent:  80%|████████  | 746/927 [00:53<00:13, 13.25it/s]scrapeEvent:  81%|████████  | 750/927 [00:54<00:18,  9.32it/s]scrapeEvent:  82%|████████▏ | 756/927 [00:55<00:19,  8.96it/s]scrapeEvent:  82%|████████▏ | 759/927 [00:55<00:20,  8.17it/s]scrapeEvent:  82%|████████▏ | 761/927 [00:56<00:27,  6.13it/s]scrapeEvent:  83%|████████▎ | 770/927 [00:57<00:18,  8.70it/s]scrapeEvent:  84%|████████▎ | 776/927 [00:58<00:24,  6.26it/s]scrapeEvent:  84%|████████▍ | 780/927 [00:59<00:22,  6.46it/s]scrapeEvent:  85%|████████▌ | 790/927 [01:01<00:21,  6.35it/s]scrapeEvent:  86%|████████▌ | 795/927 [01:01<00:19,  6.72it/s]scrapeEvent:  87%|████████▋ | 803/927 [01:02<00:14,  8.80it/s]scrapeEvent:  89%|████████▉ | 823/927 [01:03<00:10,  9.91it/s]scrapeEvent:  90%|█████████ | 837/927 [01:05<00:09,  9.35it/s]scrapeEvent:  91%|█████████ | 839/927 [01:06<00:11,  7.92it/s]scrapeEvent:  91%|█████████ | 840/927 [01:06<00:12,  6.78it/s]scrapeEvent:  91%|█████████▏| 848/927 [01:07<00:10,  7.66it/s]scrapeEvent:  92%|█████████▏| 852/927 [01:08<00:10,  7.04it/s]scrapeEvent:  95%|█████████▌| 882/927 [01:09<00:02, 16.88it/s]scrapeEvent:  95%|█████████▌| 884/927 [01:09<00:03, 13.48it/s]scrapeEvent:  96%|█████████▌| 888/927 [01:11<00:05,  7.17it/s]scrapeEvent:  96%|█████████▋| 894/927 [01:12<00:04,  7.74it/s]scrapeEvent:  99%|█████████▉| 919/927 [01:13<00:00, 10.80it/s]scrapeEvent: 100%|██████████| 927/927 [01:13<00:00, 12.53it/s]
 |Event result report                                                               |
 | Domain                         | Event pages | Successful | Failed | Ratio |
 | ------------------------------ | ----------- | ---------- | ------ | ----- |
@@ -22,11 +22,11 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | eventim-light.com              | 9           | 0          | 9      | 0.00  |
 | eventim.de                     | 1           | 0          | 1      | 0.00  |
 | feierwerk.de                   | 106         | 97         | 9      | 0.92  |
-| heppel-ettlich.de              | 8           | 7          | 1      | 0.88  |
-| import-export.cc               | 119         | 117        | 2      | 0.98  |
+| heppel-ettlich.de              | 9           | 8          | 1      | 0.89  |
+| import-export.cc               | 119         | 119        | 0      | 1.00  |
 | jerryvsan.shop                 | 1           | 0          | 1      | 0.00  |
-| loveyourartist.com             | 39          | 37         | 2      | 0.95  |
-| milla-club.de                  | 183         | 160        | 23     | 0.87  |
+| loveyourartist.com             | 41          | 39         | 2      | 0.95  |
+| milla-club.de                  | 183         | 159        | 24     | 0.87  |
 | muffatwerk.de                  | 326         | 326        | 0      | 1.00  |
 | schoneberg.de                  | 1           | 0          | 1      | 0.00  |
 | shop.copilot.events            | 1           | 0          | 1      | 0.00  |
@@ -36,7 +36,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | tickettailor.com               | 1           | 0          | 1      | 0.00  |
 | universe.com                   | 2           | 0          | 2      | 0.00  |
 | yesticket.org                  | 21          | 20         | 1      | 0.95  |
-| Total                          | 924         | 869        | 55     | 0.94  |
+| Total                          | 927         | 873        | 54     | 0.94  |
 |EventPageScraper function report (failed / calls)                                 |
 | Domain                         | Event pages | _artist_items | artist | date    | event   | location | type    | _event_data | _info  | _info_lines | _root  |
 | ------------------------------ | ----------- | ------------- | ------ | ------- | ------- | -------- | ------- | ----------- | ------ | ----------- | ------ |
@@ -44,11 +44,11 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | eventim.de                     | 1           | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0   | 0 / 0    | 0 / 0   | 0 / 0       | -      | -           | -      |
 | eventim-light.com              | 9           | 0 / 0         | 0 / 0  | 9 / 9   | 9 / 9   | 9 / 9    | 0 / 9   | 0 / 36      | -      | -           | -      |
 | feierwerk.de                   | 106         | 0 / 18        | 2 / 18 | 9 / 18  | 10 / 18 | 0 / 18   | 0 / 18  | -           | -      | -           | -      |
-| heppel-ettlich.de              | 8           | 0 / 6         | 0 / 6  | 1 / 8   | 1 / 10  | 1 / 8    | 0 / 8   | 0 / 47      | -      | -           | -      |
-| import-export.cc               | 119         | 0 / 7         | 2 / 7  | 2 / 9   | 2 / 9   | 0 / 9    | 2 / 9   | -           | 0 / 18 | -           | 8 / 34 |
+| heppel-ettlich.de              | 9           | 0 / 6         | 0 / 6  | 1 / 9   | 1 / 11  | 1 / 9    | 0 / 9   | 0 / 51      | -      | -           | -      |
+| import-export.cc               | 119         | 0 / 7         | 0 / 7  | 0 / 9   | 0 / 9   | 0 / 9    | 0 / 9   | -           | 0 / 18 | -           | 0 / 34 |
 | jerryvsan.shop                 | 1           | 0 / 0         | 0 / 0  | 1 / 1   | 1 / 1   | 1 / 1    | 0 / 1   | 0 / 4       | -      | -           | -      |
-| loveyourartist.com             | 39          | 0 / 1         | 0 / 1  | 2 / 9   | 0 / 19  | 9 / 9    | 9 / 9   | -           | -      | -           | -      |
-| milla-club.de                  | 183         | 0 / 2         | 0 / 2  | 0 / 2   | 0 / 4   | 0 / 2    | 0 / 2   | -           | -      | -           | -      |
+| loveyourartist.com             | 41          | 0 / 1         | 0 / 1  | 2 / 11  | 0 / 23  | 11 / 11  | 11 / 11 | -           | -      | -           | -      |
+| milla-club.de                  | 183         | 0 / 1         | 0 / 1  | 0 / 1   | 0 / 2   | 0 / 1    | 0 / 1   | -           | -      | -           | -      |
 | muffatwerk.de                  | 326         | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0   | 0 / 0    | 0 / 0   | -           | -      | 0 / 0       | -      |
 | schoneberg.de                  | 1           | 0 / 1         | 0 / 1  | 1 / 1   | 2 / 2   | 1 / 1    | 0 / 1   | 0 / 6       | -      | -           | -      |
 | shop.lebensnah-bestattungen.de | 2           | -             | -      | -       | -       | -        | -       | -           | -      | -           | -      |
@@ -57,20 +57,20 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | tickettailor.com               | 1           | 0 / 0         | 0 / 0  | 1 / 1   | 1 / 1   | 1 / 1    | 0 / 1   | 0 / 4       | -      | -           | -      |
 | universe.com                   | 2           | 0 / 0         | 0 / 0  | 2 / 2   | 2 / 2   | 2 / 2    | 0 / 2   | 0 / 8       | -      | -           | -      |
 | yesticket.org                  | 21          | 0 / 0         | 0 / 0  | 1 / 1   | 2 / 2   | 1 / 1    | 1 / 1   | -           | 2 / 2  | -           | -      |
-| Total                          | 924         | 0 / 43        | 4 / 43 | 30 / 70 | 31 / 94 | 34 / 70  | 12 / 78 | 0 / 109     | 2 / 20 | 0 / 0       | 8 / 74 |
+| Total                          | 927         | 0 / 42        | 2 / 42 | 28 / 72 | 29 / 97 | 36 / 72  | 12 / 80 | 0 / 113     | 2 / 20 | 0 / 0       | 0 / 74 |
 |Failed event URLs and functions                                                   |
 | Event URL                                                                                                               | Failed functions                   |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | https://clubzwei.reservix.de/p/reservix/group/550628                                                                    | date, event, location              |
 | https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php                                                | date, event, location              |
-| https://import-export.cc/event/matrigal/                                                                                | _root, artist, date, event, type   |
-| https://import-export.cc/event/seferia-2/                                                                               | _root, artist, date, event, type   |
+| https://loveyourartist.com/de/events/heppels-pop-up-chor-mimi-munchen-ECBTXI3                                           | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/auserder-reihe-9-33-munchen-EOIICA2             | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/corner-chor-zusam-munchen-E9C31OB               | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EDEF3PY          | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EFQJ3SS          | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EPKR7AM          | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EUKYGVI          | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/heppels-pop-up-chor-mimi-munchen-EI3AJSA        | location, type                     |
 | https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/keils-literaturrausch-munchen-E6QJOVU           | location, type                     |
 | https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY                | date, location, type               |
 | https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG             | date, location, type               |
@@ -115,7 +115,7 @@ Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 | https://www.universe.com/events/yannick-de-la-peche-danke-mama-tickets-NV845W                                           | date, event, location              |
 | https://www.yesticket.org/events/de/dynamic-duos-munich-improv-duos/                                                    | _info, date, event, location, type |
 |                                                                                  |
-|MILLA rows suc=2 fail=0 attempts=2 skip_cap=0 skip_cd=23 prot_streak=0 quarantine=|
+|MILLA rows suc=1 fail=0 attempts=1 skip_cap=0 skip_cd=24 prot_streak=0 quarantine=|
 |fail reasons: clubzwei (n=1)                                                      |
 |   1 100.0% No structured event date and title found                              |
 |failed links:                                                                     |
@@ -166,9 +166,9 @@ Traceback (most recent call last):
 TypeError: can't compare offset-naive and offset-aware datetimes
 ERROR: _main_.py failed with exit code 1; continuing with next Python job.
 Run completed with one or more errors.
-2026-11-19 19:50:43+0100 Current time:      Thu 19 Nov 19:50:43 CET 2026
-2026-11-19 19:50:43+0100 Selected window:   provided wake-up timestamp
-2026-11-19 19:50:43+0100 Next wake-up time: Thu 19 Nov 21:55:00 CET 2026
+2026-11-19 22:07:41+0100 Current time:      Thu 19 Nov 22:07:41 CET 2026
+2026-11-19 22:07:41+0100 Selected window:   provided wake-up timestamp
+2026-11-19 22:07:41+0100 Next wake-up time: Fri 20 Nov 10:52:00 CET 2026
 rtcwake: assuming RTC uses UTC ...
-rtcwake: wakeup using /dev/rtc0 at Thu Nov 19 20:55:00 2026
-2026-11-19 19:50:43+0100 rtcwake completed successfully.
+rtcwake: wakeup using /dev/rtc0 at Fri Nov 20 09:52:00 2026
+2026-11-19 22:07:41+0100 rtcwake completed successfully.
