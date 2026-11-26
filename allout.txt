@@ -1,7 +1,7 @@
 
 ===== MusikFrosch =====
-Run ID:             2026-11-26_18-47-08
-Current date/time:  Thu 26 Nov 18:47:08 CET 2026
+Run ID:             2026-11-26_22-06-10
+Current date/time:  Thu 26 Nov 22:06:10 CET 2026
 Host:               edge13-1
 User:               a163
 Project:            /home/a163/Repositories/musikfrosch
@@ -9,101 +9,188 @@ Data:               /home/a163/Repositories/MusikFrosch_DATA
 Python:             /home/a163/Repositories/musikfrosch/.venv/bin/python
 
 ===== Running _main_.py =====
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-Your application has reached a rate/request limit. Retry will occur after: 0 s
-|CREATE_Log                                                         261126-18_47_10|
+|CREATE_Log                                                         261126-22_06_12|
 |Work directory: /home/a163/Repositories/musikfrosch                               |
 |Running script: _main_.py                                                         |
+|Spotify token                                                 |nam:Musik|typ: user|
+scrapeSide:   0%|          | 0/7 [00:00<?, ?it/s]scrapeSide:  14%|█▍        | 1/7 [00:01<00:06,  1.03s/it]scrapeSide:  29%|██▊       | 2/7 [00:01<00:04,  1.20it/s]scrapeSide:  43%|████▎     | 3/7 [00:06<00:09,  2.50s/it]scrapeSide:  57%|█████▋    | 4/7 [00:07<00:05,  1.95s/it]scrapeSide:  71%|███████▏  | 5/7 [00:08<00:03,  1.69s/it]scrapeSide:  86%|████████▌ | 6/7 [00:10<00:01,  1.90s/it]scrapeSide: 100%|██████████| 7/7 [00:12<00:00,  1.74s/it]scrapeSide: 100%|██████████| 7/7 [00:12<00:00,  1.75s/it]
+scrapeEvent:   0%|          | 0/947 [00:00<?, ?it/s]scrapeEvent:   1%|▏         | 14/947 [00:00<00:53, 17.45it/s]scrapeEvent:   2%|▏         | 17/947 [00:02<02:41,  5.76it/s]scrapeEvent:   2%|▏         | 20/947 [00:04<04:06,  3.77it/s]scrapeEvent:   2%|▏         | 21/947 [00:04<04:59,  3.09it/s]scrapeEvent:   3%|▎         | 33/947 [00:05<02:14,  6.79it/s]scrapeEvent:   5%|▍         | 43/947 [00:07<02:28,  6.10it/s]scrapeEvent:   5%|▌         | 52/947 [00:08<02:02,  7.28it/s]scrapeEvent:   7%|▋         | 63/947 [00:08<01:40,  8.84it/s]scrapeEvent:  10%|▉         | 91/947 [00:10<01:08, 12.53it/s]scrapeEvent:  10%|▉         | 94/947 [00:13<02:13,  6.40it/s]scrapeEvent:  12%|█▏        | 109/947 [00:15<01:55,  7.29it/s]scrapeEvent:  12%|█▏        | 113/947 [00:16<02:02,  6.79it/s]scrapeEvent:  13%|█▎        | 121/947 [00:17<02:04,  6.61it/s]scrapeEvent:  13%|█▎        | 122/947 [00:19<03:03,  4.49it/s]scrapeEvent:  13%|█▎        | 124/947 [00:19<03:23,  4.05it/s]scrapeEvent:  13%|█▎        | 127/947 [00:20<03:21,  4.06it/s]scrapeEvent:  15%|█▍        | 142/947 [00:22<02:29,  5.37it/s]scrapeEvent:  15%|█▌        | 144/947 [00:24<03:10,  4.22it/s]scrapeEvent:  16%|█▌        | 147/947 [00:24<03:10,  4.20it/s]scrapeEvent:  16%|█▌        | 152/947 [00:25<02:31,  5.24it/s]scrapeEvent:  17%|█▋        | 165/947 [00:26<01:39,  7.89it/s]scrapeEvent:  18%|█▊        | 168/947 [00:26<01:47,  7.25it/s]scrapeEvent:  19%|█▉        | 180/947 [00:28<01:38,  7.75it/s]scrapeEvent:  19%|█▉        | 184/947 [00:28<01:34,  8.09it/s]scrapeEvent:  20%|█▉        | 185/947 [00:29<02:05,  6.05it/s]scrapeEvent:  20%|█▉        | 189/947 [00:30<01:59,  6.32it/s]scrapeEvent:  21%|██▏       | 203/947 [00:30<01:03, 11.75it/s]scrapeEvent:  23%|██▎       | 219/947 [00:32<01:12, 10.07it/s]scrapeEvent:  25%|██▍       | 236/947 [00:32<00:51, 13.73it/s]scrapeEvent:  26%|██▋       | 249/947 [00:33<00:42, 16.33it/s]scrapeEvent:  31%|███       | 289/947 [00:35<00:34, 19.34it/s]scrapeEvent:  31%|███       | 293/947 [00:35<00:38, 16.78it/s]scrapeEvent:  33%|███▎      | 316/947 [00:36<00:27, 23.28it/s]scrapeEvent:  36%|███▌      | 337/947 [00:36<00:24, 25.40it/s]scrapeEvent:  36%|███▌      | 341/947 [00:38<00:40, 14.85it/s]scrapeEvent:  37%|███▋      | 349/947 [00:38<00:41, 14.43it/s]scrapeEvent:  38%|███▊      | 358/947 [00:40<00:57, 10.16it/s]scrapeEvent:  38%|███▊      | 360/947 [00:40<00:57, 10.15it/s]scrapeEvent:  39%|███▊      | 366/947 [00:42<01:18,  7.37it/s]scrapeEvent:  39%|███▉      | 370/947 [00:43<01:20,  7.20it/s]scrapeEvent:  39%|███▉      | 373/947 [00:43<01:13,  7.86it/s]scrapeEvent:  40%|████      | 381/947 [00:44<01:05,  8.66it/s]scrapeEvent:  41%|████      | 384/947 [00:45<01:37,  5.79it/s]scrapeEvent:  41%|████      | 389/947 [00:47<02:05,  4.46it/s]scrapeEvent:  43%|████▎     | 403/947 [00:48<01:22,  6.63it/s]scrapeEvent:  43%|████▎     | 411/947 [00:48<01:04,  8.37it/s]scrapeEvent:  44%|████▍     | 419/947 [00:49<01:00,  8.79it/s]scrapeEvent:  45%|████▍     | 422/947 [00:50<01:05,  7.96it/s]scrapeEvent:  47%|████▋     | 443/947 [00:50<00:34, 14.61it/s]scrapeEvent:  47%|████▋     | 447/947 [00:51<00:39, 12.52it/s]scrapeEvent:  49%|████▉     | 465/947 [00:52<00:35, 13.70it/s]scrapeEvent:  50%|█████     | 478/947 [00:53<00:30, 15.43it/s]scrapeEvent:  51%|█████▏    | 487/947 [00:53<00:31, 14.57it/s]scrapeEvent:  54%|█████▍    | 513/947 [00:54<00:21, 20.26it/s]scrapeEvent:  56%|█████▌    | 528/947 [00:55<00:25, 16.50it/s]scrapeEvent:  58%|█████▊    | 552/947 [00:57<00:26, 15.08it/s]scrapeEvent:  64%|██████▎   | 603/947 [00:58<00:13, 25.69it/s]scrapeEvent:  65%|██████▌   | 618/947 [01:00<00:16, 19.57it/s]scrapeEvent:  66%|██████▌   | 621/947 [01:00<00:19, 16.32it/s]scrapeEvent:  66%|██████▌   | 626/947 [01:01<00:22, 14.20it/s]scrapeEvent:  67%|██████▋   | 638/947 [01:02<00:25, 12.22it/s]scrapeEvent:  68%|██████▊   | 640/947 [01:03<00:30, 10.11it/s]scrapeEvent:  71%|███████   | 668/947 [01:05<00:22, 12.44it/s]scrapeEvent:  71%|███████   | 673/947 [01:06<00:28,  9.63it/s]scrapeEvent:  74%|███████▍  | 705/947 [01:07<00:15, 16.13it/s]scrapeEvent:  75%|███████▍  | 710/947 [01:08<00:17, 13.72it/s]scrapeEvent:  76%|███████▌  | 718/947 [01:09<00:16, 13.53it/s]scrapeEvent:  76%|███████▌  | 722/947 [01:09<00:19, 11.58it/s]scrapeEvent:  76%|███████▋  | 724/947 [01:11<00:32,  6.89it/s]scrapeEvent:  78%|███████▊  | 736/947 [01:12<00:23,  8.80it/s]scrapeEvent:  78%|███████▊  | 738/947 [01:13<00:29,  7.17it/s]scrapeEvent:  80%|███████▉  | 754/947 [01:16<00:32,  5.93it/s]scrapeEvent:  81%|████████  | 763/947 [01:17<00:30,  6.10it/s]scrapeEvent:  82%|████████▏ | 775/947 [01:18<00:22,  7.72it/s]scrapeEvent:  83%|████████▎ | 785/947 [01:19<00:21,  7.60it/s]scrapeEvent:  86%|████████▌ | 811/947 [01:20<00:10, 12.75it/s]scrapeEvent:  86%|████████▌ | 813/947 [01:20<00:10, 12.56it/s]scrapeEvent:  86%|████████▌ | 815/947 [01:22<00:16,  7.89it/s]scrapeEvent:  87%|████████▋ | 822/947 [01:24<00:20,  6.16it/s]scrapeEvent:  88%|████████▊ | 829/947 [01:24<00:16,  7.26it/s]scrapeEvent:  90%|████████▉ | 848/947 [01:26<00:11,  8.99it/s]scrapeEvent:  90%|████████▉ | 851/947 [01:28<00:16,  5.71it/s]scrapeEvent:  91%|█████████ | 859/947 [01:30<00:17,  5.15it/s]scrapeEvent:  92%|█████████▏| 871/947 [01:30<00:10,  7.50it/s]scrapeEvent:  92%|█████████▏| 873/947 [01:32<00:15,  4.71it/s]scrapeEvent:  93%|█████████▎| 876/947 [01:33<00:14,  4.83it/s]scrapeEvent:  93%|█████████▎| 878/947 [01:35<00:20,  3.35it/s]scrapeEvent:  95%|█████████▌| 904/947 [01:35<00:04, 10.03it/s]scrapeEvent:  97%|█████████▋| 922/947 [01:36<00:01, 14.73it/s]scrapeEvent:  99%|█████████▊| 934/947 [01:38<00:01,  8.97it/s]scrapeEvent:  99%|█████████▉| 940/947 [01:40<00:01,  6.94it/s]scrapeEvent: 100%|█████████▉| 945/947 [01:41<00:00,  7.13it/s]scrapeEvent: 100%|██████████| 947/947 [01:41<00:00,  9.36it/s]
+|Event result report                                                               |
+| Domain                         | Event pages | Successful | Failed | Ratio |
+| ------------------------------ | ----------- | ---------- | ------ | ----- |
+| clubzwei.reservix.de           | 1           | 0          | 1      | 0.00  |
+| eventim-light.com              | 8           | 0          | 8      | 0.00  |
+| eventim.de                     | 1           | 0          | 1      | 0.00  |
+| feierwerk.de                   | 106         | 97         | 9      | 0.92  |
+| heppel-ettlich.de              | 8           | 7          | 1      | 0.88  |
+| import-export.cc               | 125         | 125        | 0      | 1.00  |
+| jerryvsan.shop                 | 1           | 0          | 1      | 0.00  |
+| loveyourartist.com             | 45          | 42         | 3      | 0.93  |
+| luckypunch-comedyclub.de       | 1           | 0          | 1      | 0.00  |
+| milla-club.de                  | 188         | 160        | 28     | 0.85  |
+| muffatwerk.de                  | 326         | 326        | 0      | 1.00  |
+| schoneberg.de                  | 1           | 0          | 1      | 0.00  |
+| shop.copilot.events            | 1           | 0          | 1      | 0.00  |
+| shop.lebensnah-bestattungen.de | 1           | 0          | 1      | 0.00  |
+| strom-muc.de                   | 107         | 107        | 0      | 1.00  |
+| tickets.fabirommel.com         | 2           | 2          | 0      | 1.00  |
+| tickets.gisbertzuknyphausen.de | 1           | 0          | 1      | 0.00  |
+| tickettailor.com               | 1           | 0          | 1      | 0.00  |
+| universe.com                   | 2           | 0          | 2      | 0.00  |
+| yesticket.org                  | 21          | 20         | 1      | 0.95  |
+| Total                          | 947         | 886        | 61     | 0.94  |
+|EventPageScraper function report (failed / calls)                                 |
+| Domain                       | Event pages | _artist_items | artist | date    | event    | location | type    | _event_data | _info  | _info_lines | _root   |
+| ---------------------------- | ----------- | ------------- | ------ | ------- | -------- | -------- | ------- | ----------- | ------ | ----------- | ------- |
+| clubzwei.reservix.de         | 1           | 0 / 0         | 0 / 0  | 1 / 1   | 1 / 1    | 1 / 1    | 0 / 1   | 0 / 4       | -      | -           | -       |
+| eventim.de                   | 1           | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0    | 0 / 0    | 0 / 0   | 0 / 0       | -      | -           | -       |
+| eventim-light.com            | 8           | 0 / 0         | 0 / 0  | 8 / 8   | 8 / 8    | 8 / 8    | 0 / 8   | 0 / 32      | -      | -           | -       |
+| feierwerk.de                 | 106         | 0 / 18        | 1 / 18 | 9 / 18  | 8 / 18   | 0 / 18   | 0 / 18  | -           | -      | -           | -       |
+| heppel-ettlich.de            | 8           | 0 / 5         | 0 / 5  | 1 / 8   | 1 / 10   | 1 / 8    | 0 / 8   | 0 / 45      | -      | -           | -       |
+| import-export.cc             | 125         | 0 / 13        | 0 / 13 | 0 / 15  | 0 / 15   | 0 / 15   | 0 / 15  | -           | 0 / 30 | -           | 0 / 58  |
+| jerryvsan.shop               | 1           | 0 / 0         | 0 / 0  | 1 / 1   | 1 / 1    | 1 / 1    | 0 / 1   | 0 / 4       | -      | -           | -       |
+| loveyourartist.com           | 45          | 0 / 2         | 0 / 2  | 3 / 15  | 0 / 32   | 15 / 15  | 15 / 15 | -           | -      | -           | -       |
+| luckypunch-comedyclub.de     | 1           | -             | -      | -       | -        | -        | -       | -           | -      | -           | -       |
+| milla-club.de                | 188         | 0 / 2         | 0 / 2  | 0 / 2   | 0 / 4    | 0 / 2    | 0 / 2   | -           | -      | -           | -       |
+| muffatwerk.de                | 326         | 0 / 0         | 0 / 0  | 0 / 0   | 0 / 0    | 0 / 0    | 0 / 0   | -           | -      | 0 / 0       | -       |
+| schoneberg.de                | 1           | 0 / 1         | 0 / 1  | 1 / 1   | 2 / 2    | 1 / 1    | 0 / 1   | 0 / 6       | -      | -           | -       |
+| shop.lebensnah-bestattungen. | 2           | -             | -      | -       | -        | -        | -       | -           | -      | -           | -       |
+| de                           |             |               |        |         |          |          |         |             |        |             |         |
+| strom-muc.de                 | 107         | 0 / 13        | 0 / 13 | 0 / 13  | 0 / 26   | 13 / 13  | 0 / 26  | -           | -      | -           | 0 / 65  |
+| tickets.gisbertzuknyphausen. | 3           | -             | -      | -       | -        | -        | -       | -           | -      | -           | -       |
+| de                           |             |               |        |         |          |          |         |             |        |             |         |
+| tickettailor.com             | 1           | 0 / 0         | 0 / 0  | 1 / 1   | 1 / 1    | 1 / 1    | 0 / 1   | 0 / 4       | -      | -           | -       |
+| universe.com                 | 2           | 0 / 0         | 0 / 0  | 2 / 2   | 2 / 2    | 2 / 2    | 0 / 2   | 0 / 8       | -      | -           | -       |
+| yesticket.org                | 21          | 0 / 0         | 0 / 0  | 1 / 1   | 2 / 2    | 1 / 1    | 1 / 1   | -           | 2 / 2  | -           | -       |
+| Total                        | 947         | 0 / 54        | 1 / 54 | 28 / 86 | 26 / 122 | 44 / 86  | 16 / 99 | 0 / 103     | 2 / 32 | 0 / 0       | 0 / 123 |
+|Failed event URLs and functions                                                   |
+| Event URL                                                                                                               | Failed functions                   |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| https://clubzwei.reservix.de/p/reservix/group/550628                                                                    | date, event, location              |
+| https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php                                                | date, event, location              |
+| https://loveyourartist.com/de/events/heppels-pop-up-chor-mimi-munchen-ECBTXI3                                           | location, type                     |
+| https://loveyourartist.com/de/events/two-company-anne-freytag-munchen-E8X7KVG                                           | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/auserder-reihe-9-33-munchen-EOIICA2             | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/corner-chor-zusam-munchen-E9C31OB               | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EDEF3PY          | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EFQJ3SS          | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EPKR7AM          | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/der-gott-des-gemetzels-munchen-EUKYGVI          | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/hanna-sikasa-munchen-EV1134M                    | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/heppels-pop-up-chor-mimi-munchen-EI3AJSA        | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/keils-literaturrausch-munchen-E6QJOVU           | location, type                     |
+| https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/konigs-musik-express-munchen-E9ZKS8V            | location, type                     |
+| https://loveyourartist.com/events/lyhre-dead-concept-munchen-EJHLJRG?ref=db6xu2bx43gk                                   | date, location, type               |
+| https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/ansa-sauermann-keine-munchen-7LAAMY                | date, location, type               |
+| https://loveyourartist.com/profiles/heppel-and-ettlich-BMBZJE/events/paul-sies-ficken-heulen-munchen-32BMWG             | date, location, type               |
+| https://shop.copilot.events/targetconcerts/events/53c754a0-ac55-43ed-895c-6ad275ef71fd                                  | EventPageScraper.__init__          |
+| https://shop.lebensnah-bestattungen.de/catalog/tickets/96261-tickets-eric-wrede-fee-vogel-heppel-ettlich-muenchen-am-26 | date, event, location              |
+| -11-2026                                                                                                                |                                    |
+| https://strom-muc.de/event/ben-caplan/                                                                                  | location                           |
+| https://strom-muc.de/event/dead-pioneers/                                                                               | location                           |
+| https://strom-muc.de/event/haum/                                                                                        | location                           |
+| https://strom-muc.de/event/islandman/                                                                                   | location                           |
+| https://strom-muc.de/event/matt-andersen/                                                                               | location                           |
+| https://strom-muc.de/event/paris-jackson/                                                                               | location                           |
+| https://strom-muc.de/event/pudeldame/                                                                                   | location                           |
+| https://strom-muc.de/event/quicksand/                                                                                   | location                           |
+| https://strom-muc.de/event/robert-jon-the-wreck/                                                                        | location                           |
+| https://strom-muc.de/event/soffie/                                                                                      | location                           |
+| https://strom-muc.de/event/thaler/                                                                                      | location                           |
+| https://strom-muc.de/event/the-black-seeds/                                                                             | location                           |
+| https://strom-muc.de/event/wizthemc-3/                                                                                  | location                           |
+| https://tickets.gisbertzuknyphausen.de/produkte/254-tickets-gisbert-zu-knyphausen-heppel-ettlich-muenchen-am-14-12-2026 | EventPageScraper.__init__          |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd077                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd07c                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd081                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd086                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd08b                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd090                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd095                                  | date, event, location              |
+| https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0f7                                  | date, event, location              |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/01-12-2026_release-your-record-antje-zelnitschek-0               | event                              |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/02-12-2026_reggae-jam                                            | artist, event                      |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/03-12-2026_999                                                   | event                              |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/26-11-2026_alex-henry-foster                                     | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/26-11-2026_yaris                                                 | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/27-11-2026_5ndreas-postrock-festival-tag-1                       | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/27-11-2026_empire-of-giants-cnvx                                 | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/27-11-2026_lostclub                                              | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2026_5ndreas-postrock-festival-tag-2                       | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2026_jan-hegenberg                                         | date                               |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2026_unterwelt                                             | date, event                        |
+| https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2026_wallner-und-die-rax-band                              | date, event                        |
+| https://www.jerryvsan.shop/raffle                                                                                       | date, event, location              |
+| https://www.luckypunch-comedyclub.de/#shows                                                                             | EventPageScraper.__init__          |
+| https://www.schoneberg.de/veranstaltung/anna-erhard-24-03-27-muenchen-heppel-ettlich/                                   | date, event, location              |
+| https://www.tickettailor.com/events/secretshowmunich                                                                    | date, event, location              |
+| https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1                                            | date, event, location              |
+| https://www.universe.com/events/yannick-de-la-peche-danke-mama-tickets-NV845W                                           | date, event, location              |
+| https://www.yesticket.org/events/en/dynamic-duos-munich-improv-duos/                                                    | _info, date, event, location, type |
+|                                                                                  |
+|MILLA rows suc=2 fail=0 attempts=2 skip_cap=0 skip_cd=28 prot_streak=0 quarantine=|
+|fail reasons: clubzwei (n=1)                                                      |
+|   1 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://clubzwei.reservix.de/p/reservix/group/550628|
+|fail reasons: eventim_light (n=8)                                                 |
+|   8 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd077|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd07c|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd081|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd086|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd08b|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd090|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f681acd1414618bcd095|
+|https://www.eventim-light.com/de/a/64bcd4cb18723c0dbb36fbf3/e/6a69f726acd1414618bcd0f7|
+|fail reasons: heppel_ettlich (n=1)                                                |
+|   1 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php|
+|fail reasons: jerryvsan (n=1)                                                     |
+|   1 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://www.jerryvsan.shop/raffle|
+|fail reasons: luckypunch_comedyclub (n=1)                                         |
+|   1 100.0% No event scraper configured for domain: lu                            |
+|failed links:                                                                     |
+|https://www.luckypunch-comedyclub.de/#shows|
+|fail reasons: schoneberg (n=1)                                                    |
+|   1 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://www.schoneberg.de/veranstaltung/anna-erhard-24-03-27-muenchen-heppel-ettlich/|
+|fail reasons: shop (n=2)                                                          |
+|   1  50.0% No event scraper configured for domain: sh                            |
+|   1  50.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://shop.copilot.events/targetconcerts/events/53c754a0-ac55-43ed-895c-6ad275ef71fd|
+|https://shop.lebensnah-bestattungen.de/catalog/tickets/96261-tickets-eric-wrede-fee-vogel-heppel-ettlich-muenchen-am-26-11-2026|
+|fail reasons: tickets (n=1)                                                       |
+|   1 100.0% No event scraper configured for domain: ti                            |
+|failed links:                                                                     |
+|https://tickets.gisbertzuknyphausen.de/produkte/254-tickets-gisbert-zu-knyphausen-heppel-ettlich-muenchen-am-14-12-2026|
+|fail reasons: tickettailor (n=1)                                                  |
+|   1 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://www.tickettailor.com/events/secretshowmunich|
+|fail reasons: universe (n=2)                                                      |
+|   2 100.0% No structured event date and title found                              |
+|failed links:                                                                     |
+|https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-QGCFR1|
+|https://www.universe.com/events/yannick-de-la-peche-danke-mama-tickets-NV845W|
 Traceback (most recent call last):
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 540, in _make_request
-    response = conn.getresponse()
-               ^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connection.py", line 638, in getresponse
-    httplib_response = super().getresponse()
-                       ^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/http/client.py", line 1457, in getresponse
-    response.begin()
-  File "/usr/lib/python3.12/http/client.py", line 336, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/http/client.py", line 297, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/socket.py", line 707, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/ssl.py", line 1252, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/ssl.py", line 1104, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/adapters.py", line 696, in send
-    resp = conn.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 974, in urlopen
-    return self.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 974, in urlopen
-    return self.urlopen(
-           ^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 847, in urlopen
-    retries = retries.increment(
-              ^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/util.py", line 180, in increment
-    return super().increment(method,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/util/retry.py", line 510, in increment
-    raise reraise(type(error), error, _stacktrace)
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/util/util.py", line 39, in reraise
-    raise value
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 793, in urlopen
-    response = self._make_request(
-               ^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 542, in _make_request
-    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 373, in _raise_timeout
-    raise ReadTimeoutError(
-urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/a163/Repositories/musikfrosch/_main_.py", line 39, in <module>
-    current_user = SP_a163.sp.current_user() or {}
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 1314, in current_user
-    return self.me()
-           ^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 1308, in me
-    return self._get("me/")
-           ^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 321, in _get
-    return self._internal_call("GET", url, payload, kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/spotipy/client.py", line 266, in _internal_call
-    response = self._session.request(
-               ^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/sessions.py", line 651, in request
-    resp = self.send(prep, **send_kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/sessions.py", line 784, in send
-    r = adapter.send(request, **kwargs)
+  File "/home/a163/Repositories/musikfrosch/_main_.py", line 56, in <module>
+    cd.scrapeEvent(events, 'FroschData_02')
+  File "/home/a163/Repositories/musikfrosch/class_dictionary.py", line 612, in scrapeEvent
+    and event['date'] < fallback_cutoff
         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/a163/Repositories/musikfrosch/.venv/lib/python3.12/site-packages/requests/adapters.py", line 742, in send
-    raise ReadTimeout(e, request=request)
-requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+TypeError: can't compare offset-naive and offset-aware datetimes
 ERROR: _main_.py failed with exit code 1; continuing with next Python job.
 Run completed with one or more errors.
-2026-11-26 18:47:17+0100 Current time:      Thu 26 Nov 18:47:17 CET 2026
-2026-11-26 18:47:17+0100 Selected window:   provided wake-up timestamp
-2026-11-26 18:47:17+0100 Next wake-up time: Thu 26 Nov 21:55:00 CET 2026
+2026-11-26 22:08:08+0100 Current time:      Thu 26 Nov 22:08:08 CET 2026
+2026-11-26 22:08:08+0100 Selected window:   provided wake-up timestamp
+2026-11-26 22:08:08+0100 Next wake-up time: Fri 27 Nov 11:32:00 CET 2026
 rtcwake: assuming RTC uses UTC ...
-rtcwake: wakeup using /dev/rtc0 at Thu Nov 26 20:55:00 2026
-2026-11-26 18:47:17+0100 rtcwake completed successfully.
+rtcwake: wakeup using /dev/rtc0 at Fri Nov 27 10:32:00 2026
+2026-11-26 22:08:08+0100 rtcwake completed successfully.
